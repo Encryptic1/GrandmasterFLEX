@@ -1,7 +1,7 @@
 # GrandmasterFLEX
 
 <img width=600px src="https://raw.githubusercontent.com/Encryptic1/twitchchess/master/m1.PNG" />
-*************************************************************
+
 **Agent will selfplay | PVC | PVP with board assist**
 
 modded conv2D & Data generator/pgn parcer from git https://github.com/geohot/twitchchess

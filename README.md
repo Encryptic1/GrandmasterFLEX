@@ -3,7 +3,8 @@
 <img width=600px src="https://raw.githubusercontent.com/Encryptic1/twitchchess/master/m1.PNG" />
 Agent will selfplay | PVC | PVP with board assist
 
-## **modded conv2D & Data generator/pgn parcer from git https://github.com/geohot/twitchchess**
+**modded conv2D & Data generator/pgn parcer from git https://github.com/geohot/twitchchess**
+*************************************************************
 - Added more HTML feeback and colorized console, added more exceptions and feedback in waiting.
 - curbed learning rate for larger datasets (adam was getting spikey on batches)
 - trained on grandmaster games to .017% loss rate saved to new net

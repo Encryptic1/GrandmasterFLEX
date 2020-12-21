@@ -47,7 +47,7 @@ you need to make a folder called TrainingGames in the root directory for game du
 *************************************************************
 ## USAGE: 
 
-## ENVIROMENT: 
+**ENVIROMENT:** 
 (this had to use cuda 11.2 with RTX 3090) Python=3.7
 ```
 #check versioning
@@ -80,21 +80,21 @@ Install dependancies:
 pip install -r requirements.txt
 ```
 *************************************************************
-## Building the data (required):
+**Building the data (required):**
 
 You will have to build your own training sets as .npz they are too big to upload 
 Start by grabbing your favorite GM games from https://www.pgnmentor.com/files.html you will need alot of them to get any sort of capable AI
 
 you will have to click on generate training set once you have entered the number of examples to use (defult 10M). The QTwindow will freeze but the shell will report progress (this may take a while depending on your inputs for size)
 *************************************************************
-## Running the application
+**Running the application**
 for (generating dataset/playing/using model/UI)
 ```
 cd dir*
 python grandmaster.py
 ```
 *************************************************************
-## Running a training session 
+**Running a training session**
 - (~ 3mim/ epoch @10M examples. Device: CUDA RTX 3090)
 - you will have to install visdom and initialize it in another shell. This is used to output the win probability and the training loss (there are messages embeded to remind you upon init)
 ```
@@ -106,7 +106,7 @@ dat = np.load("processed/dataset_**********_EX.npz")
 ```
 you will be prompted to enter the number of epochs you want to use in a non decimal int() dtype. The training will commense and you will see "Model trained" when finished.
 *************************************************************
-## Playing the Model:
+**Playing the Model:**
 ```
 python grandmaster.py
 ```

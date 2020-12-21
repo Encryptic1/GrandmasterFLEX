@@ -1,0 +1,10191 @@
+BLACK:
+Final Board:
+[Event "GMFLEX"]
+[Site "local"]
+[Date "2020-12-20 14:39:52.751657"]
+[Round "?"]
+[White "White"]
+[Black "Black"]
+[Result "*"]
+
+*BLACK:
+Final Board:
+[Event "GMFLEX"]
+[Site "local"]
+[Date "2020-12-20 14:39:53.237389"]
+[Round "?"]
+[White "White"]
+[Black "Black"]
+[Result "*"]
+
+*BLACK:
+Final Board:
+[Event "GMFLEX"]
+[Site "local"]
+[Date "2020-12-20 14:42:06.341190"]
+[Round "?"]
+[White "White"]
+[Black "Black"]
+[Result "*"]
+
+*BLACK:
+Final Board:
+[Event "GMFLEX"]
+[Site "local"]
+[Date "2020-12-20 14:42:07.753567"]
+[Round "?"]
+[White "White"]
+[Black "Black"]
+[Result "*"]
+
+*BLACK:
+Final Board:
+[Event "GMFLEX"]
+[Site "local"]
+[Date "2020-12-20 14:42:11.078384"]
+[Round "?"]
+[White "White"]
+[Black "Black"]
+[Result "*"]
+
+*BLACK:
+Final Board:
+[Event "GMFLEX"]
+[Site "local"]
+[Date "2020-12-20 14:47:32.118838"]
+[Round "?"]
+[White "White"]
+[Black "Black"]
+[Result "*"]
+
+*BLACK:
+Final Board:
+[Event "GMFLEX"]
+[Site "local"]
+[Date "2020-12-20 14:48:00.679553"]
+[Round "?"]
+[White "White"]
+[Black "Black"]
+[Result "*"]
+
+*BLACK:
+Final Board:
+[Event "GMFLEX"]
+[Site "local"]
+[Date "2020-12-20 14:48:01.243773"]
+[Round "?"]
+[White "White"]
+[Black "Black"]
+[Result "*"]
+
+*BLACK:
+Final Board:
+[Event "GMFLEX"]
+[Site "local"]
+[Date "2020-12-20 14:48:04.663604"]
+[Round "?"]
+[White "White"]
+[Black "Black"]
+[Result "*"]
+
+*BLACK:
+Final Board:
+[Event "GMFLEX"]
+[Site "local"]
+[Date "2020-12-20 14:48:16.446983"]
+[Round "?"]
+[White "White"]
+[Black "Black"]
+[Result "*"]
+
+*BLACK:
+Final Board:
+[Event "GMFLEX"]
+[Site "local"]
+[Date "2020-12-20 15:16:53.566938"]
+[Round "?"]
+[White "White"]
+[Black "Black"]
+[Result "*"]
+
+*BLACK:
+Final Board:
+[Event "GMFLEX"]
+[Site "local"]
+[Date "2020-12-20 15:17:51.603960"]
+[Round "?"]
+[White "White"]
+[Black "Black"]
+[Result "*"]
+
+*BLACK:
+Final Board:
+[Event "GMFLEX"]
+[Site "local"]
+[Date "2020-12-20 15:21:43.356041"]
+[Round "?"]
+[White "White"]
+[Black "Black"]
+[Result "*"]
+
+*BLACK:
+Final Board:
+[Event "GMFLEX"]
+[Site "local"]
+[Date "2020-12-20 15:21:43.365017"]
+[Round "?"]
+[White "White"]
+[Black "Black"]
+[Result "*"]
+
+*BLACK:
+Final Board:
+[Event "GMFLEX"]
+[Site "local"]
+[Date "2020-12-20 15:21:43.369006"]
+[Round "?"]
+[White "White"]
+[Black "Black"]
+[Result "*"]
+
+*BLACK:
+Final Board:
+[Event "GMFLEX"]
+[Site "local"]
+[Date "2020-12-20 15:21:43.372996"]
+[Round "?"]
+[White "White"]
+[Black "Black"]
+[Result "*"]
+
+*BLACK:
+Final Board:
+[Event "GMFLEX"]
+[Site "local"]
+[Date "2020-12-20 15:21:43.376985"]
+[Round "?"]
+[White "White"]
+[Black "Black"]
+[Result "*"]
+
+*BLACK:
+Final Board:
+[Event "GMFLEX"]
+[Site "local"]
+[Date "2020-12-20 15:21:43.380975"]
+[Round "?"]
+[White "White"]
+[Black "Black"]
+[Result "*"]
+
+*BLACK:
+Final Board:
+[Event "GMFLEX"]
+[Site "local"]
+[Date "2020-12-20 15:21:43.384964"]
+[Round "?"]
+[White "White"]
+[Black "Black"]
+[Result "*"]
+
+*BLACK:
+Final Board:
+[Event "GMFLEX"]
+[Site "local"]
+[Date "2020-12-20 15:21:43.388953"]
+[Round "?"]
+[White "White"]
+[Black "Black"]
+[Result "*"]
+
+*BLACK:
+Final Board:
+[Event "GMFLEX"]
+[Site "local"]
+[Date "2020-12-20 15:21:43.391944"]
+[Round "?"]
+[White "White"]
+[Black "Black"]
+[Result "*"]
+
+*BLACK:
+Final Board:
+[Event "GMFLEX"]
+[Site "local"]
+[Date "2020-12-20 15:21:43.395935"]
+[Round "?"]
+[White "White"]
+[Black "Black"]
+[Result "*"]
+
+*BLACK:
+Final Board:
+[Event "GMFLEX"]
+[Site "local"]
+[Date "2020-12-20 15:21:43.398926"]
+[Round "?"]
+[White "White"]
+[Black "Black"]
+[Result "*"]
+
+*BLACK:
+Final Board:
+[Event "GMFLEX"]
+[Site "local"]
+[Date "2020-12-20 15:21:43.403952"]
+[Round "?"]
+[White "White"]
+[Black "Black"]
+[Result "*"]
+
+*BLACK:
+Final Board:
+[Event "GMFLEX"]
+[Site "local"]
+[Date "2020-12-20 15:21:43.406906"]
+[Round "?"]
+[White "White"]
+[Black "Black"]
+[Result "*"]
+
+*BLACK:
+Final Board:
+[Event "GMFLEX"]
+[Site "local"]
+[Date "2020-12-20 15:21:43.410896"]
+[Round "?"]
+[White "White"]
+[Black "Black"]
+[Result "*"]
+
+*BLACK:
+Final Board:
+[Event "GMFLEX"]
+[Site "local"]
+[Date "2020-12-20 15:21:43.413889"]
+[Round "?"]
+[White "White"]
+[Black "Black"]
+[Result "*"]
+
+*BLACK:
+Final Board:
+[Event "GMFLEX"]
+[Site "local"]
+[Date "2020-12-20 15:21:43.422932"]
+[Round "?"]
+[White "White"]
+[Black "Black"]
+[Result "*"]
+
+*BLACK:
+Final Board:
+[Event "GMFLEX"]
+[Site "local"]
+[Date "2020-12-20 15:21:43.432838"]
+[Round "?"]
+[White "White"]
+[Black "Black"]
+[Result "*"]
+
+*BLACK:
+Final Board:
+[Event "GMFLEX"]
+[Site "local"]
+[Date "2020-12-20 15:21:43.442815"]
+[Round "?"]
+[White "White"]
+[Black "Black"]
+[Result "*"]
+
+*BLACK:
+Final Board:
+[Event "GMFLEX"]
+[Site "local"]
+[Date "2020-12-20 15:21:43.453784"]
+[Round "?"]
+[White "White"]
+[Black "Black"]
+[Result "*"]
+
+*BLACK:
+Final Board:
+[Event "GMFLEX"]
+[Site "local"]
+[Date "2020-12-20 15:21:43.465750"]
+[Round "?"]
+[White "White"]
+[Black "Black"]
+[Result "*"]
+
+*BLACK:
+Final Board:
+[Event "GMFLEX"]
+[Site "local"]
+[Date "2020-12-20 15:21:43.471734"]
+[Round "?"]
+[White "White"]
+[Black "Black"]
+[Result "*"]
+
+*BLACK:
+Final Board:
+[Event "GMFLEX"]
+[Site "local"]
+[Date "2020-12-20 15:21:43.478715"]
+[Round "?"]
+[White "White"]
+[Black "Black"]
+[Result "*"]
+
+*BLACK:
+Final Board:
+[Event "GMFLEX"]
+[Site "local"]
+[Date "2020-12-20 15:21:43.484700"]
+[Round "?"]
+[White "White"]
+[Black "Black"]
+[Result "*"]
+
+*BLACK:
+Final Board:
+[Event "GMFLEX"]
+[Site "local"]
+[Date "2020-12-20 15:21:43.489686"]
+[Round "?"]
+[White "White"]
+[Black "Black"]
+[Result "*"]
+
+*BLACK:
+Final Board:
+[Event "GMFLEX"]
+[Site "local"]
+[Date "2020-12-20 15:21:43.493676"]
+[Round "?"]
+[White "White"]
+[Black "Black"]
+[Result "*"]
+
+*BLACK:
+Final Board:
+[Event "GMFLEX"]
+[Site "local"]
+[Date "2020-12-20 15:21:43.497665"]
+[Round "?"]
+[White "White"]
+[Black "Black"]
+[Result "*"]
+
+*BLACK:
+Final Board:
+[Event "GMFLEX"]
+[Site "local"]
+[Date "2020-12-20 15:21:43.501652"]
+[Round "?"]
+[White "White"]
+[Black "Black"]
+[Result "*"]
+
+*BLACK:
+Final Board:
+[Event "GMFLEX"]
+[Site "local"]
+[Date "2020-12-20 15:21:43.509633"]
+[Round "?"]
+[White "White"]
+[Black "Black"]
+[Result "*"]
+
+*BLACK:
+Final Board:
+[Event "GMFLEX"]
+[Site "local"]
+[Date "2020-12-20 15:21:43.520601"]
+[Round "?"]
+[White "White"]
+[Black "Black"]
+[Result "*"]
+
+*BLACK:
+Final Board:
+[Event "GMFLEX"]
+[Site "local"]
+[Date "2020-12-20 15:21:43.528582"]
+[Round "?"]
+[White "White"]
+[Black "Black"]
+[Result "*"]
+
+*BLACK:
+Final Board:
+[Event "GMFLEX"]
+[Site "local"]
+[Date "2020-12-20 15:21:43.532573"]
+[Round "?"]
+[White "White"]
+[Black "Black"]
+[Result "*"]
+
+*BLACK:
+Final Board:
+[Event "GMFLEX"]
+[Site "local"]
+[Date "2020-12-20 15:21:43.536561"]
+[Round "?"]
+[White "White"]
+[Black "Black"]
+[Result "*"]
+
+*BLACK:
+Final Board:
+[Event "GMFLEX"]
+[Site "local"]
+[Date "2020-12-20 15:21:43.539554"]
+[Round "?"]
+[White "White"]
+[Black "Black"]
+[Result "*"]
+
+*BLACK:
+Final Board:
+[Event "GMFLEX"]
+[Site "local"]
+[Date "2020-12-20 15:21:43.548582"]
+[Round "?"]
+[White "White"]
+[Black "Black"]
+[Result "*"]
+
+*BLACK:
+Final Board:
+[Event "GMFLEX"]
+[Site "local"]
+[Date "2020-12-20 15:21:43.557507"]
+[Round "?"]
+[White "White"]
+[Black "Black"]
+[Result "*"]
+
+*BLACK:
+Final Board:
+[Event "GMFLEX"]
+[Site "local"]
+[Date "2020-12-20 15:21:43.566481"]
+[Round "?"]
+[White "White"]
+[Black "Black"]
+[Result "*"]
+
+*BLACK:
+Final Board:
+[Event "GMFLEX"]
+[Site "local"]
+[Date "2020-12-20 15:21:43.572463"]
+[Round "?"]
+[White "White"]
+[Black "Black"]
+[Result "*"]
+
+*BLACK:
+Final Board:
+[Event "GMFLEX"]
+[Site "local"]
+[Date "2020-12-20 15:21:43.578449"]
+[Round "?"]
+[White "White"]
+[Black "Black"]
+[Result "*"]
+
+*BLACK:
+Final Board:
+[Event "GMFLEX"]
+[Site "local"]
+[Date "2020-12-20 15:21:43.586428"]
+[Round "?"]
+[White "White"]
+[Black "Black"]
+[Result "*"]
+
+*BLACK:
+Final Board:
+[Event "GMFLEX"]
+[Site "local"]
+[Date "2020-12-20 15:21:43.594406"]
+[Round "?"]
+[White "White"]
+[Black "Black"]
+[Result "*"]
+
+*BLACK:
+Final Board:
+[Event "GMFLEX"]
+[Site "local"]
+[Date "2020-12-20 15:21:43.601393"]
+[Round "?"]
+[White "White"]
+[Black "Black"]
+[Result "*"]
+
+*BLACK:
+Final Board:
+[Event "GMFLEX"]
+[Site "local"]
+[Date "2020-12-20 15:21:43.612358"]
+[Round "?"]
+[White "White"]
+[Black "Black"]
+[Result "*"]
+
+*BLACK:
+Final Board:
+[Event "GMFLEX"]
+[Site "local"]
+[Date "2020-12-20 15:21:43.616347"]
+[Round "?"]
+[White "White"]
+[Black "Black"]
+[Result "*"]
+
+*BLACK:
+Final Board:
+[Event "GMFLEX"]
+[Site "local"]
+[Date "2020-12-20 15:21:43.620338"]
+[Round "?"]
+[White "White"]
+[Black "Black"]
+[Result "*"]
+
+*BLACK:
+Final Board:
+[Event "GMFLEX"]
+[Site "local"]
+[Date "2020-12-20 15:21:43.625370"]
+[Round "?"]
+[White "White"]
+[Black "Black"]
+[Result "*"]
+
+*BLACK:
+Final Board:
+[Event "GMFLEX"]
+[Site "local"]
+[Date "2020-12-20 15:21:43.629310"]
+[Round "?"]
+[White "White"]
+[Black "Black"]
+[Result "*"]
+
+*BLACK:
+Final Board:
+[Event "GMFLEX"]
+[Site "local"]
+[Date "2020-12-20 15:21:43.633302"]
+[Round "?"]
+[White "White"]
+[Black "Black"]
+[Result "*"]
+
+*BLACK:
+Final Board:
+[Event "GMFLEX"]
+[Site "local"]
+[Date "2020-12-20 15:21:43.644277"]
+[Round "?"]
+[White "White"]
+[Black "Black"]
+[Result "*"]
+
+*BLACK:
+Final Board:
+[Event "GMFLEX"]
+[Site "local"]
+[Date "2020-12-20 15:21:43.656286"]
+[Round "?"]
+[White "White"]
+[Black "Black"]
+[Result "*"]
+
+*BLACK:
+Final Board:
+[Event "GMFLEX"]
+[Site "local"]
+[Date "2020-12-20 15:21:43.666218"]
+[Round "?"]
+[White "White"]
+[Black "Black"]
+[Result "*"]
+
+*BLACK:
+Final Board:
+[Event "GMFLEX"]
+[Site "local"]
+[Date "2020-12-20 15:21:43.674252"]
+[Round "?"]
+[White "White"]
+[Black "Black"]
+[Result "*"]
+
+*BLACK:
+Final Board:
+[Event "GMFLEX"]
+[Site "local"]
+[Date "2020-12-20 15:21:43.681172"]
+[Round "?"]
+[White "White"]
+[Black "Black"]
+[Result "*"]
+
+*BLACK:
+Final Board:
+[Event "GMFLEX"]
+[Site "local"]
+[Date "2020-12-20 15:21:43.688156"]
+[Round "?"]
+[White "White"]
+[Black "Black"]
+[Result "*"]
+
+*BLACK:
+Final Board:
+[Event "GMFLEX"]
+[Site "local"]
+[Date "2020-12-20 15:21:43.699126"]
+[Round "?"]
+[White "White"]
+[Black "Black"]
+[Result "*"]
+
+*BLACK:
+Final Board:
+[Event "GMFLEX"]
+[Site "local"]
+[Date "2020-12-20 15:21:43.707102"]
+[Round "?"]
+[White "White"]
+[Black "Black"]
+[Result "*"]
+
+*BLACK:
+Final Board:
+[Event "GMFLEX"]
+[Site "local"]
+[Date "2020-12-20 15:21:43.718078"]
+[Round "?"]
+[White "White"]
+[Black "Black"]
+[Result "*"]
+
+*BLACK:
+Final Board:
+[Event "GMFLEX"]
+[Site "local"]
+[Date "2020-12-20 15:21:43.727053"]
+[Round "?"]
+[White "White"]
+[Black "Black"]
+[Result "*"]
+
+*BLACK:
+Final Board:
+[Event "GMFLEX"]
+[Site "local"]
+[Date "2020-12-20 15:21:43.737025"]
+[Round "?"]
+[White "White"]
+[Black "Black"]
+[Result "*"]
+
+*BLACK:
+Final Board:
+[Event "GMFLEX"]
+[Site "local"]
+[Date "2020-12-20 15:21:43.744004"]
+[Round "?"]
+[White "White"]
+[Black "Black"]
+[Result "*"]
+
+*BLACK:
+Final Board:
+[Event "GMFLEX"]
+[Site "local"]
+[Date "2020-12-20 15:21:43.752984"]
+[Round "?"]
+[White "White"]
+[Black "Black"]
+[Result "*"]
+
+*BLACK:
+Final Board:
+[Event "GMFLEX"]
+[Site "local"]
+[Date "2020-12-20 15:21:43.760961"]
+[Round "?"]
+[White "White"]
+[Black "Black"]
+[Result "*"]
+
+*BLACK:
+Final Board:
+[Event "GMFLEX"]
+[Site "local"]
+[Date "2020-12-20 15:21:43.771976"]
+[Round "?"]
+[White "White"]
+[Black "Black"]
+[Result "*"]
+
+*BLACK:
+Final Board:
+[Event "GMFLEX"]
+[Site "local"]
+[Date "2020-12-20 15:21:43.782947"]
+[Round "?"]
+[White "White"]
+[Black "Black"]
+[Result "*"]
+
+*BLACK:
+Final Board:
+[Event "GMFLEX"]
+[Site "local"]
+[Date "2020-12-20 15:21:43.792877"]
+[Round "?"]
+[White "White"]
+[Black "Black"]
+[Result "*"]
+
+*BLACK:
+Final Board:
+[Event "GMFLEX"]
+[Site "local"]
+[Date "2020-12-20 15:21:43.802849"]
+[Round "?"]
+[White "White"]
+[Black "Black"]
+[Result "*"]
+
+*BLACK:
+Final Board:
+[Event "GMFLEX"]
+[Site "local"]
+[Date "2020-12-20 15:21:43.806839"]
+[Round "?"]
+[White "White"]
+[Black "Black"]
+[Result "*"]
+
+*BLACK:
+Final Board:
+[Event "GMFLEX"]
+[Site "local"]
+[Date "2020-12-20 15:21:43.811825"]
+[Round "?"]
+[White "White"]
+[Black "Black"]
+[Result "*"]
+
+*BLACK:
+Final Board:
+[Event "GMFLEX"]
+[Site "local"]
+[Date "2020-12-20 15:21:43.815812"]
+[Round "?"]
+[White "White"]
+[Black "Black"]
+[Result "*"]
+
+*BLACK:
+Final Board:
+[Event "GMFLEX"]
+[Site "local"]
+[Date "2020-12-20 15:21:43.819804"]
+[Round "?"]
+[White "White"]
+[Black "Black"]
+[Result "*"]
+
+*BLACK:
+Final Board:
+[Event "GMFLEX"]
+[Site "local"]
+[Date "2020-12-20 15:21:43.823793"]
+[Round "?"]
+[White "White"]
+[Black "Black"]
+[Result "*"]
+
+*BLACK:
+Final Board:
+[Event "GMFLEX"]
+[Site "local"]
+[Date "2020-12-20 15:21:43.834765"]
+[Round "?"]
+[White "White"]
+[Black "Black"]
+[Result "*"]
+
+*BLACK:
+Final Board:
+[Event "GMFLEX"]
+[Site "local"]
+[Date "2020-12-20 15:21:43.846777"]
+[Round "?"]
+[White "White"]
+[Black "Black"]
+[Result "*"]
+
+*BLACK:
+Final Board:
+[Event "GMFLEX"]
+[Site "local"]
+[Date "2020-12-20 15:21:43.850719"]
+[Round "?"]
+[White "White"]
+[Black "Black"]
+[Result "*"]
+
+*BLACK:
+Final Board:
+[Event "GMFLEX"]
+[Site "local"]
+[Date "2020-12-20 15:21:43.856753"]
+[Round "?"]
+[White "White"]
+[Black "Black"]
+[Result "*"]
+
+*BLACK:
+Final Board:
+[Event "GMFLEX"]
+[Site "local"]
+[Date "2020-12-20 15:21:43.867717"]
+[Round "?"]
+[White "White"]
+[Black "Black"]
+[Result "*"]
+
+*BLACK:
+Final Board:
+[Event "GMFLEX"]
+[Site "local"]
+[Date "2020-12-20 15:21:43.872702"]
+[Round "?"]
+[White "White"]
+[Black "Black"]
+[Result "*"]
+
+*BLACK:
+Final Board:
+[Event "GMFLEX"]
+[Site "local"]
+[Date "2020-12-20 15:21:43.882677"]
+[Round "?"]
+[White "White"]
+[Black "Black"]
+[Result "*"]
+
+*BLACK:
+Final Board:
+[Event "GMFLEX"]
+[Site "local"]
+[Date "2020-12-20 15:21:43.894602"]
+[Round "?"]
+[White "White"]
+[Black "Black"]
+[Result "*"]
+
+*BLACK:
+Final Board:
+[Event "GMFLEX"]
+[Site "local"]
+[Date "2020-12-20 15:21:43.904576"]
+[Round "?"]
+[White "White"]
+[Black "Black"]
+[Result "*"]
+
+*BLACK:
+Final Board:
+[Event "GMFLEX"]
+[Site "local"]
+[Date "2020-12-20 15:21:43.914550"]
+[Round "?"]
+[White "White"]
+[Black "Black"]
+[Result "*"]
+
+*BLACK:
+Final Board:
+[Event "GMFLEX"]
+[Site "local"]
+[Date "2020-12-20 15:21:43.923524"]
+[Round "?"]
+[White "White"]
+[Black "Black"]
+[Result "*"]
+
+*BLACK:
+Final Board:
+[Event "GMFLEX"]
+[Site "local"]
+[Date "2020-12-20 15:21:43.930507"]
+[Round "?"]
+[White "White"]
+[Black "Black"]
+[Result "*"]
+
+*BLACK:
+Final Board:
+[Event "GMFLEX"]
+[Site "local"]
+[Date "2020-12-20 15:21:43.935499"]
+[Round "?"]
+[White "White"]
+[Black "Black"]
+[Result "*"]
+
+*BLACK:
+Final Board:
+[Event "GMFLEX"]
+[Site "local"]
+[Date "2020-12-20 15:21:43.941522"]
+[Round "?"]
+[White "White"]
+[Black "Black"]
+[Result "*"]
+
+*BLACK:
+Final Board:
+[Event "GMFLEX"]
+[Site "local"]
+[Date "2020-12-20 15:21:43.947460"]
+[Round "?"]
+[White "White"]
+[Black "Black"]
+[Result "*"]
+
+*BLACK:
+Final Board:
+[Event "GMFLEX"]
+[Site "local"]
+[Date "2020-12-20 15:21:43.958466"]
+[Round "?"]
+[White "White"]
+[Black "Black"]
+[Result "*"]
+
+*BLACK:
+Final Board:
+[Event "GMFLEX"]
+[Site "local"]
+[Date "2020-12-20 15:21:43.962422"]
+[Round "?"]
+[White "White"]
+[Black "Black"]
+[Result "*"]
+
+*BLACK:
+Final Board:
+[Event "GMFLEX"]
+[Site "local"]
+[Date "2020-12-20 15:21:43.966410"]
+[Round "?"]
+[White "White"]
+[Black "Black"]
+[Result "*"]
+
+*BLACK:
+Final Board:
+[Event "GMFLEX"]
+[Site "local"]
+[Date "2020-12-20 15:21:43.970401"]
+[Round "?"]
+[White "White"]
+[Black "Black"]
+[Result "*"]
+
+*BLACK:
+Final Board:
+[Event "GMFLEX"]
+[Site "local"]
+[Date "2020-12-20 15:21:43.978379"]
+[Round "?"]
+[White "White"]
+[Black "Black"]
+[Result "*"]
+
+*BLACK:
+Final Board:
+[Event "GMFLEX"]
+[Site "local"]
+[Date "2020-12-20 15:21:43.982369"]
+[Round "?"]
+[White "White"]
+[Black "Black"]
+[Result "*"]
+
+*BLACK:
+Final Board:
+[Event "GMFLEX"]
+[Site "local"]
+[Date "2020-12-20 15:21:43.990348"]
+[Round "?"]
+[White "White"]
+[Black "Black"]
+[Result "*"]
+
+*BLACK:
+Final Board:
+[Event "GMFLEX"]
+[Site "local"]
+[Date "2020-12-20 15:21:43.998326"]
+[Round "?"]
+[White "White"]
+[Black "Black"]
+[Result "*"]
+
+*BLACK:
+Final Board:
+[Event "GMFLEX"]
+[Site "local"]
+[Date "2020-12-20 15:21:44.006305"]
+[Round "?"]
+[White "White"]
+[Black "Black"]
+[Result "*"]
+
+*BLACK:
+Final Board:
+[Event "GMFLEX"]
+[Site "local"]
+[Date "2020-12-20 15:21:44.010296"]
+[Round "?"]
+[White "White"]
+[Black "Black"]
+[Result "*"]
+
+*BLACK:
+Final Board:
+[Event "GMFLEX"]
+[Site "local"]
+[Date "2020-12-20 15:21:44.014283"]
+[Round "?"]
+[White "White"]
+[Black "Black"]
+[Result "*"]
+
+*BLACK:
+Final Board:
+[Event "GMFLEX"]
+[Site "local"]
+[Date "2020-12-20 15:21:44.018274"]
+[Round "?"]
+[White "White"]
+[Black "Black"]
+[Result "*"]
+
+*BLACK:
+Final Board:
+[Event "GMFLEX"]
+[Site "local"]
+[Date "2020-12-20 15:21:44.026252"]
+[Round "?"]
+[White "White"]
+[Black "Black"]
+[Result "*"]
+
+*BLACK:
+Final Board:
+[Event "GMFLEX"]
+[Site "local"]
+[Date "2020-12-20 15:21:44.033234"]
+[Round "?"]
+[White "White"]
+[Black "Black"]
+[Result "*"]
+
+*BLACK:
+Final Board:
+[Event "GMFLEX"]
+[Site "local"]
+[Date "2020-12-20 15:21:44.037222"]
+[Round "?"]
+[White "White"]
+[Black "Black"]
+[Result "*"]
+
+*BLACK:
+Final Board:
+[Event "GMFLEX"]
+[Site "local"]
+[Date "2020-12-20 15:21:44.040216"]
+[Round "?"]
+[White "White"]
+[Black "Black"]
+[Result "*"]
+
+*BLACK:
+Final Board:
+[Event "GMFLEX"]
+[Site "local"]
+[Date "2020-12-20 15:21:44.044201"]
+[Round "?"]
+[White "White"]
+[Black "Black"]
+[Result "*"]
+
+*BLACK:
+Final Board:
+[Event "GMFLEX"]
+[Site "local"]
+[Date "2020-12-20 15:21:44.048193"]
+[Round "?"]
+[White "White"]
+[Black "Black"]
+[Result "*"]
+
+*BLACK:
+Final Board:
+[Event "GMFLEX"]
+[Site "local"]
+[Date "2020-12-20 15:21:44.052184"]
+[Round "?"]
+[White "White"]
+[Black "Black"]
+[Result "*"]
+
+*BLACK:
+Final Board:
+[Event "GMFLEX"]
+[Site "local"]
+[Date "2020-12-20 15:21:44.057167"]
+[Round "?"]
+[White "White"]
+[Black "Black"]
+[Result "*"]
+
+*BLACK:
+Final Board:
+[Event "GMFLEX"]
+[Site "local"]
+[Date "2020-12-20 15:21:44.061156"]
+[Round "?"]
+[White "White"]
+[Black "Black"]
+[Result "*"]
+
+*BLACK:
+Final Board:
+[Event "GMFLEX"]
+[Site "local"]
+[Date "2020-12-20 15:21:44.071132"]
+[Round "?"]
+[White "White"]
+[Black "Black"]
+[Result "*"]
+
+*BLACK:
+Final Board:
+[Event "GMFLEX"]
+[Site "local"]
+[Date "2020-12-20 15:21:44.082102"]
+[Round "?"]
+[White "White"]
+[Black "Black"]
+[Result "*"]
+
+*BLACK:
+Final Board:
+[Event "GMFLEX"]
+[Site "local"]
+[Date "2020-12-20 15:21:44.086089"]
+[Round "?"]
+[White "White"]
+[Black "Black"]
+[Result "*"]
+
+*BLACK:
+Final Board:
+[Event "GMFLEX"]
+[Site "local"]
+[Date "2020-12-20 15:21:44.090081"]
+[Round "?"]
+[White "White"]
+[Black "Black"]
+[Result "*"]
+
+*BLACK:
+Final Board:
+[Event "GMFLEX"]
+[Site "local"]
+[Date "2020-12-20 15:21:44.094070"]
+[Round "?"]
+[White "White"]
+[Black "Black"]
+[Result "*"]
+
+*BLACK:
+Final Board:
+[Event "GMFLEX"]
+[Site "local"]
+[Date "2020-12-20 15:21:44.098113"]
+[Round "?"]
+[White "White"]
+[Black "Black"]
+[Result "*"]
+
+*BLACK:
+Final Board:
+[Event "GMFLEX"]
+[Site "local"]
+[Date "2020-12-20 15:21:44.102047"]
+[Round "?"]
+[White "White"]
+[Black "Black"]
+[Result "*"]
+
+*BLACK:
+Final Board:
+[Event "GMFLEX"]
+[Site "local"]
+[Date "2020-12-20 15:21:44.106039"]
+[Round "?"]
+[White "White"]
+[Black "Black"]
+[Result "*"]
+
+*BLACK:
+Final Board:
+[Event "GMFLEX"]
+[Site "local"]
+[Date "2020-12-20 15:21:44.117008"]
+[Round "?"]
+[White "White"]
+[Black "Black"]
+[Result "*"]
+
+*BLACK:
+Final Board:
+[Event "GMFLEX"]
+[Site "local"]
+[Date "2020-12-20 15:21:44.128980"]
+[Round "?"]
+[White "White"]
+[Black "Black"]
+[Result "*"]
+
+*BLACK:
+Final Board:
+[Event "GMFLEX"]
+[Site "local"]
+[Date "2020-12-20 15:21:44.132964"]
+[Round "?"]
+[White "White"]
+[Black "Black"]
+[Result "*"]
+
+*BLACK:
+Final Board:
+[Event "GMFLEX"]
+[Site "local"]
+[Date "2020-12-20 15:21:44.137954"]
+[Round "?"]
+[White "White"]
+[Black "Black"]
+[Result "*"]
+
+*BLACK:
+Final Board:
+[Event "GMFLEX"]
+[Site "local"]
+[Date "2020-12-20 15:21:44.147924"]
+[Round "?"]
+[White "White"]
+[Black "Black"]
+[Result "*"]
+
+*BLACK:
+Final Board:
+[Event "GMFLEX"]
+[Site "local"]
+[Date "2020-12-20 15:21:44.157900"]
+[Round "?"]
+[White "White"]
+[Black "Black"]
+[Result "*"]
+
+*BLACK:
+Final Board:
+[Event "GMFLEX"]
+[Site "local"]
+[Date "2020-12-20 15:21:44.163885"]
+[Round "?"]
+[White "White"]
+[Black "Black"]
+[Result "*"]
+
+*BLACK:
+Final Board:
+[Event "GMFLEX"]
+[Site "local"]
+[Date "2020-12-20 15:21:44.167874"]
+[Round "?"]
+[White "White"]
+[Black "Black"]
+[Result "*"]
+
+*BLACK:
+Final Board:
+[Event "GMFLEX"]
+[Site "local"]
+[Date "2020-12-20 15:21:44.173857"]
+[Round "?"]
+[White "White"]
+[Black "Black"]
+[Result "*"]
+
+*BLACK:
+Final Board:
+[Event "GMFLEX"]
+[Site "local"]
+[Date "2020-12-20 15:21:44.181836"]
+[Round "?"]
+[White "White"]
+[Black "Black"]
+[Result "*"]
+
+*BLACK:
+Final Board:
+[Event "GMFLEX"]
+[Site "local"]
+[Date "2020-12-20 15:21:44.185826"]
+[Round "?"]
+[White "White"]
+[Black "Black"]
+[Result "*"]
+
+*BLACK:
+Final Board:
+[Event "GMFLEX"]
+[Site "local"]
+[Date "2020-12-20 15:21:44.189814"]
+[Round "?"]
+[White "White"]
+[Black "Black"]
+[Result "*"]
+
+*BLACK:
+Final Board:
+[Event "GMFLEX"]
+[Site "local"]
+[Date "2020-12-20 15:21:44.193805"]
+[Round "?"]
+[White "White"]
+[Black "Black"]
+[Result "*"]
+
+*BLACK:
+Final Board:
+[Event "GMFLEX"]
+[Site "local"]
+[Date "2020-12-20 15:21:44.197791"]
+[Round "?"]
+[White "White"]
+[Black "Black"]
+[Result "*"]
+
+*BLACK:
+Final Board:
+[Event "GMFLEX"]
+[Site "local"]
+[Date "2020-12-20 15:21:44.201783"]
+[Round "?"]
+[White "White"]
+[Black "Black"]
+[Result "*"]
+
+*BLACK:
+Final Board:
+[Event "GMFLEX"]
+[Site "local"]
+[Date "2020-12-20 15:21:44.205771"]
+[Round "?"]
+[White "White"]
+[Black "Black"]
+[Result "*"]
+
+*BLACK:
+Final Board:
+[Event "GMFLEX"]
+[Site "local"]
+[Date "2020-12-20 15:21:44.208761"]
+[Round "?"]
+[White "White"]
+[Black "Black"]
+[Result "*"]
+
+*BLACK:
+Final Board:
+[Event "GMFLEX"]
+[Site "local"]
+[Date "2020-12-20 15:21:44.218740"]
+[Round "?"]
+[White "White"]
+[Black "Black"]
+[Result "*"]
+
+*BLACK:
+Final Board:
+[Event "GMFLEX"]
+[Site "local"]
+[Date "2020-12-20 15:21:44.224722"]
+[Round "?"]
+[White "White"]
+[Black "Black"]
+[Result "*"]
+
+*BLACK:
+Final Board:
+[Event "GMFLEX"]
+[Site "local"]
+[Date "2020-12-20 15:21:44.227714"]
+[Round "?"]
+[White "White"]
+[Black "Black"]
+[Result "*"]
+
+*BLACK:
+Final Board:
+[Event "GMFLEX"]
+[Site "local"]
+[Date "2020-12-20 15:21:44.231703"]
+[Round "?"]
+[White "White"]
+[Black "Black"]
+[Result "*"]
+
+*BLACK:
+Final Board:
+[Event "GMFLEX"]
+[Site "local"]
+[Date "2020-12-20 15:21:44.239678"]
+[Round "?"]
+[White "White"]
+[Black "Black"]
+[Result "*"]
+
+*BLACK:
+Final Board:
+[Event "GMFLEX"]
+[Site "local"]
+[Date "2020-12-20 15:21:44.243672"]
+[Round "?"]
+[White "White"]
+[Black "Black"]
+[Result "*"]
+
+*BLACK:
+Final Board:
+[Event "GMFLEX"]
+[Site "local"]
+[Date "2020-12-20 15:21:44.247657"]
+[Round "?"]
+[White "White"]
+[Black "Black"]
+[Result "*"]
+
+*BLACK:
+Final Board:
+[Event "GMFLEX"]
+[Site "local"]
+[Date "2020-12-20 15:21:44.257633"]
+[Round "?"]
+[White "White"]
+[Black "Black"]
+[Result "*"]
+
+*BLACK:
+Final Board:
+[Event "GMFLEX"]
+[Site "local"]
+[Date "2020-12-20 15:21:44.272593"]
+[Round "?"]
+[White "White"]
+[Black "Black"]
+[Result "*"]
+
+*BLACK:
+Final Board:
+[Event "GMFLEX"]
+[Site "local"]
+[Date "2020-12-20 15:21:44.282564"]
+[Round "?"]
+[White "White"]
+[Black "Black"]
+[Result "*"]
+
+*BLACK:
+Final Board:
+[Event "GMFLEX"]
+[Site "local"]
+[Date "2020-12-20 15:21:44.290544"]
+[Round "?"]
+[White "White"]
+[Black "Black"]
+[Result "*"]
+
+*BLACK:
+Final Board:
+[Event "GMFLEX"]
+[Site "local"]
+[Date "2020-12-20 15:21:44.294533"]
+[Round "?"]
+[White "White"]
+[Black "Black"]
+[Result "*"]
+
+*BLACK:
+Final Board:
+[Event "GMFLEX"]
+[Site "local"]
+[Date "2020-12-20 15:21:44.302514"]
+[Round "?"]
+[White "White"]
+[Black "Black"]
+[Result "*"]
+
+*BLACK:
+Final Board:
+[Event "GMFLEX"]
+[Site "local"]
+[Date "2020-12-20 15:21:44.306499"]
+[Round "?"]
+[White "White"]
+[Black "Black"]
+[Result "*"]
+
+*BLACK:
+Final Board:
+[Event "GMFLEX"]
+[Site "local"]
+[Date "2020-12-20 15:21:44.310492"]
+[Round "?"]
+[White "White"]
+[Black "Black"]
+[Result "*"]
+
+*BLACK:
+Final Board:
+[Event "GMFLEX"]
+[Site "local"]
+[Date "2020-12-20 15:21:44.318470"]
+[Round "?"]
+[White "White"]
+[Black "Black"]
+[Result "*"]
+
+*BLACK:
+Final Board:
+[Event "GMFLEX"]
+[Site "local"]
+[Date "2020-12-20 15:21:44.321463"]
+[Round "?"]
+[White "White"]
+[Black "Black"]
+[Result "*"]
+
+*BLACK:
+Final Board:
+[Event "GMFLEX"]
+[Site "local"]
+[Date "2020-12-20 15:21:44.326450"]
+[Round "?"]
+[White "White"]
+[Black "Black"]
+[Result "*"]
+
+*BLACK:
+Final Board:
+[Event "GMFLEX"]
+[Site "local"]
+[Date "2020-12-20 15:21:44.330436"]
+[Round "?"]
+[White "White"]
+[Black "Black"]
+[Result "*"]
+
+*BLACK:
+Final Board:
+[Event "GMFLEX"]
+[Site "local"]
+[Date "2020-12-20 15:21:44.335426"]
+[Round "?"]
+[White "White"]
+[Black "Black"]
+[Result "*"]
+
+*BLACK:
+Final Board:
+[Event "GMFLEX"]
+[Site "local"]
+[Date "2020-12-20 15:21:44.345398"]
+[Round "?"]
+[White "White"]
+[Black "Black"]
+[Result "*"]
+
+*BLACK:
+Final Board:
+[Event "GMFLEX"]
+[Site "local"]
+[Date "2020-12-20 15:21:44.354374"]
+[Round "?"]
+[White "White"]
+[Black "Black"]
+[Result "*"]
+
+*BLACK:
+Final Board:
+[Event "GMFLEX"]
+[Site "local"]
+[Date "2020-12-20 15:21:44.359358"]
+[Round "?"]
+[White "White"]
+[Black "Black"]
+[Result "*"]
+
+*BLACK:
+Final Board:
+[Event "GMFLEX"]
+[Site "local"]
+[Date "2020-12-20 15:21:44.366342"]
+[Round "?"]
+[White "White"]
+[Black "Black"]
+[Result "*"]
+
+*BLACK:
+Final Board:
+[Event "GMFLEX"]
+[Site "local"]
+[Date "2020-12-20 15:21:44.377310"]
+[Round "?"]
+[White "White"]
+[Black "Black"]
+[Result "*"]
+
+*BLACK:
+Final Board:
+[Event "GMFLEX"]
+[Site "local"]
+[Date "2020-12-20 15:21:44.383297"]
+[Round "?"]
+[White "White"]
+[Black "Black"]
+[Result "*"]
+
+*BLACK:
+Final Board:
+[Event "GMFLEX"]
+[Site "local"]
+[Date "2020-12-20 15:21:44.389278"]
+[Round "?"]
+[White "White"]
+[Black "Black"]
+[Result "*"]
+
+*BLACK:
+Final Board:
+[Event "GMFLEX"]
+[Site "local"]
+[Date "2020-12-20 15:21:44.400249"]
+[Round "?"]
+[White "White"]
+[Black "Black"]
+[Result "*"]
+
+*BLACK:
+Final Board:
+[Event "GMFLEX"]
+[Site "local"]
+[Date "2020-12-20 15:21:44.410225"]
+[Round "?"]
+[White "White"]
+[Black "Black"]
+[Result "*"]
+
+*BLACK:
+Final Board:
+[Event "GMFLEX"]
+[Site "local"]
+[Date "2020-12-20 15:21:44.419204"]
+[Round "?"]
+[White "White"]
+[Black "Black"]
+[Result "*"]
+
+*BLACK:
+Final Board:
+[Event "GMFLEX"]
+[Site "local"]
+[Date "2020-12-20 15:21:44.422191"]
+[Round "?"]
+[White "White"]
+[Black "Black"]
+[Result "*"]
+
+*BLACK:
+Final Board:
+[Event "GMFLEX"]
+[Site "local"]
+[Date "2020-12-20 15:21:44.426180"]
+[Round "?"]
+[White "White"]
+[Black "Black"]
+[Result "*"]
+
+*BLACK:
+Final Board:
+[Event "GMFLEX"]
+[Site "local"]
+[Date "2020-12-20 15:21:44.429171"]
+[Round "?"]
+[White "White"]
+[Black "Black"]
+[Result "*"]
+
+*BLACK:
+Final Board:
+[Event "GMFLEX"]
+[Site "local"]
+[Date "2020-12-20 15:21:44.433164"]
+[Round "?"]
+[White "White"]
+[Black "Black"]
+[Result "*"]
+
+*BLACK:
+Final Board:
+[Event "GMFLEX"]
+[Site "local"]
+[Date "2020-12-20 15:21:44.436158"]
+[Round "?"]
+[White "White"]
+[Black "Black"]
+[Result "*"]
+
+*BLACK:
+Final Board:
+[Event "GMFLEX"]
+[Site "local"]
+[Date "2020-12-20 15:21:44.440145"]
+[Round "?"]
+[White "White"]
+[Black "Black"]
+[Result "*"]
+
+*BLACK:
+Final Board:
+[Event "GMFLEX"]
+[Site "local"]
+[Date "2020-12-20 15:21:44.449118"]
+[Round "?"]
+[White "White"]
+[Black "Black"]
+[Result "*"]
+
+*BLACK:
+Final Board:
+[Event "GMFLEX"]
+[Site "local"]
+[Date "2020-12-20 15:21:44.453112"]
+[Round "?"]
+[White "White"]
+[Black "Black"]
+[Result "*"]
+
+*BLACK:
+Final Board:
+[Event "GMFLEX"]
+[Site "local"]
+[Date "2020-12-20 15:21:44.459095"]
+[Round "?"]
+[White "White"]
+[Black "Black"]
+[Result "*"]
+
+*BLACK:
+Final Board:
+[Event "GMFLEX"]
+[Site "local"]
+[Date "2020-12-20 15:21:44.465079"]
+[Round "?"]
+[White "White"]
+[Black "Black"]
+[Result "*"]
+
+*BLACK:
+Final Board:
+[Event "GMFLEX"]
+[Site "local"]
+[Date "2020-12-20 15:21:44.471062"]
+[Round "?"]
+[White "White"]
+[Black "Black"]
+[Result "*"]
+
+*BLACK:
+Final Board:
+[Event "GMFLEX"]
+[Site "local"]
+[Date "2020-12-20 15:21:44.476047"]
+[Round "?"]
+[White "White"]
+[Black "Black"]
+[Result "*"]
+
+*BLACK:
+Final Board:
+[Event "GMFLEX"]
+[Site "local"]
+[Date "2020-12-20 15:21:44.481036"]
+[Round "?"]
+[White "White"]
+[Black "Black"]
+[Result "*"]
+
+*BLACK:
+Final Board:
+[Event "GMFLEX"]
+[Site "local"]
+[Date "2020-12-20 15:21:44.486022"]
+[Round "?"]
+[White "White"]
+[Black "Black"]
+[Result "*"]
+
+*BLACK:
+Final Board:
+[Event "GMFLEX"]
+[Site "local"]
+[Date "2020-12-20 15:21:44.493001"]
+[Round "?"]
+[White "White"]
+[Black "Black"]
+[Result "*"]
+
+*BLACK:
+Final Board:
+[Event "GMFLEX"]
+[Site "local"]
+[Date "2020-12-20 15:21:44.496991"]
+[Round "?"]
+[White "White"]
+[Black "Black"]
+[Result "*"]
+
+*BLACK:
+Final Board:
+[Event "GMFLEX"]
+[Site "local"]
+[Date "2020-12-20 15:21:44.500983"]
+[Round "?"]
+[White "White"]
+[Black "Black"]
+[Result "*"]
+
+*BLACK:
+Final Board:
+[Event "GMFLEX"]
+[Site "local"]
+[Date "2020-12-20 15:21:44.506010"]
+[Round "?"]
+[White "White"]
+[Black "Black"]
+[Result "*"]
+
+*BLACK:
+Final Board:
+[Event "GMFLEX"]
+[Site "local"]
+[Date "2020-12-20 15:21:44.511951"]
+[Round "?"]
+[White "White"]
+[Black "Black"]
+[Result "*"]
+
+*BLACK:
+Final Board:
+[Event "GMFLEX"]
+[Site "local"]
+[Date "2020-12-20 15:21:44.515940"]
+[Round "?"]
+[White "White"]
+[Black "Black"]
+[Result "*"]
+
+*BLACK:
+Final Board:
+[Event "GMFLEX"]
+[Site "local"]
+[Date "2020-12-20 15:21:44.518936"]
+[Round "?"]
+[White "White"]
+[Black "Black"]
+[Result "*"]
+
+*BLACK:
+Final Board:
+[Event "GMFLEX"]
+[Site "local"]
+[Date "2020-12-20 15:21:44.522924"]
+[Round "?"]
+[White "White"]
+[Black "Black"]
+[Result "*"]
+
+*BLACK:
+Final Board:
+[Event "GMFLEX"]
+[Site "local"]
+[Date "2020-12-20 15:21:44.528907"]
+[Round "?"]
+[White "White"]
+[Black "Black"]
+[Result "*"]
+
+*BLACK:
+Final Board:
+[Event "GMFLEX"]
+[Site "local"]
+[Date "2020-12-20 15:21:44.532898"]
+[Round "?"]
+[White "White"]
+[Black "Black"]
+[Result "*"]
+
+*BLACK:
+Final Board:
+[Event "GMFLEX"]
+[Site "local"]
+[Date "2020-12-20 15:21:44.537885"]
+[Round "?"]
+[White "White"]
+[Black "Black"]
+[Result "*"]
+
+*BLACK:
+Final Board:
+[Event "GMFLEX"]
+[Site "local"]
+[Date "2020-12-20 15:21:44.541874"]
+[Round "?"]
+[White "White"]
+[Black "Black"]
+[Result "*"]
+
+*BLACK:
+Final Board:
+[Event "GMFLEX"]
+[Site "local"]
+[Date "2020-12-20 15:21:44.548854"]
+[Round "?"]
+[White "White"]
+[Black "Black"]
+[Result "*"]
+
+*BLACK:
+Final Board:
+[Event "GMFLEX"]
+[Site "local"]
+[Date "2020-12-20 15:21:44.551844"]
+[Round "?"]
+[White "White"]
+[Black "Black"]
+[Result "*"]
+
+*BLACK:
+Final Board:
+[Event "GMFLEX"]
+[Site "local"]
+[Date "2020-12-20 15:21:44.555836"]
+[Round "?"]
+[White "White"]
+[Black "Black"]
+[Result "*"]
+
+*BLACK:
+Final Board:
+[Event "GMFLEX"]
+[Site "local"]
+[Date "2020-12-20 15:21:44.560823"]
+[Round "?"]
+[White "White"]
+[Black "Black"]
+[Result "*"]
+
+*BLACK:
+Final Board:
+[Event "GMFLEX"]
+[Site "local"]
+[Date "2020-12-20 15:21:44.565809"]
+[Round "?"]
+[White "White"]
+[Black "Black"]
+[Result "*"]
+
+*BLACK:
+Final Board:
+[Event "GMFLEX"]
+[Site "local"]
+[Date "2020-12-20 15:21:44.569798"]
+[Round "?"]
+[White "White"]
+[Black "Black"]
+[Result "*"]
+
+*BLACK:
+Final Board:
+[Event "GMFLEX"]
+[Site "local"]
+[Date "2020-12-20 15:21:44.573788"]
+[Round "?"]
+[White "White"]
+[Black "Black"]
+[Result "*"]
+
+*BLACK:
+Final Board:
+[Event "GMFLEX"]
+[Site "local"]
+[Date "2020-12-20 15:21:44.576779"]
+[Round "?"]
+[White "White"]
+[Black "Black"]
+[Result "*"]
+
+*BLACK:
+Final Board:
+[Event "GMFLEX"]
+[Site "local"]
+[Date "2020-12-20 15:21:44.580766"]
+[Round "?"]
+[White "White"]
+[Black "Black"]
+[Result "*"]
+
+*BLACK:
+Final Board:
+[Event "GMFLEX"]
+[Site "local"]
+[Date "2020-12-20 15:21:44.587750"]
+[Round "?"]
+[White "White"]
+[Black "Black"]
+[Result "*"]
+
+*BLACK:
+Final Board:
+[Event "GMFLEX"]
+[Site "local"]
+[Date "2020-12-20 15:21:44.593734"]
+[Round "?"]
+[White "White"]
+[Black "Black"]
+[Result "*"]
+
+*BLACK:
+Final Board:
+[Event "GMFLEX"]
+[Site "local"]
+[Date "2020-12-20 15:21:44.599718"]
+[Round "?"]
+[White "White"]
+[Black "Black"]
+[Result "*"]
+
+*BLACK:
+Final Board:
+[Event "GMFLEX"]
+[Site "local"]
+[Date "2020-12-20 15:21:44.609692"]
+[Round "?"]
+[White "White"]
+[Black "Black"]
+[Result "*"]
+
+*BLACK:
+Final Board:
+[Event "GMFLEX"]
+[Site "local"]
+[Date "2020-12-20 15:21:44.619722"]
+[Round "?"]
+[White "White"]
+[Black "Black"]
+[Result "*"]
+
+*BLACK:
+Final Board:
+[Event "GMFLEX"]
+[Site "local"]
+[Date "2020-12-20 15:21:44.626687"]
+[Round "?"]
+[White "White"]
+[Black "Black"]
+[Result "*"]
+
+*BLACK:
+Final Board:
+[Event "GMFLEX"]
+[Site "local"]
+[Date "2020-12-20 15:21:44.632631"]
+[Round "?"]
+[White "White"]
+[Black "Black"]
+[Result "*"]
+
+*BLACK:
+Final Board:
+[Event "GMFLEX"]
+[Site "local"]
+[Date "2020-12-20 15:21:44.643601"]
+[Round "?"]
+[White "White"]
+[Black "Black"]
+[Result "*"]
+
+*BLACK:
+Final Board:
+[Event "GMFLEX"]
+[Site "local"]
+[Date "2020-12-20 15:21:44.647590"]
+[Round "?"]
+[White "White"]
+[Black "Black"]
+[Result "*"]
+
+*BLACK:
+Final Board:
+[Event "GMFLEX"]
+[Site "local"]
+[Date "2020-12-20 15:21:44.652577"]
+[Round "?"]
+[White "White"]
+[Black "Black"]
+[Result "*"]
+
+*BLACK:
+Final Board:
+[Event "GMFLEX"]
+[Site "local"]
+[Date "2020-12-20 15:21:44.655570"]
+[Round "?"]
+[White "White"]
+[Black "Black"]
+[Result "*"]
+
+*BLACK:
+Final Board:
+[Event "GMFLEX"]
+[Site "local"]
+[Date "2020-12-20 15:21:44.666537"]
+[Round "?"]
+[White "White"]
+[Black "Black"]
+[Result "*"]
+
+*BLACK:
+Final Board:
+[Event "GMFLEX"]
+[Site "local"]
+[Date "2020-12-20 15:21:44.670531"]
+[Round "?"]
+[White "White"]
+[Black "Black"]
+[Result "*"]
+
+*BLACK:
+Final Board:
+[Event "GMFLEX"]
+[Site "local"]
+[Date "2020-12-20 15:21:44.674519"]
+[Round "?"]
+[White "White"]
+[Black "Black"]
+[Result "*"]
+
+*BLACK:
+Final Board:
+[Event "GMFLEX"]
+[Site "local"]
+[Date "2020-12-20 15:21:44.677509"]
+[Round "?"]
+[White "White"]
+[Black "Black"]
+[Result "*"]
+
+*BLACK:
+Final Board:
+[Event "GMFLEX"]
+[Site "local"]
+[Date "2020-12-20 15:21:44.686484"]
+[Round "?"]
+[White "White"]
+[Black "Black"]
+[Result "*"]
+
+*BLACK:
+Final Board:
+[Event "GMFLEX"]
+[Site "local"]
+[Date "2020-12-20 15:21:44.690477"]
+[Round "?"]
+[White "White"]
+[Black "Black"]
+[Result "*"]
+
+*BLACK:
+Final Board:
+[Event "GMFLEX"]
+[Site "local"]
+[Date "2020-12-20 15:21:44.695465"]
+[Round "?"]
+[White "White"]
+[Black "Black"]
+[Result "*"]
+
+*BLACK:
+Final Board:
+[Event "GMFLEX"]
+[Site "local"]
+[Date "2020-12-20 15:21:44.699449"]
+[Round "?"]
+[White "White"]
+[Black "Black"]
+[Result "*"]
+
+*BLACK:
+Final Board:
+[Event "GMFLEX"]
+[Site "local"]
+[Date "2020-12-20 15:21:44.707428"]
+[Round "?"]
+[White "White"]
+[Black "Black"]
+[Result "*"]
+
+*BLACK:
+Final Board:
+[Event "GMFLEX"]
+[Site "local"]
+[Date "2020-12-20 15:21:44.711418"]
+[Round "?"]
+[White "White"]
+[Black "Black"]
+[Result "*"]
+
+*BLACK:
+Final Board:
+[Event "GMFLEX"]
+[Site "local"]
+[Date "2020-12-20 15:21:44.715410"]
+[Round "?"]
+[White "White"]
+[Black "Black"]
+[Result "*"]
+
+*BLACK:
+Final Board:
+[Event "GMFLEX"]
+[Site "local"]
+[Date "2020-12-20 15:21:44.719398"]
+[Round "?"]
+[White "White"]
+[Black "Black"]
+[Result "*"]
+
+*BLACK:
+Final Board:
+[Event "GMFLEX"]
+[Site "local"]
+[Date "2020-12-20 15:21:44.728375"]
+[Round "?"]
+[White "White"]
+[Black "Black"]
+[Result "*"]
+
+*BLACK:
+Final Board:
+[Event "GMFLEX"]
+[Site "local"]
+[Date "2020-12-20 15:21:44.737348"]
+[Round "?"]
+[White "White"]
+[Black "Black"]
+[Result "*"]
+
+*BLACK:
+Final Board:
+[Event "GMFLEX"]
+[Site "local"]
+[Date "2020-12-20 15:21:44.741339"]
+[Round "?"]
+[White "White"]
+[Black "Black"]
+[Result "*"]
+
+*BLACK:
+Final Board:
+[Event "GMFLEX"]
+[Site "local"]
+[Date "2020-12-20 15:21:44.745330"]
+[Round "?"]
+[White "White"]
+[Black "Black"]
+[Result "*"]
+
+*BLACK:
+Final Board:
+[Event "GMFLEX"]
+[Site "local"]
+[Date "2020-12-20 15:21:44.753307"]
+[Round "?"]
+[White "White"]
+[Black "Black"]
+[Result "*"]
+
+*BLACK:
+Final Board:
+[Event "GMFLEX"]
+[Site "local"]
+[Date "2020-12-20 15:21:44.756297"]
+[Round "?"]
+[White "White"]
+[Black "Black"]
+[Result "*"]
+
+*BLACK:
+Final Board:
+[Event "GMFLEX"]
+[Site "local"]
+[Date "2020-12-20 15:21:44.760287"]
+[Round "?"]
+[White "White"]
+[Black "Black"]
+[Result "*"]
+
+*BLACK:
+Final Board:
+[Event "GMFLEX"]
+[Site "local"]
+[Date "2020-12-20 15:21:44.764276"]
+[Round "?"]
+[White "White"]
+[Black "Black"]
+[Result "*"]
+
+*BLACK:
+Final Board:
+[Event "GMFLEX"]
+[Site "local"]
+[Date "2020-12-20 15:21:44.772257"]
+[Round "?"]
+[White "White"]
+[Black "Black"]
+[Result "*"]
+
+*BLACK:
+Final Board:
+[Event "GMFLEX"]
+[Site "local"]
+[Date "2020-12-20 15:21:44.781230"]
+[Round "?"]
+[White "White"]
+[Black "Black"]
+[Result "*"]
+
+*BLACK:
+Final Board:
+[Event "GMFLEX"]
+[Site "local"]
+[Date "2020-12-20 15:21:44.785220"]
+[Round "?"]
+[White "White"]
+[Black "Black"]
+[Result "*"]
+
+*BLACK:
+Final Board:
+[Event "GMFLEX"]
+[Site "local"]
+[Date "2020-12-20 15:21:44.791249"]
+[Round "?"]
+[White "White"]
+[Black "Black"]
+[Result "*"]
+
+*BLACK:
+Final Board:
+[Event "GMFLEX"]
+[Site "local"]
+[Date "2020-12-20 15:21:44.802177"]
+[Round "?"]
+[White "White"]
+[Black "Black"]
+[Result "*"]
+
+*BLACK:
+Final Board:
+[Event "GMFLEX"]
+[Site "local"]
+[Date "2020-12-20 15:21:44.808161"]
+[Round "?"]
+[White "White"]
+[Black "Black"]
+[Result "*"]
+
+*BLACK:
+Final Board:
+[Event "GMFLEX"]
+[Site "local"]
+[Date "2020-12-20 15:21:44.813148"]
+[Round "?"]
+[White "White"]
+[Black "Black"]
+[Result "*"]
+
+*BLACK:
+Final Board:
+[Event "GMFLEX"]
+[Site "local"]
+[Date "2020-12-20 15:21:44.819133"]
+[Round "?"]
+[White "White"]
+[Black "Black"]
+[Result "*"]
+
+*BLACK:
+Final Board:
+[Event "GMFLEX"]
+[Site "local"]
+[Date "2020-12-20 15:21:44.827110"]
+[Round "?"]
+[White "White"]
+[Black "Black"]
+[Result "*"]
+
+*BLACK:
+Final Board:
+[Event "GMFLEX"]
+[Site "local"]
+[Date "2020-12-20 15:21:44.831097"]
+[Round "?"]
+[White "White"]
+[Black "Black"]
+[Result "*"]
+
+*BLACK:
+Final Board:
+[Event "GMFLEX"]
+[Site "local"]
+[Date "2020-12-20 15:21:44.835090"]
+[Round "?"]
+[White "White"]
+[Black "Black"]
+[Result "*"]
+
+*BLACK:
+Final Board:
+[Event "GMFLEX"]
+[Site "local"]
+[Date "2020-12-20 15:21:44.846062"]
+[Round "?"]
+[White "White"]
+[Black "Black"]
+[Result "*"]
+
+*BLACK:
+Final Board:
+[Event "GMFLEX"]
+[Site "local"]
+[Date "2020-12-20 15:21:44.856034"]
+[Round "?"]
+[White "White"]
+[Black "Black"]
+[Result "*"]
+
+*BLACK:
+Final Board:
+[Event "GMFLEX"]
+[Site "local"]
+[Date "2020-12-20 15:21:44.860022"]
+[Round "?"]
+[White "White"]
+[Black "Black"]
+[Result "*"]
+
+*BLACK:
+Final Board:
+[Event "GMFLEX"]
+[Site "local"]
+[Date "2020-12-20 15:21:44.864011"]
+[Round "?"]
+[White "White"]
+[Black "Black"]
+[Result "*"]
+
+*BLACK:
+Final Board:
+[Event "GMFLEX"]
+[Site "local"]
+[Date "2020-12-20 15:21:44.868001"]
+[Round "?"]
+[White "White"]
+[Black "Black"]
+[Result "*"]
+
+*BLACK:
+Final Board:
+[Event "GMFLEX"]
+[Site "local"]
+[Date "2020-12-20 15:21:44.876978"]
+[Round "?"]
+[White "White"]
+[Black "Black"]
+[Result "*"]
+
+*BLACK:
+Final Board:
+[Event "GMFLEX"]
+[Site "local"]
+[Date "2020-12-20 15:21:44.884004"]
+[Round "?"]
+[White "White"]
+[Black "Black"]
+[Result "*"]
+
+*BLACK:
+Final Board:
+[Event "GMFLEX"]
+[Site "local"]
+[Date "2020-12-20 15:21:44.888943"]
+[Round "?"]
+[White "White"]
+[Black "Black"]
+[Result "*"]
+
+*BLACK:
+Final Board:
+[Event "GMFLEX"]
+[Site "local"]
+[Date "2020-12-20 15:21:44.892932"]
+[Round "?"]
+[White "White"]
+[Black "Black"]
+[Result "*"]
+
+*BLACK:
+Final Board:
+[Event "GMFLEX"]
+[Site "local"]
+[Date "2020-12-20 15:21:44.903906"]
+[Round "?"]
+[White "White"]
+[Black "Black"]
+[Result "*"]
+
+*BLACK:
+Final Board:
+[Event "GMFLEX"]
+[Site "local"]
+[Date "2020-12-20 15:21:44.906897"]
+[Round "?"]
+[White "White"]
+[Black "Black"]
+[Result "*"]
+
+*BLACK:
+Final Board:
+[Event "GMFLEX"]
+[Site "local"]
+[Date "2020-12-20 15:21:44.910884"]
+[Round "?"]
+[White "White"]
+[Black "Black"]
+[Result "*"]
+
+*BLACK:
+Final Board:
+[Event "GMFLEX"]
+[Site "local"]
+[Date "2020-12-20 15:21:44.914875"]
+[Round "?"]
+[White "White"]
+[Black "Black"]
+[Result "*"]
+
+*BLACK:
+Final Board:
+[Event "GMFLEX"]
+[Site "local"]
+[Date "2020-12-20 15:21:44.927839"]
+[Round "?"]
+[White "White"]
+[Black "Black"]
+[Result "*"]
+
+*BLACK:
+Final Board:
+[Event "GMFLEX"]
+[Site "local"]
+[Date "2020-12-20 15:21:44.930833"]
+[Round "?"]
+[White "White"]
+[Black "Black"]
+[Result "*"]
+
+*BLACK:
+Final Board:
+[Event "GMFLEX"]
+[Site "local"]
+[Date "2020-12-20 15:21:44.934820"]
+[Round "?"]
+[White "White"]
+[Black "Black"]
+[Result "*"]
+
+*BLACK:
+Final Board:
+[Event "GMFLEX"]
+[Site "local"]
+[Date "2020-12-20 15:21:44.938811"]
+[Round "?"]
+[White "White"]
+[Black "Black"]
+[Result "*"]
+
+*BLACK:
+Final Board:
+[Event "GMFLEX"]
+[Site "local"]
+[Date "2020-12-20 15:21:44.943799"]
+[Round "?"]
+[White "White"]
+[Black "Black"]
+[Result "*"]
+
+*BLACK:
+Final Board:
+[Event "GMFLEX"]
+[Site "local"]
+[Date "2020-12-20 15:21:44.947785"]
+[Round "?"]
+[White "White"]
+[Black "Black"]
+[Result "*"]
+
+*BLACK:
+Final Board:
+[Event "GMFLEX"]
+[Site "local"]
+[Date "2020-12-20 15:21:44.951777"]
+[Round "?"]
+[White "White"]
+[Black "Black"]
+[Result "*"]
+
+*BLACK:
+Final Board:
+[Event "GMFLEX"]
+[Site "local"]
+[Date "2020-12-20 15:21:44.955767"]
+[Round "?"]
+[White "White"]
+[Black "Black"]
+[Result "*"]
+
+*BLACK:
+Final Board:
+[Event "GMFLEX"]
+[Site "local"]
+[Date "2020-12-20 15:21:44.960753"]
+[Round "?"]
+[White "White"]
+[Black "Black"]
+[Result "*"]
+
+*BLACK:
+Final Board:
+[Event "GMFLEX"]
+[Site "local"]
+[Date "2020-12-20 15:21:44.963742"]
+[Round "?"]
+[White "White"]
+[Black "Black"]
+[Result "*"]
+
+*BLACK:
+Final Board:
+[Event "GMFLEX"]
+[Site "local"]
+[Date "2020-12-20 15:21:44.967734"]
+[Round "?"]
+[White "White"]
+[Black "Black"]
+[Result "*"]
+
+*BLACK:
+Final Board:
+[Event "GMFLEX"]
+[Site "local"]
+[Date "2020-12-20 15:21:44.971721"]
+[Round "?"]
+[White "White"]
+[Black "Black"]
+[Result "*"]
+
+*BLACK:
+Final Board:
+[Event "GMFLEX"]
+[Site "local"]
+[Date "2020-12-20 15:21:44.975713"]
+[Round "?"]
+[White "White"]
+[Black "Black"]
+[Result "*"]
+
+*BLACK:
+Final Board:
+[Event "GMFLEX"]
+[Site "local"]
+[Date "2020-12-20 15:21:44.979703"]
+[Round "?"]
+[White "White"]
+[Black "Black"]
+[Result "*"]
+
+*BLACK:
+Final Board:
+[Event "GMFLEX"]
+[Site "local"]
+[Date "2020-12-20 15:21:44.982694"]
+[Round "?"]
+[White "White"]
+[Black "Black"]
+[Result "*"]
+
+*BLACK:
+Final Board:
+[Event "GMFLEX"]
+[Site "local"]
+[Date "2020-12-20 15:21:44.986685"]
+[Round "?"]
+[White "White"]
+[Black "Black"]
+[Result "*"]
+
+*BLACK:
+Final Board:
+[Event "GMFLEX"]
+[Site "local"]
+[Date "2020-12-20 15:21:44.992666"]
+[Round "?"]
+[White "White"]
+[Black "Black"]
+[Result "*"]
+
+*BLACK:
+Final Board:
+[Event "GMFLEX"]
+[Site "local"]
+[Date "2020-12-20 15:21:44.996654"]
+[Round "?"]
+[White "White"]
+[Black "Black"]
+[Result "*"]
+
+*BLACK:
+Final Board:
+[Event "GMFLEX"]
+[Site "local"]
+[Date "2020-12-20 15:21:45.000646"]
+[Round "?"]
+[White "White"]
+[Black "Black"]
+[Result "*"]
+
+*BLACK:
+Final Board:
+[Event "GMFLEX"]
+[Site "local"]
+[Date "2020-12-20 15:21:45.008625"]
+[Round "?"]
+[White "White"]
+[Black "Black"]
+[Result "*"]
+
+*BLACK:
+Final Board:
+[Event "GMFLEX"]
+[Site "local"]
+[Date "2020-12-20 15:21:45.012615"]
+[Round "?"]
+[White "White"]
+[Black "Black"]
+[Result "*"]
+
+*BLACK:
+Final Board:
+[Event "GMFLEX"]
+[Site "local"]
+[Date "2020-12-20 15:21:45.016604"]
+[Round "?"]
+[White "White"]
+[Black "Black"]
+[Result "*"]
+
+*BLACK:
+Final Board:
+[Event "GMFLEX"]
+[Site "local"]
+[Date "2020-12-20 15:21:45.020590"]
+[Round "?"]
+[White "White"]
+[Black "Black"]
+[Result "*"]
+
+*BLACK:
+Final Board:
+[Event "GMFLEX"]
+[Site "local"]
+[Date "2020-12-20 15:21:45.027572"]
+[Round "?"]
+[White "White"]
+[Black "Black"]
+[Result "*"]
+
+*BLACK:
+Final Board:
+[Event "GMFLEX"]
+[Site "local"]
+[Date "2020-12-20 15:21:45.031564"]
+[Round "?"]
+[White "White"]
+[Black "Black"]
+[Result "*"]
+
+*BLACK:
+Final Board:
+[Event "GMFLEX"]
+[Site "local"]
+[Date "2020-12-20 15:21:45.035554"]
+[Round "?"]
+[White "White"]
+[Black "Black"]
+[Result "*"]
+
+*BLACK:
+Final Board:
+[Event "GMFLEX"]
+[Site "local"]
+[Date "2020-12-20 15:21:45.038545"]
+[Round "?"]
+[White "White"]
+[Black "Black"]
+[Result "*"]
+
+*BLACK:
+Final Board:
+[Event "GMFLEX"]
+[Site "local"]
+[Date "2020-12-20 15:21:45.042532"]
+[Round "?"]
+[White "White"]
+[Black "Black"]
+[Result "*"]
+
+*BLACK:
+Final Board:
+[Event "GMFLEX"]
+[Site "local"]
+[Date "2020-12-20 15:21:45.047521"]
+[Round "?"]
+[White "White"]
+[Black "Black"]
+[Result "*"]
+
+*BLACK:
+Final Board:
+[Event "GMFLEX"]
+[Site "local"]
+[Date "2020-12-20 15:21:45.050511"]
+[Round "?"]
+[White "White"]
+[Black "Black"]
+[Result "*"]
+
+*BLACK:
+Final Board:
+[Event "GMFLEX"]
+[Site "local"]
+[Date "2020-12-20 15:21:45.054502"]
+[Round "?"]
+[White "White"]
+[Black "Black"]
+[Result "*"]
+
+*BLACK:
+Final Board:
+[Event "GMFLEX"]
+[Site "local"]
+[Date "2020-12-20 15:21:45.058492"]
+[Round "?"]
+[White "White"]
+[Black "Black"]
+[Result "*"]
+
+*BLACK:
+Final Board:
+[Event "GMFLEX"]
+[Site "local"]
+[Date "2020-12-20 15:21:45.070457"]
+[Round "?"]
+[White "White"]
+[Black "Black"]
+[Result "*"]
+
+*BLACK:
+Final Board:
+[Event "GMFLEX"]
+[Site "local"]
+[Date "2020-12-20 15:21:45.074449"]
+[Round "?"]
+[White "White"]
+[Black "Black"]
+[Result "*"]
+
+*BLACK:
+Final Board:
+[Event "GMFLEX"]
+[Site "local"]
+[Date "2020-12-20 15:21:45.078439"]
+[Round "?"]
+[White "White"]
+[Black "Black"]
+[Result "*"]
+
+*BLACK:
+Final Board:
+[Event "GMFLEX"]
+[Site "local"]
+[Date "2020-12-20 15:21:45.082428"]
+[Round "?"]
+[White "White"]
+[Black "Black"]
+[Result "*"]
+
+*BLACK:
+Final Board:
+[Event "GMFLEX"]
+[Site "local"]
+[Date "2020-12-20 15:21:45.093443"]
+[Round "?"]
+[White "White"]
+[Black "Black"]
+[Result "*"]
+
+*BLACK:
+Final Board:
+[Event "GMFLEX"]
+[Site "local"]
+[Date "2020-12-20 15:21:45.096388"]
+[Round "?"]
+[White "White"]
+[Black "Black"]
+[Result "*"]
+
+*BLACK:
+Final Board:
+[Event "GMFLEX"]
+[Site "local"]
+[Date "2020-12-20 15:21:45.100381"]
+[Round "?"]
+[White "White"]
+[Black "Black"]
+[Result "*"]
+
+*BLACK:
+Final Board:
+[Event "GMFLEX"]
+[Site "local"]
+[Date "2020-12-20 15:21:45.103374"]
+[Round "?"]
+[White "White"]
+[Black "Black"]
+[Result "*"]
+
+*BLACK:
+Final Board:
+[Event "GMFLEX"]
+[Site "local"]
+[Date "2020-12-20 15:21:45.114340"]
+[Round "?"]
+[White "White"]
+[Black "Black"]
+[Result "*"]
+
+*BLACK:
+Final Board:
+[Event "GMFLEX"]
+[Site "local"]
+[Date "2020-12-20 15:21:45.118332"]
+[Round "?"]
+[White "White"]
+[Black "Black"]
+[Result "*"]
+
+*BLACK:
+Final Board:
+[Event "GMFLEX"]
+[Site "local"]
+[Date "2020-12-20 15:21:45.123319"]
+[Round "?"]
+[White "White"]
+[Black "Black"]
+[Result "*"]
+
+*BLACK:
+Final Board:
+[Event "GMFLEX"]
+[Site "local"]
+[Date "2020-12-20 15:21:45.126311"]
+[Round "?"]
+[White "White"]
+[Black "Black"]
+[Result "*"]
+
+*BLACK:
+Final Board:
+[Event "GMFLEX"]
+[Site "local"]
+[Date "2020-12-20 15:21:45.136285"]
+[Round "?"]
+[White "White"]
+[Black "Black"]
+[Result "*"]
+
+*BLACK:
+Final Board:
+[Event "GMFLEX"]
+[Site "local"]
+[Date "2020-12-20 15:21:45.140273"]
+[Round "?"]
+[White "White"]
+[Black "Black"]
+[Result "*"]
+
+*BLACK:
+Final Board:
+[Event "GMFLEX"]
+[Site "local"]
+[Date "2020-12-20 15:21:45.144264"]
+[Round "?"]
+[White "White"]
+[Black "Black"]
+[Result "*"]
+
+*BLACK:
+Final Board:
+[Event "GMFLEX"]
+[Site "local"]
+[Date "2020-12-20 15:21:45.148252"]
+[Round "?"]
+[White "White"]
+[Black "Black"]
+[Result "*"]
+
+*BLACK:
+Final Board:
+[Event "GMFLEX"]
+[Site "local"]
+[Date "2020-12-20 15:21:45.161218"]
+[Round "?"]
+[White "White"]
+[Black "Black"]
+[Result "*"]
+
+*BLACK:
+Final Board:
+[Event "GMFLEX"]
+[Site "local"]
+[Date "2020-12-20 15:21:45.165207"]
+[Round "?"]
+[White "White"]
+[Black "Black"]
+[Result "*"]
+
+*BLACK:
+Final Board:
+[Event "GMFLEX"]
+[Site "local"]
+[Date "2020-12-20 15:21:45.168198"]
+[Round "?"]
+[White "White"]
+[Black "Black"]
+[Result "*"]
+
+*BLACK:
+Final Board:
+[Event "GMFLEX"]
+[Site "local"]
+[Date "2020-12-20 15:21:45.173183"]
+[Round "?"]
+[White "White"]
+[Black "Black"]
+[Result "*"]
+
+*BLACK:
+Final Board:
+[Event "GMFLEX"]
+[Site "local"]
+[Date "2020-12-20 15:21:45.184156"]
+[Round "?"]
+[White "White"]
+[Black "Black"]
+[Result "*"]
+
+*BLACK:
+Final Board:
+[Event "GMFLEX"]
+[Site "local"]
+[Date "2020-12-20 15:21:45.188188"]
+[Round "?"]
+[White "White"]
+[Black "Black"]
+[Result "*"]
+
+*BLACK:
+Final Board:
+[Event "GMFLEX"]
+[Site "local"]
+[Date "2020-12-20 15:21:45.192132"]
+[Round "?"]
+[White "White"]
+[Black "Black"]
+[Result "*"]
+
+*BLACK:
+Final Board:
+[Event "GMFLEX"]
+[Site "local"]
+[Date "2020-12-20 15:21:45.196124"]
+[Round "?"]
+[White "White"]
+[Black "Black"]
+[Result "*"]
+
+*BLACK:
+Final Board:
+[Event "GMFLEX"]
+[Site "local"]
+[Date "2020-12-20 15:21:45.209087"]
+[Round "?"]
+[White "White"]
+[Black "Black"]
+[Result "*"]
+
+*BLACK:
+Final Board:
+[Event "GMFLEX"]
+[Site "local"]
+[Date "2020-12-20 15:21:45.213080"]
+[Round "?"]
+[White "White"]
+[Black "Black"]
+[Result "*"]
+
+*BLACK:
+Final Board:
+[Event "GMFLEX"]
+[Site "local"]
+[Date "2020-12-20 15:21:45.216070"]
+[Round "?"]
+[White "White"]
+[Black "Black"]
+[Result "*"]
+
+*BLACK:
+Final Board:
+[Event "GMFLEX"]
+[Site "local"]
+[Date "2020-12-20 15:21:45.221057"]
+[Round "?"]
+[White "White"]
+[Black "Black"]
+[Result "*"]
+
+*BLACK:
+Final Board:
+[Event "GMFLEX"]
+[Site "local"]
+[Date "2020-12-20 15:21:45.227041"]
+[Round "?"]
+[White "White"]
+[Black "Black"]
+[Result "*"]
+
+*BLACK:
+Final Board:
+[Event "GMFLEX"]
+[Site "local"]
+[Date "2020-12-20 15:21:45.230031"]
+[Round "?"]
+[White "White"]
+[Black "Black"]
+[Result "*"]
+
+*BLACK:
+Final Board:
+[Event "GMFLEX"]
+[Site "local"]
+[Date "2020-12-20 15:21:45.234023"]
+[Round "?"]
+[White "White"]
+[Black "Black"]
+[Result "*"]
+
+*BLACK:
+Final Board:
+[Event "GMFLEX"]
+[Site "local"]
+[Date "2020-12-20 15:21:45.237017"]
+[Round "?"]
+[White "White"]
+[Black "Black"]
+[Result "*"]
+
+*BLACK:
+Final Board:
+[Event "GMFLEX"]
+[Site "local"]
+[Date "2020-12-20 15:21:45.246987"]
+[Round "?"]
+[White "White"]
+[Black "Black"]
+[Result "*"]
+
+*BLACK:
+Final Board:
+[Event "GMFLEX"]
+[Site "local"]
+[Date "2020-12-20 15:21:45.252974"]
+[Round "?"]
+[White "White"]
+[Black "Black"]
+[Result "*"]
+
+*BLACK:
+Final Board:
+[Event "GMFLEX"]
+[Site "local"]
+[Date "2020-12-20 15:21:45.262944"]
+[Round "?"]
+[White "White"]
+[Black "Black"]
+[Result "*"]
+
+*BLACK:
+Final Board:
+[Event "GMFLEX"]
+[Site "local"]
+[Date "2020-12-20 15:21:45.267977"]
+[Round "?"]
+[White "White"]
+[Black "Black"]
+[Result "*"]
+
+*BLACK:
+Final Board:
+[Event "GMFLEX"]
+[Site "local"]
+[Date "2020-12-20 15:21:45.276905"]
+[Round "?"]
+[White "White"]
+[Black "Black"]
+[Result "*"]
+
+*BLACK:
+Final Board:
+[Event "GMFLEX"]
+[Site "local"]
+[Date "2020-12-20 15:21:45.280897"]
+[Round "?"]
+[White "White"]
+[Black "Black"]
+[Result "*"]
+
+*BLACK:
+Final Board:
+[Event "GMFLEX"]
+[Site "local"]
+[Date "2020-12-20 15:21:45.285884"]
+[Round "?"]
+[White "White"]
+[Black "Black"]
+[Result "*"]
+
+*BLACK:
+Final Board:
+[Event "GMFLEX"]
+[Site "local"]
+[Date "2020-12-20 15:21:45.288877"]
+[Round "?"]
+[White "White"]
+[Black "Black"]
+[Result "*"]
+
+*BLACK:
+Final Board:
+[Event "GMFLEX"]
+[Site "local"]
+[Date "2020-12-20 15:21:45.295859"]
+[Round "?"]
+[White "White"]
+[Black "Black"]
+[Result "*"]
+
+*BLACK:
+Final Board:
+[Event "GMFLEX"]
+[Site "local"]
+[Date "2020-12-20 15:21:45.298850"]
+[Round "?"]
+[White "White"]
+[Black "Black"]
+[Result "*"]
+
+*BLACK:
+Final Board:
+[Event "GMFLEX"]
+[Site "local"]
+[Date "2020-12-20 15:21:45.309820"]
+[Round "?"]
+[White "White"]
+[Black "Black"]
+[Result "*"]
+
+*BLACK:
+Final Board:
+[Event "GMFLEX"]
+[Site "local"]
+[Date "2020-12-20 15:21:45.320837"]
+[Round "?"]
+[White "White"]
+[Black "Black"]
+[Result "*"]
+
+*BLACK:
+Final Board:
+[Event "GMFLEX"]
+[Site "local"]
+[Date "2020-12-20 15:21:45.330762"]
+[Round "?"]
+[White "White"]
+[Black "Black"]
+[Result "*"]
+
+*BLACK:
+Final Board:
+[Event "GMFLEX"]
+[Site "local"]
+[Date "2020-12-20 15:21:45.337745"]
+[Round "?"]
+[White "White"]
+[Black "Black"]
+[Result "*"]
+
+*BLACK:
+Final Board:
+[Event "GMFLEX"]
+[Site "local"]
+[Date "2020-12-20 15:21:45.344724"]
+[Round "?"]
+[White "White"]
+[Black "Black"]
+[Result "*"]
+
+*BLACK:
+Final Board:
+[Event "GMFLEX"]
+[Site "local"]
+[Date "2020-12-20 15:21:45.353705"]
+[Round "?"]
+[White "White"]
+[Black "Black"]
+[Result "*"]
+
+*BLACK:
+Final Board:
+[Event "GMFLEX"]
+[Site "local"]
+[Date "2020-12-20 15:21:45.366668"]
+[Round "?"]
+[White "White"]
+[Black "Black"]
+[Result "*"]
+
+*BLACK:
+Final Board:
+[Event "GMFLEX"]
+[Site "local"]
+[Date "2020-12-20 15:21:45.378209"]
+[Round "?"]
+[White "White"]
+[Black "Black"]
+[Result "*"]
+
+*BLACK:
+Final Board:
+[Event "GMFLEX"]
+[Site "local"]
+[Date "2020-12-20 15:21:45.388181"]
+[Round "?"]
+[White "White"]
+[Black "Black"]
+[Result "*"]
+
+*BLACK:
+Final Board:
+[Event "GMFLEX"]
+[Site "local"]
+[Date "2020-12-20 15:21:45.399153"]
+[Round "?"]
+[White "White"]
+[Black "Black"]
+[Result "*"]
+
+*BLACK:
+Final Board:
+[Event "GMFLEX"]
+[Site "local"]
+[Date "2020-12-20 15:21:45.410293"]
+[Round "?"]
+[White "White"]
+[Black "Black"]
+[Result "*"]
+
+*BLACK:
+Final Board:
+[Event "GMFLEX"]
+[Site "local"]
+[Date "2020-12-20 15:21:45.424661"]
+[Round "?"]
+[White "White"]
+[Black "Black"]
+[Result "*"]
+
+*BLACK:
+Final Board:
+[Event "GMFLEX"]
+[Site "local"]
+[Date "2020-12-20 15:21:45.435632"]
+[Round "?"]
+[White "White"]
+[Black "Black"]
+[Result "*"]
+
+*BLACK:
+Final Board:
+[Event "GMFLEX"]
+[Site "local"]
+[Date "2020-12-20 15:21:45.446602"]
+[Round "?"]
+[White "White"]
+[Black "Black"]
+[Result "*"]
+
+*BLACK:
+Final Board:
+[Event "GMFLEX"]
+[Site "local"]
+[Date "2020-12-20 15:21:45.457574"]
+[Round "?"]
+[White "White"]
+[Black "Black"]
+[Result "*"]
+
+*BLACK:
+Final Board:
+[Event "GMFLEX"]
+[Site "local"]
+[Date "2020-12-20 15:21:45.461563"]
+[Round "?"]
+[White "White"]
+[Black "Black"]
+[Result "*"]
+
+*BLACK:
+Final Board:
+[Event "GMFLEX"]
+[Site "local"]
+[Date "2020-12-20 15:21:45.469593"]
+[Round "?"]
+[White "White"]
+[Black "Black"]
+[Result "*"]
+
+*BLACK:
+Final Board:
+[Event "GMFLEX"]
+[Site "local"]
+[Date "2020-12-20 15:21:45.475579"]
+[Round "?"]
+[White "White"]
+[Black "Black"]
+[Result "*"]
+
+*BLACK:
+Final Board:
+[Event "GMFLEX"]
+[Site "local"]
+[Date "2020-12-20 15:21:45.481562"]
+[Round "?"]
+[White "White"]
+[Black "Black"]
+[Result "*"]
+
+*BLACK:
+Final Board:
+[Event "GMFLEX"]
+[Site "local"]
+[Date "2020-12-20 15:21:45.486546"]
+[Round "?"]
+[White "White"]
+[Black "Black"]
+[Result "*"]
+
+*BLACK:
+Final Board:
+[Event "GMFLEX"]
+[Site "local"]
+[Date "2020-12-20 15:21:45.497519"]
+[Round "?"]
+[White "White"]
+[Black "Black"]
+[Result "*"]
+
+*BLACK:
+Final Board:
+[Event "GMFLEX"]
+[Site "local"]
+[Date "2020-12-20 15:21:45.501506"]
+[Round "?"]
+[White "White"]
+[Black "Black"]
+[Result "*"]
+
+*BLACK:
+Final Board:
+[Event "GMFLEX"]
+[Site "local"]
+[Date "2020-12-20 15:21:45.512480"]
+[Round "?"]
+[White "White"]
+[Black "Black"]
+[Result "*"]
+
+*BLACK:
+Final Board:
+[Event "GMFLEX"]
+[Site "local"]
+[Date "2020-12-20 15:21:45.516468"]
+[Round "?"]
+[White "White"]
+[Black "Black"]
+[Result "*"]
+
+*BLACK:
+Final Board:
+[Event "GMFLEX"]
+[Site "local"]
+[Date "2020-12-20 15:21:45.520455"]
+[Round "?"]
+[White "White"]
+[Black "Black"]
+[Result "*"]
+
+*BLACK:
+Final Board:
+[Event "GMFLEX"]
+[Site "local"]
+[Date "2020-12-20 15:21:45.524445"]
+[Round "?"]
+[White "White"]
+[Black "Black"]
+[Result "*"]
+
+*BLACK:
+Final Board:
+[Event "GMFLEX"]
+[Site "local"]
+[Date "2020-12-20 15:21:45.532424"]
+[Round "?"]
+[White "White"]
+[Black "Black"]
+[Result "*"]
+
+*BLACK:
+Final Board:
+[Event "GMFLEX"]
+[Site "local"]
+[Date "2020-12-20 15:21:45.538409"]
+[Round "?"]
+[White "White"]
+[Black "Black"]
+[Result "*"]
+
+*BLACK:
+Final Board:
+[Event "GMFLEX"]
+[Site "local"]
+[Date "2020-12-20 15:21:45.543396"]
+[Round "?"]
+[White "White"]
+[Black "Black"]
+[Result "*"]
+
+*BLACK:
+Final Board:
+[Event "GMFLEX"]
+[Site "local"]
+[Date "2020-12-20 15:21:45.548383"]
+[Round "?"]
+[White "White"]
+[Black "Black"]
+[Result "*"]
+
+*BLACK:
+Final Board:
+[Event "GMFLEX"]
+[Site "local"]
+[Date "2020-12-20 15:21:45.552369"]
+[Round "?"]
+[White "White"]
+[Black "Black"]
+[Result "*"]
+
+*BLACK:
+Final Board:
+[Event "GMFLEX"]
+[Site "local"]
+[Date "2020-12-20 15:21:45.557360"]
+[Round "?"]
+[White "White"]
+[Black "Black"]
+[Result "*"]
+
+*BLACK:
+Final Board:
+[Event "GMFLEX"]
+[Site "local"]
+[Date "2020-12-20 15:21:45.561349"]
+[Round "?"]
+[White "White"]
+[Black "Black"]
+[Result "*"]
+
+*BLACK:
+Final Board:
+[Event "GMFLEX"]
+[Site "local"]
+[Date "2020-12-20 15:21:45.564342"]
+[Round "?"]
+[White "White"]
+[Black "Black"]
+[Result "*"]
+
+*BLACK:
+Final Board:
+[Event "GMFLEX"]
+[Site "local"]
+[Date "2020-12-20 15:21:45.568327"]
+[Round "?"]
+[White "White"]
+[Black "Black"]
+[Result "*"]
+
+*BLACK:
+Final Board:
+[Event "GMFLEX"]
+[Site "local"]
+[Date "2020-12-20 15:21:45.572320"]
+[Round "?"]
+[White "White"]
+[Black "Black"]
+[Result "*"]
+
+*BLACK:
+Final Board:
+[Event "GMFLEX"]
+[Site "local"]
+[Date "2020-12-20 15:21:45.576309"]
+[Round "?"]
+[White "White"]
+[Black "Black"]
+[Result "*"]
+
+*BLACK:
+Final Board:
+[Event "GMFLEX"]
+[Site "local"]
+[Date "2020-12-20 15:21:45.580298"]
+[Round "?"]
+[White "White"]
+[Black "Black"]
+[Result "*"]
+
+*BLACK:
+Final Board:
+[Event "GMFLEX"]
+[Site "local"]
+[Date "2020-12-20 15:21:45.587281"]
+[Round "?"]
+[White "White"]
+[Black "Black"]
+[Result "*"]
+
+*BLACK:
+Final Board:
+[Event "GMFLEX"]
+[Site "local"]
+[Date "2020-12-20 15:21:45.596252"]
+[Round "?"]
+[White "White"]
+[Black "Black"]
+[Result "*"]
+
+*BLACK:
+Final Board:
+[Event "GMFLEX"]
+[Site "local"]
+[Date "2020-12-20 15:21:45.599244"]
+[Round "?"]
+[White "White"]
+[Black "Black"]
+[Result "*"]
+
+*BLACK:
+Final Board:
+[Event "GMFLEX"]
+[Site "local"]
+[Date "2020-12-20 15:21:45.603234"]
+[Round "?"]
+[White "White"]
+[Black "Black"]
+[Result "*"]
+
+*BLACK:
+Final Board:
+[Event "GMFLEX"]
+[Site "local"]
+[Date "2020-12-20 15:21:45.607224"]
+[Round "?"]
+[White "White"]
+[Black "Black"]
+[Result "*"]
+
+*BLACK:
+Final Board:
+[Event "GMFLEX"]
+[Site "local"]
+[Date "2020-12-20 15:21:45.611213"]
+[Round "?"]
+[White "White"]
+[Black "Black"]
+[Result "*"]
+
+*BLACK:
+Final Board:
+[Event "GMFLEX"]
+[Site "local"]
+[Date "2020-12-20 15:21:45.617198"]
+[Round "?"]
+[White "White"]
+[Black "Black"]
+[Result "*"]
+
+*BLACK:
+Final Board:
+[Event "GMFLEX"]
+[Site "local"]
+[Date "2020-12-20 15:21:45.623181"]
+[Round "?"]
+[White "White"]
+[Black "Black"]
+[Result "*"]
+
+*BLACK:
+Final Board:
+[Event "GMFLEX"]
+[Site "local"]
+[Date "2020-12-20 15:21:45.627171"]
+[Round "?"]
+[White "White"]
+[Black "Black"]
+[Result "*"]
+
+*BLACK:
+Final Board:
+[Event "GMFLEX"]
+[Site "local"]
+[Date "2020-12-20 15:21:45.630164"]
+[Round "?"]
+[White "White"]
+[Black "Black"]
+[Result "*"]
+
+*BLACK:
+Final Board:
+[Event "GMFLEX"]
+[Site "local"]
+[Date "2020-12-20 15:21:45.634152"]
+[Round "?"]
+[White "White"]
+[Black "Black"]
+[Result "*"]
+
+*BLACK:
+Final Board:
+[Event "GMFLEX"]
+[Site "local"]
+[Date "2020-12-20 15:21:45.637142"]
+[Round "?"]
+[White "White"]
+[Black "Black"]
+[Result "*"]
+
+*BLACK:
+Final Board:
+[Event "GMFLEX"]
+[Site "local"]
+[Date "2020-12-20 15:21:45.641132"]
+[Round "?"]
+[White "White"]
+[Black "Black"]
+[Result "*"]
+
+*BLACK:
+Final Board:
+[Event "GMFLEX"]
+[Site "local"]
+[Date "2020-12-20 15:21:45.644124"]
+[Round "?"]
+[White "White"]
+[Black "Black"]
+[Result "*"]
+
+*BLACK:
+Final Board:
+[Event "GMFLEX"]
+[Site "local"]
+[Date "2020-12-20 15:21:45.648118"]
+[Round "?"]
+[White "White"]
+[Black "Black"]
+[Result "*"]
+
+*BLACK:
+Final Board:
+[Event "GMFLEX"]
+[Site "local"]
+[Date "2020-12-20 15:21:45.651111"]
+[Round "?"]
+[White "White"]
+[Black "Black"]
+[Result "*"]
+
+*BLACK:
+Final Board:
+[Event "GMFLEX"]
+[Site "local"]
+[Date "2020-12-20 15:21:45.660085"]
+[Round "?"]
+[White "White"]
+[Black "Black"]
+[Result "*"]
+
+*BLACK:
+Final Board:
+[Event "GMFLEX"]
+[Site "local"]
+[Date "2020-12-20 15:21:45.664074"]
+[Round "?"]
+[White "White"]
+[Black "Black"]
+[Result "*"]
+
+*BLACK:
+Final Board:
+[Event "GMFLEX"]
+[Site "local"]
+[Date "2020-12-20 15:21:45.669058"]
+[Round "?"]
+[White "White"]
+[Black "Black"]
+[Result "*"]
+
+*BLACK:
+Final Board:
+[Event "GMFLEX"]
+[Site "local"]
+[Date "2020-12-20 15:21:45.675044"]
+[Round "?"]
+[White "White"]
+[Black "Black"]
+[Result "*"]
+
+*BLACK:
+Final Board:
+[Event "GMFLEX"]
+[Site "local"]
+[Date "2020-12-20 15:21:45.685882"]
+[Round "?"]
+[White "White"]
+[Black "Black"]
+[Result "*"]
+
+*BLACK:
+Final Board:
+[Event "GMFLEX"]
+[Site "local"]
+[Date "2020-12-20 15:21:45.689740"]
+[Round "?"]
+[White "White"]
+[Black "Black"]
+[Result "*"]
+
+*BLACK:
+Final Board:
+[Event "GMFLEX"]
+[Site "local"]
+[Date "2020-12-20 15:21:45.693722"]
+[Round "?"]
+[White "White"]
+[Black "Black"]
+[Result "*"]
+
+*BLACK:
+Final Board:
+[Event "GMFLEX"]
+[Site "local"]
+[Date "2020-12-20 15:21:45.697714"]
+[Round "?"]
+[White "White"]
+[Black "Black"]
+[Result "*"]
+
+*BLACK:
+Final Board:
+[Event "GMFLEX"]
+[Site "local"]
+[Date "2020-12-20 15:21:45.702698"]
+[Round "?"]
+[White "White"]
+[Black "Black"]
+[Result "*"]
+
+*BLACK:
+Final Board:
+[Event "GMFLEX"]
+[Site "local"]
+[Date "2020-12-20 15:21:45.706689"]
+[Round "?"]
+[White "White"]
+[Black "Black"]
+[Result "*"]
+
+*BLACK:
+Final Board:
+[Event "GMFLEX"]
+[Site "local"]
+[Date "2020-12-20 15:21:45.710679"]
+[Round "?"]
+[White "White"]
+[Black "Black"]
+[Result "*"]
+
+*BLACK:
+Final Board:
+[Event "GMFLEX"]
+[Site "local"]
+[Date "2020-12-20 15:21:45.713672"]
+[Round "?"]
+[White "White"]
+[Black "Black"]
+[Result "*"]
+
+*BLACK:
+Final Board:
+[Event "GMFLEX"]
+[Site "local"]
+[Date "2020-12-20 15:21:45.723688"]
+[Round "?"]
+[White "White"]
+[Black "Black"]
+[Result "*"]
+
+*BLACK:
+Final Board:
+[Event "GMFLEX"]
+[Site "local"]
+[Date "2020-12-20 15:21:45.727631"]
+[Round "?"]
+[White "White"]
+[Black "Black"]
+[Result "*"]
+
+*BLACK:
+Final Board:
+[Event "GMFLEX"]
+[Site "local"]
+[Date "2020-12-20 15:21:45.731620"]
+[Round "?"]
+[White "White"]
+[Black "Black"]
+[Result "*"]
+
+*BLACK:
+Final Board:
+[Event "GMFLEX"]
+[Site "local"]
+[Date "2020-12-20 15:21:45.742797"]
+[Round "?"]
+[White "White"]
+[Black "Black"]
+[Result "*"]
+
+*BLACK:
+Final Board:
+[Event "GMFLEX"]
+[Site "local"]
+[Date "2020-12-20 15:21:45.756758"]
+[Round "?"]
+[White "White"]
+[Black "Black"]
+[Result "*"]
+
+*BLACK:
+Final Board:
+[Event "GMFLEX"]
+[Site "local"]
+[Date "2020-12-20 15:21:45.760751"]
+[Round "?"]
+[White "White"]
+[Black "Black"]
+[Result "*"]
+
+*BLACK:
+Final Board:
+[Event "GMFLEX"]
+[Site "local"]
+[Date "2020-12-20 15:21:45.765734"]
+[Round "?"]
+[White "White"]
+[Black "Black"]
+[Result "*"]
+
+*BLACK:
+Final Board:
+[Event "GMFLEX"]
+[Site "local"]
+[Date "2020-12-20 15:21:45.769723"]
+[Round "?"]
+[White "White"]
+[Black "Black"]
+[Result "*"]
+
+*BLACK:
+Final Board:
+[Event "GMFLEX"]
+[Site "local"]
+[Date "2020-12-20 15:21:45.775708"]
+[Round "?"]
+[White "White"]
+[Black "Black"]
+[Result "*"]
+
+*BLACK:
+Final Board:
+[Event "GMFLEX"]
+[Site "local"]
+[Date "2020-12-20 15:21:45.779699"]
+[Round "?"]
+[White "White"]
+[Black "Black"]
+[Result "*"]
+
+*BLACK:
+Final Board:
+[Event "GMFLEX"]
+[Site "local"]
+[Date "2020-12-20 15:21:45.784686"]
+[Round "?"]
+[White "White"]
+[Black "Black"]
+[Result "*"]
+
+*BLACK:
+Final Board:
+[Event "GMFLEX"]
+[Site "local"]
+[Date "2020-12-20 15:21:45.788672"]
+[Round "?"]
+[White "White"]
+[Black "Black"]
+[Result "*"]
+
+*BLACK:
+Final Board:
+[Event "GMFLEX"]
+[Site "local"]
+[Date "2020-12-20 15:21:45.798646"]
+[Round "?"]
+[White "White"]
+[Black "Black"]
+[Result "*"]
+
+*BLACK:
+Final Board:
+[Event "GMFLEX"]
+[Site "local"]
+[Date "2020-12-20 15:21:45.801635"]
+[Round "?"]
+[White "White"]
+[Black "Black"]
+[Result "*"]
+
+*BLACK:
+Final Board:
+[Event "GMFLEX"]
+[Site "local"]
+[Date "2020-12-20 15:21:45.805625"]
+[Round "?"]
+[White "White"]
+[Black "Black"]
+[Result "*"]
+
+*BLACK:
+Final Board:
+[Event "GMFLEX"]
+[Site "local"]
+[Date "2020-12-20 15:21:45.809617"]
+[Round "?"]
+[White "White"]
+[Black "Black"]
+[Result "*"]
+
+*BLACK:
+Final Board:
+[Event "GMFLEX"]
+[Site "local"]
+[Date "2020-12-20 15:21:45.816598"]
+[Round "?"]
+[White "White"]
+[Black "Black"]
+[Result "*"]
+
+*BLACK:
+Final Board:
+[Event "GMFLEX"]
+[Site "local"]
+[Date "2020-12-20 15:21:45.820587"]
+[Round "?"]
+[White "White"]
+[Black "Black"]
+[Result "*"]
+
+*BLACK:
+Final Board:
+[Event "GMFLEX"]
+[Site "local"]
+[Date "2020-12-20 15:21:45.824583"]
+[Round "?"]
+[White "White"]
+[Black "Black"]
+[Result "*"]
+
+*BLACK:
+Final Board:
+[Event "GMFLEX"]
+[Site "local"]
+[Date "2020-12-20 15:21:45.828566"]
+[Round "?"]
+[White "White"]
+[Black "Black"]
+[Result "*"]
+
+*BLACK:
+Final Board:
+[Event "GMFLEX"]
+[Site "local"]
+[Date "2020-12-20 15:21:45.839534"]
+[Round "?"]
+[White "White"]
+[Black "Black"]
+[Result "*"]
+
+*BLACK:
+Final Board:
+[Event "GMFLEX"]
+[Site "local"]
+[Date "2020-12-20 15:21:45.845518"]
+[Round "?"]
+[White "White"]
+[Black "Black"]
+[Result "*"]
+
+*BLACK:
+Final Board:
+[Event "GMFLEX"]
+[Site "local"]
+[Date "2020-12-20 15:21:45.852502"]
+[Round "?"]
+[White "White"]
+[Black "Black"]
+[Result "*"]
+
+*BLACK:
+Final Board:
+[Event "GMFLEX"]
+[Site "local"]
+[Date "2020-12-20 15:21:45.860482"]
+[Round "?"]
+[White "White"]
+[Black "Black"]
+[Result "*"]
+
+*BLACK:
+Final Board:
+[Event "GMFLEX"]
+[Site "local"]
+[Date "2020-12-20 15:21:45.866462"]
+[Round "?"]
+[White "White"]
+[Black "Black"]
+[Result "*"]
+
+*BLACK:
+Final Board:
+[Event "GMFLEX"]
+[Site "local"]
+[Date "2020-12-20 15:21:45.871449"]
+[Round "?"]
+[White "White"]
+[Black "Black"]
+[Result "*"]
+
+*BLACK:
+Final Board:
+[Event "GMFLEX"]
+[Site "local"]
+[Date "2020-12-20 15:21:45.878433"]
+[Round "?"]
+[White "White"]
+[Black "Black"]
+[Result "*"]
+
+*BLACK:
+Final Board:
+[Event "GMFLEX"]
+[Site "local"]
+[Date "2020-12-20 15:21:45.882419"]
+[Round "?"]
+[White "White"]
+[Black "Black"]
+[Result "*"]
+
+*BLACK:
+Final Board:
+[Event "GMFLEX"]
+[Site "local"]
+[Date "2020-12-20 15:21:45.894434"]
+[Round "?"]
+[White "White"]
+[Black "Black"]
+[Result "*"]
+
+*BLACK:
+Final Board:
+[Event "GMFLEX"]
+[Site "local"]
+[Date "2020-12-20 15:21:45.897559"]
+[Round "?"]
+[White "White"]
+[Black "Black"]
+[Result "*"]
+
+*BLACK:
+Final Board:
+[Event "GMFLEX"]
+[Site "local"]
+[Date "2020-12-20 15:21:45.901426"]
+[Round "?"]
+[White "White"]
+[Black "Black"]
+[Result "*"]
+
+*BLACK:
+Final Board:
+[Event "GMFLEX"]
+[Site "local"]
+[Date "2020-12-20 15:21:45.915366"]
+[Round "?"]
+[White "White"]
+[Black "Black"]
+[Result "*"]
+
+*BLACK:
+Final Board:
+[Event "GMFLEX"]
+[Site "local"]
+[Date "2020-12-20 15:21:45.926476"]
+[Round "?"]
+[White "White"]
+[Black "Black"]
+[Result "*"]
+
+*BLACK:
+Final Board:
+[Event "GMFLEX"]
+[Site "local"]
+[Date "2020-12-20 15:21:45.931465"]
+[Round "?"]
+[White "White"]
+[Black "Black"]
+[Result "*"]
+
+*BLACK:
+Final Board:
+[Event "GMFLEX"]
+[Site "local"]
+[Date "2020-12-20 15:21:45.936452"]
+[Round "?"]
+[White "White"]
+[Black "Black"]
+[Result "*"]
+
+*BLACK:
+Final Board:
+[Event "GMFLEX"]
+[Site "local"]
+[Date "2020-12-20 15:21:45.941509"]
+[Round "?"]
+[White "White"]
+[Black "Black"]
+[Result "*"]
+
+*BLACK:
+Final Board:
+[Event "GMFLEX"]
+[Site "local"]
+[Date "2020-12-20 15:21:45.950720"]
+[Round "?"]
+[White "White"]
+[Black "Black"]
+[Result "*"]
+
+*BLACK:
+Final Board:
+[Event "GMFLEX"]
+[Site "local"]
+[Date "2020-12-20 15:21:45.955705"]
+[Round "?"]
+[White "White"]
+[Black "Black"]
+[Result "*"]
+
+*BLACK:
+Final Board:
+[Event "GMFLEX"]
+[Site "local"]
+[Date "2020-12-20 15:21:45.959696"]
+[Round "?"]
+[White "White"]
+[Black "Black"]
+[Result "*"]
+
+*BLACK:
+Final Board:
+[Event "GMFLEX"]
+[Site "local"]
+[Date "2020-12-20 15:21:45.964320"]
+[Round "?"]
+[White "White"]
+[Black "Black"]
+[Result "*"]
+
+*BLACK:
+Final Board:
+[Event "GMFLEX"]
+[Site "local"]
+[Date "2020-12-20 15:21:45.974878"]
+[Round "?"]
+[White "White"]
+[Black "Black"]
+[Result "*"]
+
+*BLACK:
+Final Board:
+[Event "GMFLEX"]
+[Site "local"]
+[Date "2020-12-20 15:21:45.978874"]
+[Round "?"]
+[White "White"]
+[Black "Black"]
+[Result "*"]
+
+*BLACK:
+Final Board:
+[Event "GMFLEX"]
+[Site "local"]
+[Date "2020-12-20 15:21:45.981857"]
+[Round "?"]
+[White "White"]
+[Black "Black"]
+[Result "*"]
+
+*BLACK:
+Final Board:
+[Event "GMFLEX"]
+[Site "local"]
+[Date "2020-12-20 15:21:45.987903"]
+[Round "?"]
+[White "White"]
+[Black "Black"]
+[Result "*"]
+
+*BLACK:
+Final Board:
+[Event "GMFLEX"]
+[Site "local"]
+[Date "2020-12-20 15:21:45.996040"]
+[Round "?"]
+[White "White"]
+[Black "Black"]
+[Result "*"]
+
+*BLACK:
+Final Board:
+[Event "GMFLEX"]
+[Site "local"]
+[Date "2020-12-20 15:21:45.999929"]
+[Round "?"]
+[White "White"]
+[Black "Black"]
+[Result "*"]
+
+*BLACK:
+Final Board:
+[Event "GMFLEX"]
+[Site "local"]
+[Date "2020-12-20 15:21:46.002979"]
+[Round "?"]
+[White "White"]
+[Black "Black"]
+[Result "*"]
+
+*BLACK:
+Final Board:
+[Event "GMFLEX"]
+[Site "local"]
+[Date "2020-12-20 15:21:46.006966"]
+[Round "?"]
+[White "White"]
+[Black "Black"]
+[Result "*"]
+
+*BLACK:
+Final Board:
+[Event "GMFLEX"]
+[Site "local"]
+[Date "2020-12-20 15:21:46.013950"]
+[Round "?"]
+[White "White"]
+[Black "Black"]
+[Result "*"]
+
+*BLACK:
+Final Board:
+[Event "GMFLEX"]
+[Site "local"]
+[Date "2020-12-20 15:21:46.017936"]
+[Round "?"]
+[White "White"]
+[Black "Black"]
+[Result "*"]
+
+*BLACK:
+Final Board:
+[Event "GMFLEX"]
+[Site "local"]
+[Date "2020-12-20 15:21:46.021928"]
+[Round "?"]
+[White "White"]
+[Black "Black"]
+[Result "*"]
+
+*BLACK:
+Final Board:
+[Event "GMFLEX"]
+[Site "local"]
+[Date "2020-12-20 15:21:46.024918"]
+[Round "?"]
+[White "White"]
+[Black "Black"]
+[Result "*"]
+
+*BLACK:
+Final Board:
+[Event "GMFLEX"]
+[Site "local"]
+[Date "2020-12-20 15:21:46.033896"]
+[Round "?"]
+[White "White"]
+[Black "Black"]
+[Result "*"]
+
+*BLACK:
+Final Board:
+[Event "GMFLEX"]
+[Site "local"]
+[Date "2020-12-20 15:21:46.038883"]
+[Round "?"]
+[White "White"]
+[Black "Black"]
+[Result "*"]
+
+*BLACK:
+Final Board:
+[Event "GMFLEX"]
+[Site "local"]
+[Date "2020-12-20 15:21:46.043869"]
+[Round "?"]
+[White "White"]
+[Black "Black"]
+[Result "*"]
+
+*BLACK:
+Final Board:
+[Event "GMFLEX"]
+[Site "local"]
+[Date "2020-12-20 15:21:46.049854"]
+[Round "?"]
+[White "White"]
+[Black "Black"]
+[Result "*"]
+
+*BLACK:
+Final Board:
+[Event "GMFLEX"]
+[Site "local"]
+[Date "2020-12-20 15:21:46.055835"]
+[Round "?"]
+[White "White"]
+[Black "Black"]
+[Result "*"]
+
+*BLACK:
+Final Board:
+[Event "GMFLEX"]
+[Site "local"]
+[Date "2020-12-20 15:21:46.059824"]
+[Round "?"]
+[White "White"]
+[Black "Black"]
+[Result "*"]
+
+*BLACK:
+Final Board:
+[Event "GMFLEX"]
+[Site "local"]
+[Date "2020-12-20 15:21:46.063817"]
+[Round "?"]
+[White "White"]
+[Black "Black"]
+[Result "*"]
+
+*BLACK:
+Final Board:
+[Event "GMFLEX"]
+[Site "local"]
+[Date "2020-12-20 15:21:46.067806"]
+[Round "?"]
+[White "White"]
+[Black "Black"]
+[Result "*"]
+
+*BLACK:
+Final Board:
+[Event "GMFLEX"]
+[Site "local"]
+[Date "2020-12-20 15:21:46.075784"]
+[Round "?"]
+[White "White"]
+[Black "Black"]
+[Result "*"]
+
+*BLACK:
+Final Board:
+[Event "GMFLEX"]
+[Site "local"]
+[Date "2020-12-20 15:21:46.083806"]
+[Round "?"]
+[White "White"]
+[Black "Black"]
+[Result "*"]
+
+*BLACK:
+Final Board:
+[Event "GMFLEX"]
+[Site "local"]
+[Date "2020-12-20 15:21:46.090745"]
+[Round "?"]
+[White "White"]
+[Black "Black"]
+[Result "*"]
+
+*BLACK:
+Final Board:
+[Event "GMFLEX"]
+[Site "local"]
+[Date "2020-12-20 15:21:46.095737"]
+[Round "?"]
+[White "White"]
+[Black "Black"]
+[Result "*"]
+
+*BLACK:
+Final Board:
+[Event "GMFLEX"]
+[Site "local"]
+[Date "2020-12-20 15:21:46.103710"]
+[Round "?"]
+[White "White"]
+[Black "Black"]
+[Result "*"]
+
+*BLACK:
+Final Board:
+[Event "GMFLEX"]
+[Site "local"]
+[Date "2020-12-20 15:21:46.107700"]
+[Round "?"]
+[White "White"]
+[Black "Black"]
+[Result "*"]
+
+*BLACK:
+Final Board:
+[Event "GMFLEX"]
+[Site "local"]
+[Date "2020-12-20 15:21:46.115677"]
+[Round "?"]
+[White "White"]
+[Black "Black"]
+[Result "*"]
+
+*BLACK:
+Final Board:
+[Event "GMFLEX"]
+[Site "local"]
+[Date "2020-12-20 15:21:46.123769"]
+[Round "?"]
+[White "White"]
+[Black "Black"]
+[Result "*"]
+
+*BLACK:
+Final Board:
+[Event "GMFLEX"]
+[Site "local"]
+[Date "2020-12-20 15:21:46.134786"]
+[Round "?"]
+[White "White"]
+[Black "Black"]
+[Result "*"]
+
+*BLACK:
+Final Board:
+[Event "GMFLEX"]
+[Site "local"]
+[Date "2020-12-20 15:21:46.141793"]
+[Round "?"]
+[White "White"]
+[Black "Black"]
+[Result "*"]
+
+*BLACK:
+Final Board:
+[Event "GMFLEX"]
+[Site "local"]
+[Date "2020-12-20 15:21:46.146779"]
+[Round "?"]
+[White "White"]
+[Black "Black"]
+[Result "*"]
+
+*BLACK:
+Final Board:
+[Event "GMFLEX"]
+[Site "local"]
+[Date "2020-12-20 15:21:46.150769"]
+[Round "?"]
+[White "White"]
+[Black "Black"]
+[Result "*"]
+
+*BLACK:
+Final Board:
+[Event "GMFLEX"]
+[Site "local"]
+[Date "2020-12-20 15:21:46.158750"]
+[Round "?"]
+[White "White"]
+[Black "Black"]
+[Result "*"]
+
+*BLACK:
+Final Board:
+[Event "GMFLEX"]
+[Site "local"]
+[Date "2020-12-20 15:21:46.165728"]
+[Round "?"]
+[White "White"]
+[Black "Black"]
+[Result "*"]
+
+*BLACK:
+Final Board:
+[Event "GMFLEX"]
+[Site "local"]
+[Date "2020-12-20 15:21:46.173738"]
+[Round "?"]
+[White "White"]
+[Black "Black"]
+[Result "*"]
+
+*BLACK:
+Final Board:
+[Event "GMFLEX"]
+[Site "local"]
+[Date "2020-12-20 15:21:46.181716"]
+[Round "?"]
+[White "White"]
+[Black "Black"]
+[Result "*"]
+
+*BLACK:
+Final Board:
+[Event "GMFLEX"]
+[Site "local"]
+[Date "2020-12-20 15:21:46.189691"]
+[Round "?"]
+[White "White"]
+[Black "Black"]
+[Result "*"]
+
+*BLACK:
+Final Board:
+[Event "GMFLEX"]
+[Site "local"]
+[Date "2020-12-20 15:21:46.195678"]
+[Round "?"]
+[White "White"]
+[Black "Black"]
+[Result "*"]
+
+*BLACK:
+Final Board:
+[Event "GMFLEX"]
+[Site "local"]
+[Date "2020-12-20 15:21:46.206521"]
+[Round "?"]
+[White "White"]
+[Black "Black"]
+[Result "*"]
+
+*BLACK:
+Final Board:
+[Event "GMFLEX"]
+[Site "local"]
+[Date "2020-12-20 15:21:46.210514"]
+[Round "?"]
+[White "White"]
+[Black "Black"]
+[Result "*"]
+
+*BLACK:
+Final Board:
+[Event "GMFLEX"]
+[Site "local"]
+[Date "2020-12-20 15:21:46.220486"]
+[Round "?"]
+[White "White"]
+[Black "Black"]
+[Result "*"]
+
+*BLACK:
+Final Board:
+[Event "GMFLEX"]
+[Site "local"]
+[Date "2020-12-20 15:21:46.224476"]
+[Round "?"]
+[White "White"]
+[Black "Black"]
+[Result "*"]
+
+*BLACK:
+Final Board:
+[Event "GMFLEX"]
+[Site "local"]
+[Date "2020-12-20 15:21:46.228465"]
+[Round "?"]
+[White "White"]
+[Black "Black"]
+[Result "*"]
+
+*BLACK:
+Final Board:
+[Event "GMFLEX"]
+[Site "local"]
+[Date "2020-12-20 15:21:46.232453"]
+[Round "?"]
+[White "White"]
+[Black "Black"]
+[Result "*"]
+
+*BLACK:
+Final Board:
+[Event "GMFLEX"]
+[Site "local"]
+[Date "2020-12-20 15:21:46.239433"]
+[Round "?"]
+[White "White"]
+[Black "Black"]
+[Result "*"]
+
+*BLACK:
+Final Board:
+[Event "GMFLEX"]
+[Site "local"]
+[Date "2020-12-20 15:21:46.250404"]
+[Round "?"]
+[White "White"]
+[Black "Black"]
+[Result "*"]
+
+*BLACK:
+Final Board:
+[Event "GMFLEX"]
+[Site "local"]
+[Date "2020-12-20 15:21:46.255392"]
+[Round "?"]
+[White "White"]
+[Black "Black"]
+[Result "*"]
+
+*BLACK:
+Final Board:
+[Event "GMFLEX"]
+[Site "local"]
+[Date "2020-12-20 15:21:46.259382"]
+[Round "?"]
+[White "White"]
+[Black "Black"]
+[Result "*"]
+
+*BLACK:
+Final Board:
+[Event "GMFLEX"]
+[Site "local"]
+[Date "2020-12-20 15:21:46.263373"]
+[Round "?"]
+[White "White"]
+[Black "Black"]
+[Result "*"]
+
+*BLACK:
+Final Board:
+[Event "GMFLEX"]
+[Site "local"]
+[Date "2020-12-20 15:21:46.266361"]
+[Round "?"]
+[White "White"]
+[Black "Black"]
+[Result "*"]
+
+*BLACK:
+Final Board:
+[Event "GMFLEX"]
+[Site "local"]
+[Date "2020-12-20 15:21:46.270354"]
+[Round "?"]
+[White "White"]
+[Black "Black"]
+[Result "*"]
+
+*BLACK:
+Final Board:
+[Event "GMFLEX"]
+[Site "local"]
+[Date "2020-12-20 15:21:46.274343"]
+[Round "?"]
+[White "White"]
+[Black "Black"]
+[Result "*"]
+
+*BLACK:
+Final Board:
+[Event "GMFLEX"]
+[Site "local"]
+[Date "2020-12-20 15:21:46.282320"]
+[Round "?"]
+[White "White"]
+[Black "Black"]
+[Result "*"]
+
+*BLACK:
+Final Board:
+[Event "GMFLEX"]
+[Site "local"]
+[Date "2020-12-20 15:21:46.290299"]
+[Round "?"]
+[White "White"]
+[Black "Black"]
+[Result "*"]
+
+*BLACK:
+Final Board:
+[Event "GMFLEX"]
+[Site "local"]
+[Date "2020-12-20 15:21:46.298280"]
+[Round "?"]
+[White "White"]
+[Black "Black"]
+[Result "*"]
+
+*BLACK:
+Final Board:
+[Event "GMFLEX"]
+[Site "local"]
+[Date "2020-12-20 15:21:46.302265"]
+[Round "?"]
+[White "White"]
+[Black "Black"]
+[Result "*"]
+
+*BLACK:
+Final Board:
+[Event "GMFLEX"]
+[Site "local"]
+[Date "2020-12-20 15:21:46.310248"]
+[Round "?"]
+[White "White"]
+[Black "Black"]
+[Result "*"]
+
+*BLACK:
+Final Board:
+[Event "GMFLEX"]
+[Site "local"]
+[Date "2020-12-20 15:21:46.317227"]
+[Round "?"]
+[White "White"]
+[Black "Black"]
+[Result "*"]
+
+*BLACK:
+Final Board:
+[Event "GMFLEX"]
+[Site "local"]
+[Date "2020-12-20 15:21:46.322215"]
+[Round "?"]
+[White "White"]
+[Black "Black"]
+[Result "*"]
+
+*BLACK:
+Final Board:
+[Event "GMFLEX"]
+[Site "local"]
+[Date "2020-12-20 15:21:46.330193"]
+[Round "?"]
+[White "White"]
+[Black "Black"]
+[Result "*"]
+
+*BLACK:
+Final Board:
+[Event "GMFLEX"]
+[Site "local"]
+[Date "2020-12-20 15:21:46.341161"]
+[Round "?"]
+[White "White"]
+[Black "Black"]
+[Result "*"]
+
+*BLACK:
+Final Board:
+[Event "GMFLEX"]
+[Site "local"]
+[Date "2020-12-20 15:21:46.351136"]
+[Round "?"]
+[White "White"]
+[Black "Black"]
+[Result "*"]
+
+*BLACK:
+Final Board:
+[Event "GMFLEX"]
+[Site "local"]
+[Date "2020-12-20 15:21:46.361109"]
+[Round "?"]
+[White "White"]
+[Black "Black"]
+[Result "*"]
+
+*BLACK:
+Final Board:
+[Event "GMFLEX"]
+[Site "local"]
+[Date "2020-12-20 15:21:46.372127"]
+[Round "?"]
+[White "White"]
+[Black "Black"]
+[Result "*"]
+
+*BLACK:
+Final Board:
+[Event "GMFLEX"]
+[Site "local"]
+[Date "2020-12-20 15:21:46.383052"]
+[Round "?"]
+[White "White"]
+[Black "Black"]
+[Result "*"]
+
+*BLACK:
+Final Board:
+[Event "GMFLEX"]
+[Site "local"]
+[Date "2020-12-20 15:21:46.394022"]
+[Round "?"]
+[White "White"]
+[Black "Black"]
+[Result "*"]
+
+*BLACK:
+Final Board:
+[Event "GMFLEX"]
+[Site "local"]
+[Date "2020-12-20 15:21:46.402001"]
+[Round "?"]
+[White "White"]
+[Black "Black"]
+[Result "*"]
+
+*BLACK:
+Final Board:
+[Event "GMFLEX"]
+[Site "local"]
+[Date "2020-12-20 15:21:46.413643"]
+[Round "?"]
+[White "White"]
+[Black "Black"]
+[Result "*"]
+
+*BLACK:
+Final Board:
+[Event "GMFLEX"]
+[Site "local"]
+[Date "2020-12-20 15:21:46.424825"]
+[Round "?"]
+[White "White"]
+[Black "Black"]
+[Result "*"]
+
+*BLACK:
+Final Board:
+[Event "GMFLEX"]
+[Site "local"]
+[Date "2020-12-20 15:21:46.435794"]
+[Round "?"]
+[White "White"]
+[Black "Black"]
+[Result "*"]
+
+*BLACK:
+Final Board:
+[Event "GMFLEX"]
+[Site "local"]
+[Date "2020-12-20 15:21:46.446766"]
+[Round "?"]
+[White "White"]
+[Black "Black"]
+[Result "*"]
+
+*BLACK:
+Final Board:
+[Event "GMFLEX"]
+[Site "local"]
+[Date "2020-12-20 15:21:46.456739"]
+[Round "?"]
+[White "White"]
+[Black "Black"]
+[Result "*"]
+
+*BLACK:
+Final Board:
+[Event "GMFLEX"]
+[Site "local"]
+[Date "2020-12-20 15:21:46.468705"]
+[Round "?"]
+[White "White"]
+[Black "Black"]
+[Result "*"]
+
+*BLACK:
+Final Board:
+[Event "GMFLEX"]
+[Site "local"]
+[Date "2020-12-20 15:21:46.480674"]
+[Round "?"]
+[White "White"]
+[Black "Black"]
+[Result "*"]
+
+*BLACK:
+Final Board:
+[Event "GMFLEX"]
+[Site "local"]
+[Date "2020-12-20 15:21:46.489694"]
+[Round "?"]
+[White "White"]
+[Black "Black"]
+[Result "*"]
+
+*BLACK:
+Final Board:
+[Event "GMFLEX"]
+[Site "local"]
+[Date "2020-12-20 15:21:46.497628"]
+[Round "?"]
+[White "White"]
+[Black "Black"]
+[Result "*"]
+
+*BLACK:
+Final Board:
+[Event "GMFLEX"]
+[Site "local"]
+[Date "2020-12-20 15:21:46.511592"]
+[Round "?"]
+[White "White"]
+[Black "Black"]
+[Result "*"]
+
+*BLACK:
+Final Board:
+[Event "GMFLEX"]
+[Site "local"]
+[Date "2020-12-20 15:21:46.515582"]
+[Round "?"]
+[White "White"]
+[Black "Black"]
+[Result "*"]
+
+*BLACK:
+Final Board:
+[Event "GMFLEX"]
+[Site "local"]
+[Date "2020-12-20 15:21:46.523672"]
+[Round "?"]
+[White "White"]
+[Black "Black"]
+[Result "*"]
+
+*BLACK:
+Final Board:
+[Event "GMFLEX"]
+[Site "local"]
+[Date "2020-12-20 15:21:46.531649"]
+[Round "?"]
+[White "White"]
+[Black "Black"]
+[Result "*"]
+
+*BLACK:
+Final Board:
+[Event "GMFLEX"]
+[Site "local"]
+[Date "2020-12-20 15:21:46.541625"]
+[Round "?"]
+[White "White"]
+[Black "Black"]
+[Result "*"]
+
+*BLACK:
+Final Board:
+[Event "GMFLEX"]
+[Site "local"]
+[Date "2020-12-20 15:21:46.551598"]
+[Round "?"]
+[White "White"]
+[Black "Black"]
+[Result "*"]
+
+*BLACK:
+Final Board:
+[Event "GMFLEX"]
+[Site "local"]
+[Date "2020-12-20 15:21:46.559577"]
+[Round "?"]
+[White "White"]
+[Black "Black"]
+[Result "*"]
+
+*BLACK:
+Final Board:
+[Event "GMFLEX"]
+[Site "local"]
+[Date "2020-12-20 15:21:46.562568"]
+[Round "?"]
+[White "White"]
+[Black "Black"]
+[Result "*"]
+
+*BLACK:
+Final Board:
+[Event "GMFLEX"]
+[Site "local"]
+[Date "2020-12-20 15:21:46.573539"]
+[Round "?"]
+[White "White"]
+[Black "Black"]
+[Result "*"]
+
+*BLACK:
+Final Board:
+[Event "GMFLEX"]
+[Site "local"]
+[Date "2020-12-20 15:21:46.584510"]
+[Round "?"]
+[White "White"]
+[Black "Black"]
+[Result "*"]
+
+*BLACK:
+Final Board:
+[Event "GMFLEX"]
+[Site "local"]
+[Date "2020-12-20 15:21:46.595480"]
+[Round "?"]
+[White "White"]
+[Black "Black"]
+[Result "*"]
+
+*BLACK:
+Final Board:
+[Event "GMFLEX"]
+[Site "local"]
+[Date "2020-12-20 15:21:46.604461"]
+[Round "?"]
+[White "White"]
+[Black "Black"]
+[Result "*"]
+
+*BLACK:
+Final Board:
+[Event "GMFLEX"]
+[Site "local"]
+[Date "2020-12-20 15:21:46.615427"]
+[Round "?"]
+[White "White"]
+[Black "Black"]
+[Result "*"]
+
+*BLACK:
+Final Board:
+[Event "GMFLEX"]
+[Site "local"]
+[Date "2020-12-20 15:21:46.624403"]
+[Round "?"]
+[White "White"]
+[Black "Black"]
+[Result "*"]
+
+*BLACK:
+Final Board:
+[Event "GMFLEX"]
+[Site "local"]
+[Date "2020-12-20 15:21:46.632386"]
+[Round "?"]
+[White "White"]
+[Black "Black"]
+[Result "*"]
+
+*BLACK:
+Final Board:
+[Event "GMFLEX"]
+[Site "local"]
+[Date "2020-12-20 15:21:46.643354"]
+[Round "?"]
+[White "White"]
+[Black "Black"]
+[Result "*"]
+
+*BLACK:
+Final Board:
+[Event "GMFLEX"]
+[Site "local"]
+[Date "2020-12-20 15:21:46.653377"]
+[Round "?"]
+[White "White"]
+[Black "Black"]
+[Result "*"]
+
+*BLACK:
+Final Board:
+[Event "GMFLEX"]
+[Site "local"]
+[Date "2020-12-20 15:21:46.663354"]
+[Round "?"]
+[White "White"]
+[Black "Black"]
+[Result "*"]
+
+*BLACK:
+Final Board:
+[Event "GMFLEX"]
+[Site "local"]
+[Date "2020-12-20 15:21:46.674322"]
+[Round "?"]
+[White "White"]
+[Black "Black"]
+[Result "*"]
+
+*BLACK:
+Final Board:
+[Event "GMFLEX"]
+[Site "local"]
+[Date "2020-12-20 15:21:46.683297"]
+[Round "?"]
+[White "White"]
+[Black "Black"]
+[Result "*"]
+
+*BLACK:
+Final Board:
+[Event "GMFLEX"]
+[Site "local"]
+[Date "2020-12-20 15:21:46.691277"]
+[Round "?"]
+[White "White"]
+[Black "Black"]
+[Result "*"]
+
+*BLACK:
+Final Board:
+[Event "GMFLEX"]
+[Site "local"]
+[Date "2020-12-20 15:21:46.698257"]
+[Round "?"]
+[White "White"]
+[Black "Black"]
+[Result "*"]
+
+*BLACK:
+Final Board:
+[Event "GMFLEX"]
+[Site "local"]
+[Date "2020-12-20 15:21:46.703241"]
+[Round "?"]
+[White "White"]
+[Black "Black"]
+[Result "*"]
+
+*BLACK:
+Final Board:
+[Event "GMFLEX"]
+[Site "local"]
+[Date "2020-12-20 15:21:46.709230"]
+[Round "?"]
+[White "White"]
+[Black "Black"]
+[Result "*"]
+
+*BLACK:
+Final Board:
+[Event "GMFLEX"]
+[Site "local"]
+[Date "2020-12-20 15:21:46.716221"]
+[Round "?"]
+[White "White"]
+[Black "Black"]
+[Result "*"]
+
+*BLACK:
+Final Board:
+[Event "GMFLEX"]
+[Site "local"]
+[Date "2020-12-20 15:21:46.720210"]
+[Round "?"]
+[White "White"]
+[Black "Black"]
+[Result "*"]
+
+*BLACK:
+Final Board:
+[Event "GMFLEX"]
+[Site "local"]
+[Date "2020-12-20 15:21:46.728188"]
+[Round "?"]
+[White "White"]
+[Black "Black"]
+[Result "*"]
+
+*BLACK:
+Final Board:
+[Event "GMFLEX"]
+[Site "local"]
+[Date "2020-12-20 15:21:46.731178"]
+[Round "?"]
+[White "White"]
+[Black "Black"]
+[Result "*"]
+
+*BLACK:
+Final Board:
+[Event "GMFLEX"]
+[Site "local"]
+[Date "2020-12-20 15:21:46.741197"]
+[Round "?"]
+[White "White"]
+[Black "Black"]
+[Result "*"]
+
+*BLACK:
+Final Board:
+[Event "GMFLEX"]
+[Site "local"]
+[Date "2020-12-20 15:21:46.745143"]
+[Round "?"]
+[White "White"]
+[Black "Black"]
+[Result "*"]
+
+*BLACK:
+Final Board:
+[Event "GMFLEX"]
+[Site "local"]
+[Date "2020-12-20 15:21:46.753172"]
+[Round "?"]
+[White "White"]
+[Black "Black"]
+[Result "*"]
+
+*BLACK:
+Final Board:
+[Event "GMFLEX"]
+[Site "local"]
+[Date "2020-12-20 15:21:46.761151"]
+[Round "?"]
+[White "White"]
+[Black "Black"]
+[Result "*"]
+
+*BLACK:
+Final Board:
+[Event "GMFLEX"]
+[Site "local"]
+[Date "2020-12-20 15:21:46.772121"]
+[Round "?"]
+[White "White"]
+[Black "Black"]
+[Result "*"]
+
+*BLACK:
+Final Board:
+[Event "GMFLEX"]
+[Site "local"]
+[Date "2020-12-20 15:21:46.779103"]
+[Round "?"]
+[White "White"]
+[Black "Black"]
+[Result "*"]
+
+*BLACK:
+Final Board:
+[Event "GMFLEX"]
+[Site "local"]
+[Date "2020-12-20 15:21:46.787082"]
+[Round "?"]
+[White "White"]
+[Black "Black"]
+[Result "*"]
+
+*BLACK:
+Final Board:
+[Event "GMFLEX"]
+[Site "local"]
+[Date "2020-12-20 15:21:46.793065"]
+[Round "?"]
+[White "White"]
+[Black "Black"]
+[Result "*"]
+
+*BLACK:
+Final Board:
+[Event "GMFLEX"]
+[Site "local"]
+[Date "2020-12-20 15:21:46.800044"]
+[Round "?"]
+[White "White"]
+[Black "Black"]
+[Result "*"]
+
+*BLACK:
+Final Board:
+[Event "GMFLEX"]
+[Site "local"]
+[Date "2020-12-20 15:21:46.804036"]
+[Round "?"]
+[White "White"]
+[Black "Black"]
+[Result "*"]
+
+*BLACK:
+Final Board:
+[Event "GMFLEX"]
+[Site "local"]
+[Date "2020-12-20 15:21:46.808026"]
+[Round "?"]
+[White "White"]
+[Black "Black"]
+[Result "*"]
+
+*BLACK:
+Final Board:
+[Event "GMFLEX"]
+[Site "local"]
+[Date "2020-12-20 15:21:46.812015"]
+[Round "?"]
+[White "White"]
+[Black "Black"]
+[Result "*"]
+
+*BLACK:
+Final Board:
+[Event "GMFLEX"]
+[Site "local"]
+[Date "2020-12-20 15:21:46.818996"]
+[Round "?"]
+[White "White"]
+[Black "Black"]
+[Result "*"]
+
+*BLACK:
+Final Board:
+[Event "GMFLEX"]
+[Site "local"]
+[Date "2020-12-20 15:21:46.822983"]
+[Round "?"]
+[White "White"]
+[Black "Black"]
+[Result "*"]
+
+*BLACK:
+Final Board:
+[Event "GMFLEX"]
+[Site "local"]
+[Date "2020-12-20 15:21:46.826975"]
+[Round "?"]
+[White "White"]
+[Black "Black"]
+[Result "*"]
+
+*BLACK:
+Final Board:
+[Event "GMFLEX"]
+[Site "local"]
+[Date "2020-12-20 15:21:46.834953"]
+[Round "?"]
+[White "White"]
+[Black "Black"]
+[Result "*"]
+
+*BLACK:
+Final Board:
+[Event "GMFLEX"]
+[Site "local"]
+[Date "2020-12-20 15:21:46.839940"]
+[Round "?"]
+[White "White"]
+[Black "Black"]
+[Result "*"]
+
+*BLACK:
+Final Board:
+[Event "GMFLEX"]
+[Site "local"]
+[Date "2020-12-20 15:21:46.842930"]
+[Round "?"]
+[White "White"]
+[Black "Black"]
+[Result "*"]
+
+*BLACK:
+Final Board:
+[Event "GMFLEX"]
+[Site "local"]
+[Date "2020-12-20 15:21:46.846921"]
+[Round "?"]
+[White "White"]
+[Black "Black"]
+[Result "*"]
+
+*BLACK:
+Final Board:
+[Event "GMFLEX"]
+[Site "local"]
+[Date "2020-12-20 15:21:46.850911"]
+[Round "?"]
+[White "White"]
+[Black "Black"]
+[Result "*"]
+
+*BLACK:
+Final Board:
+[Event "GMFLEX"]
+[Site "local"]
+[Date "2020-12-20 15:21:46.854901"]
+[Round "?"]
+[White "White"]
+[Black "Black"]
+[Result "*"]
+
+*BLACK:
+Final Board:
+[Event "GMFLEX"]
+[Site "local"]
+[Date "2020-12-20 15:21:46.862879"]
+[Round "?"]
+[White "White"]
+[Black "Black"]
+[Result "*"]
+
+*BLACK:
+Final Board:
+[Event "GMFLEX"]
+[Site "local"]
+[Date "2020-12-20 15:21:46.867866"]
+[Round "?"]
+[White "White"]
+[Black "Black"]
+[Result "*"]
+
+*BLACK:
+Final Board:
+[Event "GMFLEX"]
+[Site "local"]
+[Date "2020-12-20 15:21:46.876884"]
+[Round "?"]
+[White "White"]
+[Black "Black"]
+[Result "*"]
+
+*BLACK:
+Final Board:
+[Event "GMFLEX"]
+[Site "local"]
+[Date "2020-12-20 15:21:46.884821"]
+[Round "?"]
+[White "White"]
+[Black "Black"]
+[Result "*"]
+
+*BLACK:
+Final Board:
+[Event "GMFLEX"]
+[Site "local"]
+[Date "2020-12-20 15:21:46.893797"]
+[Round "?"]
+[White "White"]
+[Black "Black"]
+[Result "*"]
+
+*BLACK:
+Final Board:
+[Event "GMFLEX"]
+[Site "local"]
+[Date "2020-12-20 15:21:46.901775"]
+[Round "?"]
+[White "White"]
+[Black "Black"]
+[Result "*"]
+
+*BLACK:
+Final Board:
+[Event "GMFLEX"]
+[Site "local"]
+[Date "2020-12-20 15:21:46.905762"]
+[Round "?"]
+[White "White"]
+[Black "Black"]
+[Result "*"]
+
+*BLACK:
+Final Board:
+[Event "GMFLEX"]
+[Site "local"]
+[Date "2020-12-20 15:21:46.914739"]
+[Round "?"]
+[White "White"]
+[Black "Black"]
+[Result "*"]
+
+*BLACK:
+Final Board:
+[Event "GMFLEX"]
+[Site "local"]
+[Date "2020-12-20 15:21:46.922716"]
+[Round "?"]
+[White "White"]
+[Black "Black"]
+[Result "*"]
+
+*BLACK:
+Final Board:
+[Event "GMFLEX"]
+[Site "local"]
+[Date "2020-12-20 15:21:46.926708"]
+[Round "?"]
+[White "White"]
+[Black "Black"]
+[Result "*"]
+
+*BLACK:
+Final Board:
+[Event "GMFLEX"]
+[Site "local"]
+[Date "2020-12-20 15:21:46.929700"]
+[Round "?"]
+[White "White"]
+[Black "Black"]
+[Result "*"]
+
+*BLACK:
+Final Board:
+[Event "GMFLEX"]
+[Site "local"]
+[Date "2020-12-20 15:21:46.938709"]
+[Round "?"]
+[White "White"]
+[Black "Black"]
+[Result "*"]
+
+*BLACK:
+Final Board:
+[Event "GMFLEX"]
+[Site "local"]
+[Date "2020-12-20 15:21:46.942666"]
+[Round "?"]
+[White "White"]
+[Black "Black"]
+[Result "*"]
+
+*BLACK:
+Final Board:
+[Event "GMFLEX"]
+[Site "local"]
+[Date "2020-12-20 15:21:46.953636"]
+[Round "?"]
+[White "White"]
+[Black "Black"]
+[Result "*"]
+
+*BLACK:
+Final Board:
+[Event "GMFLEX"]
+[Site "local"]
+[Date "2020-12-20 15:21:46.956626"]
+[Round "?"]
+[White "White"]
+[Black "Black"]
+[Result "*"]
+
+*BLACK:
+Final Board:
+[Event "GMFLEX"]
+[Site "local"]
+[Date "2020-12-20 15:21:46.966601"]
+[Round "?"]
+[White "White"]
+[Black "Black"]
+[Result "*"]
+
+*BLACK:
+Final Board:
+[Event "GMFLEX"]
+[Site "local"]
+[Date "2020-12-20 15:21:46.977573"]
+[Round "?"]
+[White "White"]
+[Black "Black"]
+[Result "*"]
+
+*BLACK:
+Final Board:
+[Event "GMFLEX"]
+[Site "local"]
+[Date "2020-12-20 15:21:46.986547"]
+[Round "?"]
+[White "White"]
+[Black "Black"]
+[Result "*"]
+
+*BLACK:
+Final Board:
+[Event "GMFLEX"]
+[Site "local"]
+[Date "2020-12-20 15:21:46.994526"]
+[Round "?"]
+[White "White"]
+[Black "Black"]
+[Result "*"]
+
+*BLACK:
+Final Board:
+[Event "GMFLEX"]
+[Site "local"]
+[Date "2020-12-20 15:21:46.999513"]
+[Round "?"]
+[White "White"]
+[Black "Black"]
+[Result "*"]
+
+*BLACK:
+Final Board:
+[Event "GMFLEX"]
+[Site "local"]
+[Date "2020-12-20 15:21:47.005496"]
+[Round "?"]
+[White "White"]
+[Black "Black"]
+[Result "*"]
+
+*BLACK:
+Final Board:
+[Event "GMFLEX"]
+[Site "local"]
+[Date "2020-12-20 15:21:47.010484"]
+[Round "?"]
+[White "White"]
+[Black "Black"]
+[Result "*"]
+
+*BLACK:
+Final Board:
+[Event "GMFLEX"]
+[Site "local"]
+[Date "2020-12-20 15:21:47.015469"]
+[Round "?"]
+[White "White"]
+[Black "Black"]
+[Result "*"]
+
+*BLACK:
+Final Board:
+[Event "GMFLEX"]
+[Site "local"]
+[Date "2020-12-20 15:21:47.019459"]
+[Round "?"]
+[White "White"]
+[Black "Black"]
+[Result "*"]
+
+*BLACK:
+Final Board:
+[Event "GMFLEX"]
+[Site "local"]
+[Date "2020-12-20 15:21:47.023446"]
+[Round "?"]
+[White "White"]
+[Black "Black"]
+[Result "*"]
+
+*BLACK:
+Final Board:
+[Event "GMFLEX"]
+[Site "local"]
+[Date "2020-12-20 15:21:47.026438"]
+[Round "?"]
+[White "White"]
+[Black "Black"]
+[Result "*"]
+
+*BLACK:
+Final Board:
+[Event "GMFLEX"]
+[Site "local"]
+[Date "2020-12-20 15:21:47.030429"]
+[Round "?"]
+[White "White"]
+[Black "Black"]
+[Result "*"]
+
+*BLACK:
+Final Board:
+[Event "GMFLEX"]
+[Site "local"]
+[Date "2020-12-20 15:21:47.034418"]
+[Round "?"]
+[White "White"]
+[Black "Black"]
+[Result "*"]
+
+*BLACK:
+Final Board:
+[Event "GMFLEX"]
+[Site "local"]
+[Date "2020-12-20 15:21:47.037410"]
+[Round "?"]
+[White "White"]
+[Black "Black"]
+[Result "*"]
+
+*BLACK:
+Final Board:
+[Event "GMFLEX"]
+[Site "local"]
+[Date "2020-12-20 15:21:47.040401"]
+[Round "?"]
+[White "White"]
+[Black "Black"]
+[Result "*"]
+
+*BLACK:
+Final Board:
+[Event "GMFLEX"]
+[Site "local"]
+[Date "2020-12-20 15:21:47.044391"]
+[Round "?"]
+[White "White"]
+[Black "Black"]
+[Result "*"]
+
+*BLACK:
+Final Board:
+[Event "GMFLEX"]
+[Site "local"]
+[Date "2020-12-20 15:21:47.049377"]
+[Round "?"]
+[White "White"]
+[Black "Black"]
+[Result "*"]
+
+*BLACK:
+Final Board:
+[Event "GMFLEX"]
+[Site "local"]
+[Date "2020-12-20 15:21:47.054364"]
+[Round "?"]
+[White "White"]
+[Black "Black"]
+[Result "*"]
+
+*BLACK:
+Final Board:
+[Event "GMFLEX"]
+[Site "local"]
+[Date "2020-12-20 15:21:47.065335"]
+[Round "?"]
+[White "White"]
+[Black "Black"]
+[Result "*"]
+
+*BLACK:
+Final Board:
+[Event "GMFLEX"]
+[Site "local"]
+[Date "2020-12-20 15:21:47.072317"]
+[Round "?"]
+[White "White"]
+[Black "Black"]
+[Result "*"]
+
+*BLACK:
+Final Board:
+[Event "GMFLEX"]
+[Site "local"]
+[Date "2020-12-20 15:21:47.076306"]
+[Round "?"]
+[White "White"]
+[Black "Black"]
+[Result "*"]
+
+*BLACK:
+Final Board:
+[Event "GMFLEX"]
+[Site "local"]
+[Date "2020-12-20 15:21:47.080294"]
+[Round "?"]
+[White "White"]
+[Black "Black"]
+[Result "*"]
+
+*BLACK:
+Final Board:
+[Event "GMFLEX"]
+[Site "local"]
+[Date "2020-12-20 15:21:47.089274"]
+[Round "?"]
+[White "White"]
+[Black "Black"]
+[Result "*"]
+
+*BLACK:
+Final Board:
+[Event "GMFLEX"]
+[Site "local"]
+[Date "2020-12-20 15:21:47.092263"]
+[Round "?"]
+[White "White"]
+[Black "Black"]
+[Result "*"]
+
+*BLACK:
+Final Board:
+[Event "GMFLEX"]
+[Site "local"]
+[Date "2020-12-20 15:21:47.101242"]
+[Round "?"]
+[White "White"]
+[Black "Black"]
+[Result "*"]
+
+*BLACK:
+Final Board:
+[Event "GMFLEX"]
+[Site "local"]
+[Date "2020-12-20 15:21:47.105232"]
+[Round "?"]
+[White "White"]
+[Black "Black"]
+[Result "*"]
+
+*BLACK:
+Final Board:
+[Event "GMFLEX"]
+[Site "local"]
+[Date "2020-12-20 15:21:47.108220"]
+[Round "?"]
+[White "White"]
+[Black "Black"]
+[Result "*"]
+
+*BLACK:
+Final Board:
+[Event "GMFLEX"]
+[Site "local"]
+[Date "2020-12-20 15:21:47.112212"]
+[Round "?"]
+[White "White"]
+[Black "Black"]
+[Result "*"]
+
+*BLACK:
+Final Board:
+[Event "GMFLEX"]
+[Site "local"]
+[Date "2020-12-20 15:21:47.122189"]
+[Round "?"]
+[White "White"]
+[Black "Black"]
+[Result "*"]
+
+*BLACK:
+Final Board:
+[Event "GMFLEX"]
+[Site "local"]
+[Date "2020-12-20 15:21:47.132205"]
+[Round "?"]
+[White "White"]
+[Black "Black"]
+[Result "*"]
+
+*BLACK:
+Final Board:
+[Event "GMFLEX"]
+[Site "local"]
+[Date "2020-12-20 15:21:47.140140"]
+[Round "?"]
+[White "White"]
+[Black "Black"]
+[Result "*"]
+
+*BLACK:
+Final Board:
+[Event "GMFLEX"]
+[Site "local"]
+[Date "2020-12-20 15:21:47.144128"]
+[Round "?"]
+[White "White"]
+[Black "Black"]
+[Result "*"]
+
+*BLACK:
+Final Board:
+[Event "GMFLEX"]
+[Site "local"]
+[Date "2020-12-20 15:21:47.154098"]
+[Round "?"]
+[White "White"]
+[Black "Black"]
+[Result "*"]
+
+*BLACK:
+Final Board:
+[Event "GMFLEX"]
+[Site "local"]
+[Date "2020-12-20 15:21:47.158090"]
+[Round "?"]
+[White "White"]
+[Black "Black"]
+[Result "*"]
+
+*BLACK:
+Final Board:
+[Event "GMFLEX"]
+[Site "local"]
+[Date "2020-12-20 15:21:47.162076"]
+[Round "?"]
+[White "White"]
+[Black "Black"]
+[Result "*"]
+
+*BLACK:
+Final Board:
+[Event "GMFLEX"]
+[Site "local"]
+[Date "2020-12-20 15:21:47.166069"]
+[Round "?"]
+[White "White"]
+[Black "Black"]
+[Result "*"]
+
+*BLACK:
+Final Board:
+[Event "GMFLEX"]
+[Site "local"]
+[Date "2020-12-20 15:21:47.170055"]
+[Round "?"]
+[White "White"]
+[Black "Black"]
+[Result "*"]
+
+*BLACK:
+Final Board:
+[Event "GMFLEX"]
+[Site "local"]
+[Date "2020-12-20 15:21:47.181030"]
+[Round "?"]
+[White "White"]
+[Black "Black"]
+[Result "*"]
+
+*BLACK:
+Final Board:
+[Event "GMFLEX"]
+[Site "local"]
+[Date "2020-12-20 15:21:47.185018"]
+[Round "?"]
+[White "White"]
+[Black "Black"]
+[Result "*"]
+
+*BLACK:
+Final Board:
+[Event "GMFLEX"]
+[Site "local"]
+[Date "2020-12-20 15:21:47.188007"]
+[Round "?"]
+[White "White"]
+[Black "Black"]
+[Result "*"]
+
+*BLACK:
+Final Board:
+[Event "GMFLEX"]
+[Site "local"]
+[Date "2020-12-20 15:21:47.191999"]
+[Round "?"]
+[White "White"]
+[Black "Black"]
+[Result "*"]
+
+*BLACK:
+Final Board:
+[Event "GMFLEX"]
+[Site "local"]
+[Date "2020-12-20 15:21:47.195988"]
+[Round "?"]
+[White "White"]
+[Black "Black"]
+[Result "*"]
+
+*BLACK:
+Final Board:
+[Event "GMFLEX"]
+[Site "local"]
+[Date "2020-12-20 15:21:47.199980"]
+[Round "?"]
+[White "White"]
+[Black "Black"]
+[Result "*"]
+
+*BLACK:
+Final Board:
+[Event "GMFLEX"]
+[Site "local"]
+[Date "2020-12-20 15:21:47.203964"]
+[Round "?"]
+[White "White"]
+[Black "Black"]
+[Result "*"]
+
+*BLACK:
+Final Board:
+[Event "GMFLEX"]
+[Site "local"]
+[Date "2020-12-20 15:21:47.207954"]
+[Round "?"]
+[White "White"]
+[Black "Black"]
+[Result "*"]
+
+*BLACK:
+Final Board:
+[Event "GMFLEX"]
+[Site "local"]
+[Date "2020-12-20 15:21:47.211945"]
+[Round "?"]
+[White "White"]
+[Black "Black"]
+[Result "*"]
+
+*BLACK:
+Final Board:
+[Event "GMFLEX"]
+[Site "local"]
+[Date "2020-12-20 15:21:47.215933"]
+[Round "?"]
+[White "White"]
+[Black "Black"]
+[Result "*"]
+
+*BLACK:
+Final Board:
+[Event "GMFLEX"]
+[Site "local"]
+[Date "2020-12-20 15:21:47.219924"]
+[Round "?"]
+[White "White"]
+[Black "Black"]
+[Result "*"]
+
+*BLACK:
+Final Board:
+[Event "GMFLEX"]
+[Site "local"]
+[Date "2020-12-20 15:21:47.232890"]
+[Round "?"]
+[White "White"]
+[Black "Black"]
+[Result "*"]
+
+*BLACK:
+Final Board:
+[Event "GMFLEX"]
+[Site "local"]
+[Date "2020-12-20 15:21:47.242863"]
+[Round "?"]
+[White "White"]
+[Black "Black"]
+[Result "*"]
+
+*BLACK:
+Final Board:
+[Event "GMFLEX"]
+[Site "local"]
+[Date "2020-12-20 15:21:47.248847"]
+[Round "?"]
+[White "White"]
+[Black "Black"]
+[Result "*"]
+
+*BLACK:
+Final Board:
+[Event "GMFLEX"]
+[Site "local"]
+[Date "2020-12-20 15:21:47.251838"]
+[Round "?"]
+[White "White"]
+[Black "Black"]
+[Result "*"]
+
+*BLACK:
+Final Board:
+[Event "GMFLEX"]
+[Site "local"]
+[Date "2020-12-20 15:21:47.263810"]
+[Round "?"]
+[White "White"]
+[Black "Black"]
+[Result "*"]
+
+*BLACK:
+Final Board:
+[Event "GMFLEX"]
+[Site "local"]
+[Date "2020-12-20 15:21:47.272783"]
+[Round "?"]
+[White "White"]
+[Black "Black"]
+[Result "*"]
+
+*BLACK:
+Final Board:
+[Event "GMFLEX"]
+[Site "local"]
+[Date "2020-12-20 15:21:47.280762"]
+[Round "?"]
+[White "White"]
+[Black "Black"]
+[Result "*"]
+
+*BLACK:
+Final Board:
+[Event "GMFLEX"]
+[Site "local"]
+[Date "2020-12-20 15:21:47.284751"]
+[Round "?"]
+[White "White"]
+[Black "Black"]
+[Result "*"]
+
+*BLACK:
+Final Board:
+[Event "GMFLEX"]
+[Site "local"]
+[Date "2020-12-20 15:21:47.288740"]
+[Round "?"]
+[White "White"]
+[Black "Black"]
+[Result "*"]
+
+*BLACK:
+Final Board:
+[Event "GMFLEX"]
+[Site "local"]
+[Date "2020-12-20 15:21:47.298713"]
+[Round "?"]
+[White "White"]
+[Black "Black"]
+[Result "*"]
+
+*BLACK:
+Final Board:
+[Event "GMFLEX"]
+[Site "local"]
+[Date "2020-12-20 15:21:47.303700"]
+[Round "?"]
+[White "White"]
+[Black "Black"]
+[Result "*"]
+
+*BLACK:
+Final Board:
+[Event "GMFLEX"]
+[Site "local"]
+[Date "2020-12-20 15:21:47.306694"]
+[Round "?"]
+[White "White"]
+[Black "Black"]
+[Result "*"]
+
+*BLACK:
+Final Board:
+[Event "GMFLEX"]
+[Site "local"]
+[Date "2020-12-20 15:21:47.311681"]
+[Round "?"]
+[White "White"]
+[Black "Black"]
+[Result "*"]
+
+*BLACK:
+Final Board:
+[Event "GMFLEX"]
+[Site "local"]
+[Date "2020-12-20 15:21:47.315669"]
+[Round "?"]
+[White "White"]
+[Black "Black"]
+[Result "*"]
+
+*BLACK:
+Final Board:
+[Event "GMFLEX"]
+[Site "local"]
+[Date "2020-12-20 15:21:47.318660"]
+[Round "?"]
+[White "White"]
+[Black "Black"]
+[Result "*"]
+
+*BLACK:
+Final Board:
+[Event "GMFLEX"]
+[Site "local"]
+[Date "2020-12-20 15:21:47.322650"]
+[Round "?"]
+[White "White"]
+[Black "Black"]
+[Result "*"]
+
+*BLACK:
+Final Board:
+[Event "GMFLEX"]
+[Site "local"]
+[Date "2020-12-20 15:21:47.332623"]
+[Round "?"]
+[White "White"]
+[Black "Black"]
+[Result "*"]
+
+*BLACK:
+Final Board:
+[Event "GMFLEX"]
+[Site "local"]
+[Date "2020-12-20 15:21:47.335616"]
+[Round "?"]
+[White "White"]
+[Black "Black"]
+[Result "*"]
+
+*BLACK:
+Final Board:
+[Event "GMFLEX"]
+[Site "local"]
+[Date "2020-12-20 15:21:47.339602"]
+[Round "?"]
+[White "White"]
+[Black "Black"]
+[Result "*"]
+
+*BLACK:
+Final Board:
+[Event "GMFLEX"]
+[Site "local"]
+[Date "2020-12-20 15:21:47.343594"]
+[Round "?"]
+[White "White"]
+[Black "Black"]
+[Result "*"]
+
+*BLACK:
+Final Board:
+[Event "GMFLEX"]
+[Site "local"]
+[Date "2020-12-20 15:21:47.354565"]
+[Round "?"]
+[White "White"]
+[Black "Black"]
+[Result "*"]
+
+*BLACK:
+Final Board:
+[Event "GMFLEX"]
+[Site "local"]
+[Date "2020-12-20 15:21:47.362544"]
+[Round "?"]
+[White "White"]
+[Black "Black"]
+[Result "*"]
+
+*BLACK:
+Final Board:
+[Event "GMFLEX"]
+[Site "local"]
+[Date "2020-12-20 15:21:47.370522"]
+[Round "?"]
+[White "White"]
+[Black "Black"]
+[Result "*"]
+
+*BLACK:
+Final Board:
+[Event "GMFLEX"]
+[Site "local"]
+[Date "2020-12-20 15:21:47.373511"]
+[Round "?"]
+[White "White"]
+[Black "Black"]
+[Result "*"]
+
+*BLACK:
+Final Board:
+[Event "GMFLEX"]
+[Site "local"]
+[Date "2020-12-20 15:21:47.381494"]
+[Round "?"]
+[White "White"]
+[Black "Black"]
+[Result "*"]
+
+*BLACK:
+Final Board:
+[Event "GMFLEX"]
+[Site "local"]
+[Date "2020-12-20 15:21:47.385483"]
+[Round "?"]
+[White "White"]
+[Black "Black"]
+[Result "*"]
+
+*BLACK:
+Final Board:
+[Event "GMFLEX"]
+[Site "local"]
+[Date "2020-12-20 15:21:47.389471"]
+[Round "?"]
+[White "White"]
+[Black "Black"]
+[Result "*"]
+
+*BLACK:
+Final Board:
+[Event "GMFLEX"]
+[Site "local"]
+[Date "2020-12-20 15:21:47.393460"]
+[Round "?"]
+[White "White"]
+[Black "Black"]
+[Result "*"]
+
+*BLACK:
+Final Board:
+[Event "GMFLEX"]
+[Site "local"]
+[Date "2020-12-20 15:21:47.397449"]
+[Round "?"]
+[White "White"]
+[Black "Black"]
+[Result "*"]
+
+*BLACK:
+Final Board:
+[Event "GMFLEX"]
+[Site "local"]
+[Date "2020-12-20 15:21:47.401438"]
+[Round "?"]
+[White "White"]
+[Black "Black"]
+[Result "*"]
+
+*BLACK:
+Final Board:
+[Event "GMFLEX"]
+[Site "local"]
+[Date "2020-12-20 15:21:47.405432"]
+[Round "?"]
+[White "White"]
+[Black "Black"]
+[Result "*"]
+
+*BLACK:
+Final Board:
+[Event "GMFLEX"]
+[Site "local"]
+[Date "2020-12-20 15:21:47.408421"]
+[Round "?"]
+[White "White"]
+[Black "Black"]
+[Result "*"]
+
+*BLACK:
+Final Board:
+[Event "GMFLEX"]
+[Site "local"]
+[Date "2020-12-20 15:21:47.415399"]
+[Round "?"]
+[White "White"]
+[Black "Black"]
+[Result "*"]
+
+*BLACK:
+Final Board:
+[Event "GMFLEX"]
+[Site "local"]
+[Date "2020-12-20 15:21:47.419389"]
+[Round "?"]
+[White "White"]
+[Black "Black"]
+[Result "*"]
+
+*BLACK:
+Final Board:
+[Event "GMFLEX"]
+[Site "local"]
+[Date "2020-12-20 15:21:47.423382"]
+[Round "?"]
+[White "White"]
+[Black "Black"]
+[Result "*"]
+
+*BLACK:
+Final Board:
+[Event "GMFLEX"]
+[Site "local"]
+[Date "2020-12-20 15:21:47.427370"]
+[Round "?"]
+[White "White"]
+[Black "Black"]
+[Result "*"]
+
+*BLACK:
+Final Board:
+[Event "GMFLEX"]
+[Site "local"]
+[Date "2020-12-20 15:21:47.435349"]
+[Round "?"]
+[White "White"]
+[Black "Black"]
+[Result "*"]
+
+*BLACK:
+Final Board:
+[Event "GMFLEX"]
+[Site "local"]
+[Date "2020-12-20 15:21:47.439339"]
+[Round "?"]
+[White "White"]
+[Black "Black"]
+[Result "*"]
+
+*BLACK:
+Final Board:
+[Event "GMFLEX"]
+[Site "local"]
+[Date "2020-12-20 15:21:47.443328"]
+[Round "?"]
+[White "White"]
+[Black "Black"]
+[Result "*"]
+
+*BLACK:
+Final Board:
+[Event "GMFLEX"]
+[Site "local"]
+[Date "2020-12-20 15:21:47.451306"]
+[Round "?"]
+[White "White"]
+[Black "Black"]
+[Result "*"]
+
+*BLACK:
+Final Board:
+[Event "GMFLEX"]
+[Site "local"]
+[Date "2020-12-20 15:21:47.460327"]
+[Round "?"]
+[White "White"]
+[Black "Black"]
+[Result "*"]
+
+*BLACK:
+Final Board:
+[Event "GMFLEX"]
+[Site "local"]
+[Date "2020-12-20 15:21:47.464268"]
+[Round "?"]
+[White "White"]
+[Black "Black"]
+[Result "*"]
+
+*BLACK:
+Final Board:
+[Event "GMFLEX"]
+[Site "local"]
+[Date "2020-12-20 15:21:47.468257"]
+[Round "?"]
+[White "White"]
+[Black "Black"]
+[Result "*"]
+
+*BLACK:
+Final Board:
+[Event "GMFLEX"]
+[Site "local"]
+[Date "2020-12-20 15:21:47.473248"]
+[Round "?"]
+[White "White"]
+[Black "Black"]
+[Result "*"]
+
+*BLACK:
+Final Board:
+[Event "GMFLEX"]
+[Site "local"]
+[Date "2020-12-20 15:21:47.480229"]
+[Round "?"]
+[White "White"]
+[Black "Black"]
+[Result "*"]
+
+*BLACK:
+Final Board:
+[Event "GMFLEX"]
+[Site "local"]
+[Date "2020-12-20 15:21:47.488205"]
+[Round "?"]
+[White "White"]
+[Black "Black"]
+[Result "*"]
+
+*BLACK:
+Final Board:
+[Event "GMFLEX"]
+[Site "local"]
+[Date "2020-12-20 15:21:47.491196"]
+[Round "?"]
+[White "White"]
+[Black "Black"]
+[Result "*"]
+
+*BLACK:
+Final Board:
+[Event "GMFLEX"]
+[Site "local"]
+[Date "2020-12-20 15:21:47.495187"]
+[Round "?"]
+[White "White"]
+[Black "Black"]
+[Result "*"]
+
+*BLACK:
+Final Board:
+[Event "GMFLEX"]
+[Site "local"]
+[Date "2020-12-20 15:21:47.504163"]
+[Round "?"]
+[White "White"]
+[Black "Black"]
+[Result "*"]
+
+*BLACK:
+Final Board:
+[Event "GMFLEX"]
+[Site "local"]
+[Date "2020-12-20 15:21:47.513139"]
+[Round "?"]
+[White "White"]
+[Black "Black"]
+[Result "*"]
+
+*BLACK:
+Final Board:
+[Event "GMFLEX"]
+[Site "local"]
+[Date "2020-12-20 15:21:47.524151"]
+[Round "?"]
+[White "White"]
+[Black "Black"]
+[Result "*"]
+
+*BLACK:
+Final Board:
+[Event "GMFLEX"]
+[Site "local"]
+[Date "2020-12-20 15:21:47.528097"]
+[Round "?"]
+[White "White"]
+[Black "Black"]
+[Result "*"]
+
+*BLACK:
+Final Board:
+[Event "GMFLEX"]
+[Site "local"]
+[Date "2020-12-20 15:21:47.532088"]
+[Round "?"]
+[White "White"]
+[Black "Black"]
+[Result "*"]
+
+*BLACK:
+Final Board:
+[Event "GMFLEX"]
+[Site "local"]
+[Date "2020-12-20 15:21:47.536079"]
+[Round "?"]
+[White "White"]
+[Black "Black"]
+[Result "*"]
+
+*BLACK:
+Final Board:
+[Event "GMFLEX"]
+[Site "local"]
+[Date "2020-12-20 15:21:47.540068"]
+[Round "?"]
+[White "White"]
+[Black "Black"]
+[Result "*"]
+
+*BLACK:
+Final Board:
+[Event "GMFLEX"]
+[Site "local"]
+[Date "2020-12-20 15:21:47.543057"]
+[Round "?"]
+[White "White"]
+[Black "Black"]
+[Result "*"]
+
+*BLACK:
+Final Board:
+[Event "GMFLEX"]
+[Site "local"]
+[Date "2020-12-20 15:21:47.553033"]
+[Round "?"]
+[White "White"]
+[Black "Black"]
+[Result "*"]
+
+*BLACK:
+Final Board:
+[Event "GMFLEX"]
+[Site "local"]
+[Date "2020-12-20 15:21:47.557023"]
+[Round "?"]
+[White "White"]
+[Black "Black"]
+[Result "*"]
+
+*BLACK:
+Final Board:
+[Event "GMFLEX"]
+[Site "local"]
+[Date "2020-12-20 15:21:47.560017"]
+[Round "?"]
+[White "White"]
+[Black "Black"]
+[Result "*"]
+
+*BLACK:
+Final Board:
+[Event "GMFLEX"]
+[Site "local"]
+[Date "2020-12-20 15:21:47.564005"]
+[Round "?"]
+[White "White"]
+[Black "Black"]
+[Result "*"]
+
+*BLACK:
+Final Board:
+[Event "GMFLEX"]
+[Site "local"]
+[Date "2020-12-20 15:21:47.573978"]
+[Round "?"]
+[White "White"]
+[Black "Black"]
+[Result "*"]
+
+*BLACK:
+Final Board:
+[Event "GMFLEX"]
+[Site "local"]
+[Date "2020-12-20 15:21:47.580003"]
+[Round "?"]
+[White "White"]
+[Black "Black"]
+[Result "*"]
+
+*BLACK:
+Final Board:
+[Event "GMFLEX"]
+[Site "local"]
+[Date "2020-12-20 15:21:47.582953"]
+[Round "?"]
+[White "White"]
+[Black "Black"]
+[Result "*"]
+
+*BLACK:
+Final Board:
+[Event "GMFLEX"]
+[Site "local"]
+[Date "2020-12-20 15:21:47.586942"]
+[Round "?"]
+[White "White"]
+[Black "Black"]
+[Result "*"]
+
+*BLACK:
+Final Board:
+[Event "GMFLEX"]
+[Site "local"]
+[Date "2020-12-20 15:21:47.598910"]
+[Round "?"]
+[White "White"]
+[Black "Black"]
+[Result "*"]
+
+*BLACK:
+Final Board:
+[Event "GMFLEX"]
+[Site "local"]
+[Date "2020-12-20 15:21:47.602900"]
+[Round "?"]
+[White "White"]
+[Black "Black"]
+[Result "*"]
+
+*BLACK:
+Final Board:
+[Event "GMFLEX"]
+[Site "local"]
+[Date "2020-12-20 15:21:47.605892"]
+[Round "?"]
+[White "White"]
+[Black "Black"]
+[Result "*"]
+
+*BLACK:
+Final Board:
+[Event "GMFLEX"]
+[Site "local"]
+[Date "2020-12-20 15:21:47.611877"]
+[Round "?"]
+[White "White"]
+[Black "Black"]
+[Result "*"]
+
+*BLACK:
+Final Board:
+[Event "GMFLEX"]
+[Site "local"]
+[Date "2020-12-20 15:21:47.618857"]
+[Round "?"]
+[White "White"]
+[Black "Black"]
+[Result "*"]
+
+*BLACK:
+Final Board:
+[Event "GMFLEX"]
+[Site "local"]
+[Date "2020-12-20 15:21:47.621847"]
+[Round "?"]
+[White "White"]
+[Black "Black"]
+[Result "*"]
+
+*BLACK:
+Final Board:
+[Event "GMFLEX"]
+[Site "local"]
+[Date "2020-12-20 15:21:47.627873"]
+[Round "?"]
+[White "White"]
+[Black "Black"]
+[Result "*"]
+
+*BLACK:
+Final Board:
+[Event "GMFLEX"]
+[Site "local"]
+[Date "2020-12-20 15:21:47.630825"]
+[Round "?"]
+[White "White"]
+[Black "Black"]
+[Result "*"]
+
+*BLACK:
+Final Board:
+[Event "GMFLEX"]
+[Site "local"]
+[Date "2020-12-20 15:21:47.634814"]
+[Round "?"]
+[White "White"]
+[Black "Black"]
+[Result "*"]
+
+*BLACK:
+Final Board:
+[Event "GMFLEX"]
+[Site "local"]
+[Date "2020-12-20 15:21:47.639801"]
+[Round "?"]
+[White "White"]
+[Black "Black"]
+[Result "*"]
+
+*BLACK:
+Final Board:
+[Event "GMFLEX"]
+[Site "local"]
+[Date "2020-12-20 15:21:47.643790"]
+[Round "?"]
+[White "White"]
+[Black "Black"]
+[Result "*"]
+
+*BLACK:
+Final Board:
+[Event "GMFLEX"]
+[Site "local"]
+[Date "2020-12-20 15:21:47.646780"]
+[Round "?"]
+[White "White"]
+[Black "Black"]
+[Result "*"]
+
+*BLACK:
+Final Board:
+[Event "GMFLEX"]
+[Site "local"]
+[Date "2020-12-20 15:21:47.654765"]
+[Round "?"]
+[White "White"]
+[Black "Black"]
+[Result "*"]
+
+*BLACK:
+Final Board:
+[Event "GMFLEX"]
+[Site "local"]
+[Date "2020-12-20 15:21:47.658751"]
+[Round "?"]
+[White "White"]
+[Black "Black"]
+[Result "*"]
+
+*BLACK:
+Final Board:
+[Event "GMFLEX"]
+[Site "local"]
+[Date "2020-12-20 15:21:47.662741"]
+[Round "?"]
+[White "White"]
+[Black "Black"]
+[Result "*"]
+
+*BLACK:
+Final Board:
+[Event "GMFLEX"]
+[Site "local"]
+[Date "2020-12-20 15:21:47.665730"]
+[Round "?"]
+[White "White"]
+[Black "Black"]
+[Result "*"]
+
+*BLACK:
+Final Board:
+[Event "GMFLEX"]
+[Site "local"]
+[Date "2020-12-20 15:21:47.676704"]
+[Round "?"]
+[White "White"]
+[Black "Black"]
+[Result "*"]
+
+*BLACK:
+Final Board:
+[Event "GMFLEX"]
+[Site "local"]
+[Date "2020-12-20 15:21:47.682686"]
+[Round "?"]
+[White "White"]
+[Black "Black"]
+[Result "*"]
+
+*BLACK:
+Final Board:
+[Event "GMFLEX"]
+[Site "local"]
+[Date "2020-12-20 15:21:47.690663"]
+[Round "?"]
+[White "White"]
+[Black "Black"]
+[Result "*"]
+
+*BLACK:
+Final Board:
+[Event "GMFLEX"]
+[Site "local"]
+[Date "2020-12-20 15:21:47.696650"]
+[Round "?"]
+[White "White"]
+[Black "Black"]
+[Result "*"]
+
+*BLACK:
+Final Board:
+[Event "GMFLEX"]
+[Site "local"]
+[Date "2020-12-20 15:21:47.700638"]
+[Round "?"]
+[White "White"]
+[Black "Black"]
+[Result "*"]
+
+*BLACK:
+Final Board:
+[Event "GMFLEX"]
+[Site "local"]
+[Date "2020-12-20 15:21:47.708617"]
+[Round "?"]
+[White "White"]
+[Black "Black"]
+[Result "*"]
+
+*BLACK:
+Final Board:
+[Event "GMFLEX"]
+[Site "local"]
+[Date "2020-12-20 15:21:47.712605"]
+[Round "?"]
+[White "White"]
+[Black "Black"]
+[Result "*"]
+
+*BLACK:
+Final Board:
+[Event "GMFLEX"]
+[Site "local"]
+[Date "2020-12-20 15:21:47.720620"]
+[Round "?"]
+[White "White"]
+[Black "Black"]
+[Result "*"]
+
+*BLACK:
+Final Board:
+[Event "GMFLEX"]
+[Site "local"]
+[Date "2020-12-20 15:21:47.726569"]
+[Round "?"]
+[White "White"]
+[Black "Black"]
+[Result "*"]
+
+*BLACK:
+Final Board:
+[Event "GMFLEX"]
+[Site "local"]
+[Date "2020-12-20 15:21:47.732553"]
+[Round "?"]
+[White "White"]
+[Black "Black"]
+[Result "*"]
+
+*BLACK:
+Final Board:
+[Event "GMFLEX"]
+[Site "local"]
+[Date "2020-12-20 15:21:47.736542"]
+[Round "?"]
+[White "White"]
+[Black "Black"]
+[Result "*"]
+
+*BLACK:
+Final Board:
+[Event "GMFLEX"]
+[Site "local"]
+[Date "2020-12-20 15:21:47.739533"]
+[Round "?"]
+[White "White"]
+[Black "Black"]
+[Result "*"]
+
+*BLACK:
+Final Board:
+[Event "GMFLEX"]
+[Site "local"]
+[Date "2020-12-20 15:21:47.745518"]
+[Round "?"]
+[White "White"]
+[Black "Black"]
+[Result "*"]
+
+*BLACK:
+Final Board:
+[Event "GMFLEX"]
+[Site "local"]
+[Date "2020-12-20 15:21:47.748509"]
+[Round "?"]
+[White "White"]
+[Black "Black"]
+[Result "*"]
+
+*BLACK:
+Final Board:
+[Event "GMFLEX"]
+[Site "local"]
+[Date "2020-12-20 15:21:47.752540"]
+[Round "?"]
+[White "White"]
+[Black "Black"]
+[Result "*"]
+
+*BLACK:
+Final Board:
+[Event "GMFLEX"]
+[Site "local"]
+[Date "2020-12-20 15:21:47.756486"]
+[Round "?"]
+[White "White"]
+[Black "Black"]
+[Result "*"]
+
+*BLACK:
+Final Board:
+[Event "GMFLEX"]
+[Site "local"]
+[Date "2020-12-20 15:21:47.763470"]
+[Round "?"]
+[White "White"]
+[Black "Black"]
+[Result "*"]
+
+*BLACK:
+Final Board:
+[Event "GMFLEX"]
+[Site "local"]
+[Date "2020-12-20 15:21:47.768455"]
+[Round "?"]
+[White "White"]
+[Black "Black"]
+[Result "*"]
+
+*BLACK:
+Final Board:
+[Event "GMFLEX"]
+[Site "local"]
+[Date "2020-12-20 15:21:47.772444"]
+[Round "?"]
+[White "White"]
+[Black "Black"]
+[Result "*"]
+
+*BLACK:
+Final Board:
+[Event "GMFLEX"]
+[Site "local"]
+[Date "2020-12-20 15:21:47.776435"]
+[Round "?"]
+[White "White"]
+[Black "Black"]
+[Result "*"]
+
+*BLACK:
+Final Board:
+[Event "GMFLEX"]
+[Site "local"]
+[Date "2020-12-20 15:21:47.784413"]
+[Round "?"]
+[White "White"]
+[Black "Black"]
+[Result "*"]
+
+*BLACK:
+Final Board:
+[Event "GMFLEX"]
+[Site "local"]
+[Date "2020-12-20 15:21:47.788405"]
+[Round "?"]
+[White "White"]
+[Black "Black"]
+[Result "*"]
+
+*BLACK:
+Final Board:
+[Event "GMFLEX"]
+[Site "local"]
+[Date "2020-12-20 15:21:47.791397"]
+[Round "?"]
+[White "White"]
+[Black "Black"]
+[Result "*"]
+
+*BLACK:
+Final Board:
+[Event "GMFLEX"]
+[Site "local"]
+[Date "2020-12-20 15:21:47.795383"]
+[Round "?"]
+[White "White"]
+[Black "Black"]
+[Result "*"]
+
+*BLACK:
+Final Board:
+[Event "GMFLEX"]
+[Site "local"]
+[Date "2020-12-20 15:21:47.802367"]
+[Round "?"]
+[White "White"]
+[Black "Black"]
+[Result "*"]
+
+*BLACK:
+Final Board:
+[Event "GMFLEX"]
+[Site "local"]
+[Date "2020-12-20 15:21:47.806357"]
+[Round "?"]
+[White "White"]
+[Black "Black"]
+[Result "*"]
+
+*BLACK:
+Final Board:
+[Event "GMFLEX"]
+[Site "local"]
+[Date "2020-12-20 15:21:47.809346"]
+[Round "?"]
+[White "White"]
+[Black "Black"]
+[Result "*"]
+
+*BLACK:
+Final Board:
+[Event "GMFLEX"]
+[Site "local"]
+[Date "2020-12-20 15:21:47.814333"]
+[Round "?"]
+[White "White"]
+[Black "Black"]
+[Result "*"]
+
+*BLACK:
+Final Board:
+[Event "GMFLEX"]
+[Site "local"]
+[Date "2020-12-20 15:21:47.824309"]
+[Round "?"]
+[White "White"]
+[Black "Black"]
+[Result "*"]
+
+*BLACK:
+Final Board:
+[Event "GMFLEX"]
+[Site "local"]
+[Date "2020-12-20 15:21:47.827301"]
+[Round "?"]
+[White "White"]
+[Black "Black"]
+[Result "*"]
+
+*BLACK:
+Final Board:
+[Event "GMFLEX"]
+[Site "local"]
+[Date "2020-12-20 15:21:47.831291"]
+[Round "?"]
+[White "White"]
+[Black "Black"]
+[Result "*"]
+
+*BLACK:
+Final Board:
+[Event "GMFLEX"]
+[Site "local"]
+[Date "2020-12-20 15:21:47.835279"]
+[Round "?"]
+[White "White"]
+[Black "Black"]
+[Result "*"]
+
+*BLACK:
+Final Board:
+[Event "GMFLEX"]
+[Site "local"]
+[Date "2020-12-20 15:21:47.841264"]
+[Round "?"]
+[White "White"]
+[Black "Black"]
+[Result "*"]
+
+*BLACK:
+Final Board:
+[Event "GMFLEX"]
+[Site "local"]
+[Date "2020-12-20 15:21:47.847248"]
+[Round "?"]
+[White "White"]
+[Black "Black"]
+[Result "*"]
+
+*BLACK:
+Final Board:
+[Event "GMFLEX"]
+[Site "local"]
+[Date "2020-12-20 15:21:47.850237"]
+[Round "?"]
+[White "White"]
+[Black "Black"]
+[Result "*"]
+
+*BLACK:
+Final Board:
+[Event "GMFLEX"]
+[Site "local"]
+[Date "2020-12-20 15:21:47.855226"]
+[Round "?"]
+[White "White"]
+[Black "Black"]
+[Result "*"]
+
+*BLACK:
+Final Board:
+[Event "GMFLEX"]
+[Site "local"]
+[Date "2020-12-20 15:21:47.859215"]
+[Round "?"]
+[White "White"]
+[Black "Black"]
+[Result "*"]
+
+*BLACK:
+Final Board:
+[Event "GMFLEX"]
+[Site "local"]
+[Date "2020-12-20 15:21:47.863204"]
+[Round "?"]
+[White "White"]
+[Black "Black"]
+[Result "*"]
+
+*BLACK:
+Final Board:
+[Event "GMFLEX"]
+[Site "local"]
+[Date "2020-12-20 15:21:47.867194"]
+[Round "?"]
+[White "White"]
+[Black "Black"]
+[Result "*"]
+
+*BLACK:
+Final Board:
+[Event "GMFLEX"]
+[Site "local"]
+[Date "2020-12-20 15:21:47.871184"]
+[Round "?"]
+[White "White"]
+[Black "Black"]
+[Result "*"]
+
+*BLACK:
+Final Board:
+[Event "GMFLEX"]
+[Site "local"]
+[Date "2020-12-20 15:21:47.881162"]
+[Round "?"]
+[White "White"]
+[Black "Black"]
+[Result "*"]
+
+*BLACK:
+Final Board:
+[Event "GMFLEX"]
+[Site "local"]
+[Date "2020-12-20 15:21:47.885145"]
+[Round "?"]
+[White "White"]
+[Black "Black"]
+[Result "*"]
+
+*BLACK:
+Final Board:
+[Event "GMFLEX"]
+[Site "local"]
+[Date "2020-12-20 15:21:47.888139"]
+[Round "?"]
+[White "White"]
+[Black "Black"]
+[Result "*"]
+
+*BLACK:
+Final Board:
+[Event "GMFLEX"]
+[Site "local"]
+[Date "2020-12-20 15:21:47.892127"]
+[Round "?"]
+[White "White"]
+[Black "Black"]
+[Result "*"]
+
+*BLACK:
+Final Board:
+[Event "GMFLEX"]
+[Site "local"]
+[Date "2020-12-20 15:21:47.902100"]
+[Round "?"]
+[White "White"]
+[Black "Black"]
+[Result "*"]
+
+*BLACK:
+Final Board:
+[Event "GMFLEX"]
+[Site "local"]
+[Date "2020-12-20 15:21:47.906090"]
+[Round "?"]
+[White "White"]
+[Black "Black"]
+[Result "*"]
+
+*BLACK:
+Final Board:
+[Event "GMFLEX"]
+[Site "local"]
+[Date "2020-12-20 15:21:47.910078"]
+[Round "?"]
+[White "White"]
+[Black "Black"]
+[Result "*"]
+
+*BLACK:
+Final Board:
+[Event "GMFLEX"]
+[Site "local"]
+[Date "2020-12-20 15:21:47.913069"]
+[Round "?"]
+[White "White"]
+[Black "Black"]
+[Result "*"]
+
+*BLACK:
+Final Board:
+[Event "GMFLEX"]
+[Site "local"]
+[Date "2020-12-20 15:21:47.920050"]
+[Round "?"]
+[White "White"]
+[Black "Black"]
+[Result "*"]
+
+*BLACK:
+Final Board:
+[Event "GMFLEX"]
+[Site "local"]
+[Date "2020-12-20 15:21:47.931029"]
+[Round "?"]
+[White "White"]
+[Black "Black"]
+[Result "*"]
+
+*BLACK:
+Final Board:
+[Event "GMFLEX"]
+[Site "local"]
+[Date "2020-12-20 15:21:47.935012"]
+[Round "?"]
+[White "White"]
+[Black "Black"]
+[Result "*"]
+
+*BLACK:
+Final Board:
+[Event "GMFLEX"]
+[Site "local"]
+[Date "2020-12-20 15:21:47.938006"]
+[Round "?"]
+[White "White"]
+[Black "Black"]
+[Result "*"]
+
+*BLACK:
+Final Board:
+[Event "GMFLEX"]
+[Site "local"]
+[Date "2020-12-20 15:21:47.943011"]
+[Round "?"]
+[White "White"]
+[Black "Black"]
+[Result "*"]
+
+*BLACK:
+Final Board:
+[Event "GMFLEX"]
+[Site "local"]
+[Date "2020-12-20 15:21:47.945983"]
+[Round "?"]
+[White "White"]
+[Black "Black"]
+[Result "*"]
+
+*BLACK:
+Final Board:
+[Event "GMFLEX"]
+[Site "local"]
+[Date "2020-12-20 15:21:47.949975"]
+[Round "?"]
+[White "White"]
+[Black "Black"]
+[Result "*"]
+
+*BLACK:
+Final Board:
+[Event "GMFLEX"]
+[Site "local"]
+[Date "2020-12-20 15:21:47.953962"]
+[Round "?"]
+[White "White"]
+[Black "Black"]
+[Result "*"]
+
+*BLACK:
+Final Board:
+[Event "GMFLEX"]
+[Site "local"]
+[Date "2020-12-20 15:21:47.957953"]
+[Round "?"]
+[White "White"]
+[Black "Black"]
+[Result "*"]
+
+*BLACK:
+Final Board:
+[Event "GMFLEX"]
+[Site "local"]
+[Date "2020-12-20 15:21:47.961941"]
+[Round "?"]
+[White "White"]
+[Black "Black"]
+[Result "*"]
+
+*BLACK:
+Final Board:
+[Event "GMFLEX"]
+[Site "local"]
+[Date "2020-12-20 15:21:47.964933"]
+[Round "?"]
+[White "White"]
+[Black "Black"]
+[Result "*"]
+
+*BLACK:
+Final Board:
+[Event "GMFLEX"]
+[Site "local"]
+[Date "2020-12-20 15:21:47.968919"]
+[Round "?"]
+[White "White"]
+[Black "Black"]
+[Result "*"]
+
+*BLACK:
+Final Board:
+[Event "GMFLEX"]
+[Site "local"]
+[Date "2020-12-20 15:21:47.973949"]
+[Round "?"]
+[White "White"]
+[Black "Black"]
+[Result "*"]
+
+*BLACK:
+Final Board:
+[Event "GMFLEX"]
+[Site "local"]
+[Date "2020-12-20 15:21:47.976898"]
+[Round "?"]
+[White "White"]
+[Black "Black"]
+[Result "*"]
+
+*BLACK:
+Final Board:
+[Event "GMFLEX"]
+[Site "local"]
+[Date "2020-12-20 15:21:47.980890"]
+[Round "?"]
+[White "White"]
+[Black "Black"]
+[Result "*"]
+
+*BLACK:
+Final Board:
+[Event "GMFLEX"]
+[Site "local"]
+[Date "2020-12-20 15:21:47.983879"]
+[Round "?"]
+[White "White"]
+[Black "Black"]
+[Result "*"]
+
+*BLACK:
+Final Board:
+[Event "GMFLEX"]
+[Site "local"]
+[Date "2020-12-20 15:21:47.994854"]
+[Round "?"]
+[White "White"]
+[Black "Black"]
+[Result "*"]
+
+*BLACK:
+Final Board:
+[Event "GMFLEX"]
+[Site "local"]
+[Date "2020-12-20 15:21:47.998839"]
+[Round "?"]
+[White "White"]
+[Black "Black"]
+[Result "*"]
+
+*BLACK:
+Final Board:
+[Event "GMFLEX"]
+[Site "local"]
+[Date "2020-12-20 15:21:48.002831"]
+[Round "?"]
+[White "White"]
+[Black "Black"]
+[Result "*"]
+
+*BLACK:
+Final Board:
+[Event "GMFLEX"]
+[Site "local"]
+[Date "2020-12-20 15:21:48.012806"]
+[Round "?"]
+[White "White"]
+[Black "Black"]
+[Result "*"]
+
+*BLACK:
+Final Board:
+[Event "GMFLEX"]
+[Site "local"]
+[Date "2020-12-20 15:21:48.021777"]
+[Round "?"]
+[White "White"]
+[Black "Black"]
+[Result "*"]
+
+*BLACK:
+Final Board:
+[Event "GMFLEX"]
+[Site "local"]
+[Date "2020-12-20 15:21:48.025768"]
+[Round "?"]
+[White "White"]
+[Black "Black"]
+[Result "*"]
+
+*BLACK:
+Final Board:
+[Event "GMFLEX"]
+[Site "local"]
+[Date "2020-12-20 15:21:48.029758"]
+[Round "?"]
+[White "White"]
+[Black "Black"]
+[Result "*"]
+
+*BLACK:
+Final Board:
+[Event "GMFLEX"]
+[Site "local"]
+[Date "2020-12-20 15:21:48.032749"]
+[Round "?"]
+[White "White"]
+[Black "Black"]
+[Result "*"]
+
+*BLACK:
+Final Board:
+[Event "GMFLEX"]
+[Site "local"]
+[Date "2020-12-20 15:21:48.036739"]
+[Round "?"]
+[White "White"]
+[Black "Black"]
+[Result "*"]
+
+*BLACK:
+Final Board:
+[Event "GMFLEX"]
+[Site "local"]
+[Date "2020-12-20 15:21:48.040728"]
+[Round "?"]
+[White "White"]
+[Black "Black"]
+[Result "*"]
+
+*BLACK:
+Final Board:
+[Event "GMFLEX"]
+[Site "local"]
+[Date "2020-12-20 15:21:48.044717"]
+[Round "?"]
+[White "White"]
+[Black "Black"]
+[Result "*"]
+
+*BLACK:
+Final Board:
+[Event "GMFLEX"]
+[Site "local"]
+[Date "2020-12-20 15:21:48.047709"]
+[Round "?"]
+[White "White"]
+[Black "Black"]
+[Result "*"]
+
+*BLACK:
+Final Board:
+[Event "GMFLEX"]
+[Site "local"]
+[Date "2020-12-20 15:21:48.052696"]
+[Round "?"]
+[White "White"]
+[Black "Black"]
+[Result "*"]
+
+*BLACK:
+Final Board:
+[Event "GMFLEX"]
+[Site "local"]
+[Date "2020-12-20 15:21:48.055688"]
+[Round "?"]
+[White "White"]
+[Black "Black"]
+[Result "*"]
+
+*BLACK:
+Final Board:
+[Event "GMFLEX"]
+[Site "local"]
+[Date "2020-12-20 15:21:48.059677"]
+[Round "?"]
+[White "White"]
+[Black "Black"]
+[Result "*"]
+
+*BLACK:
+Final Board:
+[Event "GMFLEX"]
+[Site "local"]
+[Date "2020-12-20 15:21:48.062670"]
+[Round "?"]
+[White "White"]
+[Black "Black"]
+[Result "*"]
+
+*BLACK:
+Final Board:
+[Event "GMFLEX"]
+[Site "local"]
+[Date "2020-12-20 15:21:48.066663"]
+[Round "?"]
+[White "White"]
+[Black "Black"]
+[Result "*"]
+
+*BLACK:
+Final Board:
+[Event "GMFLEX"]
+[Site "local"]
+[Date "2020-12-20 15:21:48.070647"]
+[Round "?"]
+[White "White"]
+[Black "Black"]
+[Result "*"]
+
+*BLACK:
+Final Board:
+[Event "GMFLEX"]
+[Site "local"]
+[Date "2020-12-20 15:21:48.075636"]
+[Round "?"]
+[White "White"]
+[Black "Black"]
+[Result "*"]
+
+*BLACK:
+Final Board:
+[Event "GMFLEX"]
+[Site "local"]
+[Date "2020-12-20 15:21:48.079674"]
+[Round "?"]
+[White "White"]
+[Black "Black"]
+[Result "*"]
+
+*BLACK:
+Final Board:
+[Event "GMFLEX"]
+[Site "local"]
+[Date "2020-12-20 15:21:48.082619"]
+[Round "?"]
+[White "White"]
+[Black "Black"]
+[Result "*"]
+
+*BLACK:
+Final Board:
+[Event "GMFLEX"]
+[Site "local"]
+[Date "2020-12-20 15:21:48.086604"]
+[Round "?"]
+[White "White"]
+[Black "Black"]
+[Result "*"]
+
+*BLACK:
+Final Board:
+[Event "GMFLEX"]
+[Site "local"]
+[Date "2020-12-20 15:21:48.090596"]
+[Round "?"]
+[White "White"]
+[Black "Black"]
+[Result "*"]
+
+*BLACK:
+Final Board:
+[Event "GMFLEX"]
+[Site "local"]
+[Date "2020-12-20 15:21:48.098576"]
+[Round "?"]
+[White "White"]
+[Black "Black"]
+[Result "*"]
+
+*BLACK:
+Final Board:
+[Event "GMFLEX"]
+[Site "local"]
+[Date "2020-12-20 15:21:48.106553"]
+[Round "?"]
+[White "White"]
+[Black "Black"]
+[Result "*"]
+
+*BLACK:
+Final Board:
+[Event "GMFLEX"]
+[Site "local"]
+[Date "2020-12-20 15:21:48.109543"]
+[Round "?"]
+[White "White"]
+[Black "Black"]
+[Result "*"]
+
+*BLACK:
+Final Board:
+[Event "GMFLEX"]
+[Site "local"]
+[Date "2020-12-20 15:21:48.113534"]
+[Round "?"]
+[White "White"]
+[Black "Black"]
+[Result "*"]
+
+*BLACK:
+Final Board:
+[Event "GMFLEX"]
+[Site "local"]
+[Date "2020-12-20 15:21:48.117524"]
+[Round "?"]
+[White "White"]
+[Black "Black"]
+[Result "*"]
+
+*BLACK:
+Final Board:
+[Event "GMFLEX"]
+[Site "local"]
+[Date "2020-12-20 15:21:48.124504"]
+[Round "?"]
+[White "White"]
+[Black "Black"]
+[Result "*"]
+
+*BLACK:
+Final Board:
+[Event "GMFLEX"]
+[Site "local"]
+[Date "2020-12-20 15:21:48.127496"]
+[Round "?"]
+[White "White"]
+[Black "Black"]
+[Result "*"]
+
+*BLACK:
+Final Board:
+[Event "GMFLEX"]
+[Site "local"]
+[Date "2020-12-20 15:21:48.131485"]
+[Round "?"]
+[White "White"]
+[Black "Black"]
+[Result "*"]
+
+*BLACK:
+Final Board:
+[Event "GMFLEX"]
+[Site "local"]
+[Date "2020-12-20 15:21:48.135474"]
+[Round "?"]
+[White "White"]
+[Black "Black"]
+[Result "*"]
+
+*BLACK:
+Final Board:
+[Event "GMFLEX"]
+[Site "local"]
+[Date "2020-12-20 15:21:48.143454"]
+[Round "?"]
+[White "White"]
+[Black "Black"]
+[Result "*"]
+
+*BLACK:
+Final Board:
+[Event "GMFLEX"]
+[Site "local"]
+[Date "2020-12-20 15:21:48.146445"]
+[Round "?"]
+[White "White"]
+[Black "Black"]
+[Result "*"]
+
+*BLACK:
+Final Board:
+[Event "GMFLEX"]
+[Site "local"]
+[Date "2020-12-20 15:21:48.150435"]
+[Round "?"]
+[White "White"]
+[Black "Black"]
+[Result "*"]
+
+*BLACK:
+Final Board:
+[Event "GMFLEX"]
+[Site "local"]
+[Date "2020-12-20 15:21:48.155422"]
+[Round "?"]
+[White "White"]
+[Black "Black"]
+[Result "*"]
+
+*BLACK:
+Final Board:
+[Event "GMFLEX"]
+[Site "local"]
+[Date "2020-12-20 15:21:48.162403"]
+[Round "?"]
+[White "White"]
+[Black "Black"]
+[Result "*"]
+
+*BLACK:
+Final Board:
+[Event "GMFLEX"]
+[Site "local"]
+[Date "2020-12-20 15:21:48.165393"]
+[Round "?"]
+[White "White"]
+[Black "Black"]
+[Result "*"]
+
+*BLACK:
+Final Board:
+[Event "GMFLEX"]
+[Site "local"]
+[Date "2020-12-20 15:21:48.169383"]
+[Round "?"]
+[White "White"]
+[Black "Black"]
+[Result "*"]
+
+*BLACK:
+Final Board:
+[Event "GMFLEX"]
+[Site "local"]
+[Date "2020-12-20 15:21:48.173372"]
+[Round "?"]
+[White "White"]
+[Black "Black"]
+[Result "*"]
+
+*BLACK:
+Final Board:
+[Event "GMFLEX"]
+[Site "local"]
+[Date "2020-12-20 15:21:48.177404"]
+[Round "?"]
+[White "White"]
+[Black "Black"]
+[Result "*"]
+
+*BLACK:
+Final Board:
+[Event "GMFLEX"]
+[Site "local"]
+[Date "2020-12-20 15:21:48.180353"]
+[Round "?"]
+[White "White"]
+[Black "Black"]
+[Result "*"]
+
+*BLACK:
+Final Board:
+[Event "GMFLEX"]
+[Site "local"]
+[Date "2020-12-20 15:21:48.184343"]
+[Round "?"]
+[White "White"]
+[Black "Black"]
+[Result "*"]
+
+*BLACK:
+Final Board:
+[Event "GMFLEX"]
+[Site "local"]
+[Date "2020-12-20 15:21:48.187334"]
+[Round "?"]
+[White "White"]
+[Black "Black"]
+[Result "*"]
+
+*BLACK:
+Final Board:
+[Event "GMFLEX"]
+[Site "local"]
+[Date "2020-12-20 15:21:48.192322"]
+[Round "?"]
+[White "White"]
+[Black "Black"]
+[Result "*"]
+
+*BLACK:
+Final Board:
+[Event "GMFLEX"]
+[Site "local"]
+[Date "2020-12-20 15:24:36.352982"]
+[Round "?"]
+[White "White"]
+[Black "Black"]
+[Result "*"]
+
+*BLACK:
+Final Board:
+[Event "GMFLEX"]
+[Site "local"]
+[Date "2020-12-20 15:24:36.357968"]
+[Round "?"]
+[White "White"]
+[Black "Black"]
+[Result "*"]
+
+*BLACK:
+Final Board:
+[Event "GMFLEX"]
+[Site "local"]
+[Date "2020-12-20 15:24:36.361957"]
+[Round "?"]
+[White "White"]
+[Black "Black"]
+[Result "*"]
+
+*BLACK:
+Final Board:
+[Event "GMFLEX"]
+[Site "local"]
+[Date "2020-12-20 15:24:36.365947"]
+[Round "?"]
+[White "White"]
+[Black "Black"]
+[Result "*"]
+
+*BLACK:
+Final Board:
+[Event "GMFLEX"]
+[Site "local"]
+[Date "2020-12-20 15:24:36.369936"]
+[Round "?"]
+[White "White"]
+[Black "Black"]
+[Result "*"]
+
+*BLACK:
+Final Board:
+[Event "GMFLEX"]
+[Site "local"]
+[Date "2020-12-20 15:24:36.373926"]
+[Round "?"]
+[White "White"]
+[Black "Black"]
+[Result "*"]
+
+*BLACK:
+Final Board:
+[Event "GMFLEX"]
+[Site "local"]
+[Date "2020-12-20 15:24:36.377915"]
+[Round "?"]
+[White "White"]
+[Black "Black"]
+[Result "*"]
+
+*BLACK:
+Final Board:
+[Event "GMFLEX"]
+[Site "local"]
+[Date "2020-12-20 15:24:36.381904"]
+[Round "?"]
+[White "White"]
+[Black "Black"]
+[Result "*"]
+
+*BLACK:
+Final Board:
+[Event "GMFLEX"]
+[Site "local"]
+[Date "2020-12-20 15:24:36.386891"]
+[Round "?"]
+[White "White"]
+[Black "Black"]
+[Result "*"]
+
+*BLACK:
+Final Board:
+[Event "GMFLEX"]
+[Site "local"]
+[Date "2020-12-20 15:24:36.392876"]
+[Round "?"]
+[White "White"]
+[Black "Black"]
+[Result "*"]
+
+*BLACK:
+Final Board:
+[Event "GMFLEX"]
+[Site "local"]
+[Date "2020-12-20 15:24:36.398860"]
+[Round "?"]
+[White "White"]
+[Black "Black"]
+[Result "*"]
+
+*BLACK:
+Final Board:
+[Event "GMFLEX"]
+[Site "local"]
+[Date "2020-12-20 15:24:36.402852"]
+[Round "?"]
+[White "White"]
+[Black "Black"]
+[Result "*"]
+
+*BLACK:
+Final Board:
+[Event "GMFLEX"]
+[Site "local"]
+[Date "2020-12-20 15:24:36.408880"]
+[Round "?"]
+[White "White"]
+[Black "Black"]
+[Result "*"]
+
+*BLACK:
+Final Board:
+[Event "GMFLEX"]
+[Site "local"]
+[Date "2020-12-20 15:24:36.414817"]
+[Round "?"]
+[White "White"]
+[Black "Black"]
+[Result "*"]
+
+*BLACK:
+Final Board:
+[Event "GMFLEX"]
+[Site "local"]
+[Date "2020-12-20 15:24:36.420800"]
+[Round "?"]
+[White "White"]
+[Black "Black"]
+[Result "*"]
+
+*BLACK:
+Final Board:
+[Event "GMFLEX"]
+[Site "local"]
+[Date "2020-12-20 15:24:36.431777"]
+[Round "?"]
+[White "White"]
+[Black "Black"]
+[Result "*"]
+
+*BLACK:
+Final Board:
+[Event "GMFLEX"]
+[Site "local"]
+[Date "2020-12-20 15:24:36.438755"]
+[Round "?"]
+[White "White"]
+[Black "Black"]
+[Result "*"]
+
+*BLACK:
+Final Board:
+[Event "GMFLEX"]
+[Site "local"]
+[Date "2020-12-20 15:24:36.444739"]
+[Round "?"]
+[White "White"]
+[Black "Black"]
+[Result "*"]
+
+*BLACK:
+Final Board:
+[Event "GMFLEX"]
+[Site "local"]
+[Date "2020-12-20 15:24:36.449726"]
+[Round "?"]
+[White "White"]
+[Black "Black"]
+[Result "*"]
+
+*BLACK:
+Final Board:
+[Event "GMFLEX"]
+[Site "local"]
+[Date "2020-12-20 15:24:36.454713"]
+[Round "?"]
+[White "White"]
+[Black "Black"]
+[Result "*"]
+
+*BLACK:
+Final Board:
+[Event "GMFLEX"]
+[Site "local"]
+[Date "2020-12-20 15:24:36.461693"]
+[Round "?"]
+[White "White"]
+[Black "Black"]
+[Result "*"]
+
+*BLACK:
+Final Board:
+[Event "GMFLEX"]
+[Site "local"]
+[Date "2020-12-20 15:24:36.466682"]
+[Round "?"]
+[White "White"]
+[Black "Black"]
+[Result "*"]
+
+*BLACK:
+Final Board:
+[Event "GMFLEX"]
+[Site "local"]
+[Date "2020-12-20 15:24:36.472665"]
+[Round "?"]
+[White "White"]
+[Black "Black"]
+[Result "*"]
+
+*BLACK:
+Final Board:
+[Event "GMFLEX"]
+[Site "local"]
+[Date "2020-12-20 15:24:36.483637"]
+[Round "?"]
+[White "White"]
+[Black "Black"]
+[Result "*"]
+
+*BLACK:
+Final Board:
+[Event "GMFLEX"]
+[Site "local"]
+[Date "2020-12-20 15:24:36.492120"]
+[Round "?"]
+[White "White"]
+[Black "Black"]
+[Result "*"]
+
+*BLACK:
+Final Board:
+[Event "GMFLEX"]
+[Site "local"]
+[Date "2020-12-20 15:24:36.500102"]
+[Round "?"]
+[White "White"]
+[Black "Black"]
+[Result "*"]
+
+*BLACK:
+Final Board:
+[Event "GMFLEX"]
+[Site "local"]
+[Date "2020-12-20 15:24:36.508134"]
+[Round "?"]
+[White "White"]
+[Black "Black"]
+[Result "*"]
+
+*BLACK:
+Final Board:
+[Event "GMFLEX"]
+[Site "local"]
+[Date "2020-12-20 15:24:36.515465"]
+[Round "?"]
+[White "White"]
+[Black "Black"]
+[Result "*"]
+
+*BLACK:
+Final Board:
+[Event "GMFLEX"]
+[Site "local"]
+[Date "2020-12-20 15:24:36.521452"]
+[Round "?"]
+[White "White"]
+[Black "Black"]
+[Result "*"]
+
+*BLACK:
+Final Board:
+[Event "GMFLEX"]
+[Site "local"]
+[Date "2020-12-20 15:24:36.532427"]
+[Round "?"]
+[White "White"]
+[Black "Black"]
+[Result "*"]
+
+*BLACK:
+Final Board:
+[Event "GMFLEX"]
+[Site "local"]
+[Date "2020-12-20 15:24:36.542399"]
+[Round "?"]
+[White "White"]
+[Black "Black"]
+[Result "*"]
+
+*BLACK:
+Final Board:
+[Event "GMFLEX"]
+[Site "local"]
+[Date "2020-12-20 15:24:36.553370"]
+[Round "?"]
+[White "White"]
+[Black "Black"]
+[Result "*"]
+
+*BLACK:
+Final Board:
+[Event "GMFLEX"]
+[Site "local"]
+[Date "2020-12-20 15:24:36.563343"]
+[Round "?"]
+[White "White"]
+[Black "Black"]
+[Result "*"]
+
+*BLACK:
+Final Board:
+[Event "GMFLEX"]
+[Site "local"]
+[Date "2020-12-20 15:24:36.570323"]
+[Round "?"]
+[White "White"]
+[Black "Black"]
+[Result "*"]
+
+*BLACK:
+Final Board:
+[Event "GMFLEX"]
+[Site "local"]
+[Date "2020-12-20 15:24:36.579300"]
+[Round "?"]
+[White "White"]
+[Black "Black"]
+[Result "*"]
+
+*BLACK:
+Final Board:
+[Event "GMFLEX"]
+[Site "local"]
+[Date "2020-12-20 15:24:36.587277"]
+[Round "?"]
+[White "White"]
+[Black "Black"]
+[Result "*"]
+
+*BLACK:
+Final Board:
+[Event "GMFLEX"]
+[Site "local"]
+[Date "2020-12-20 15:24:36.594258"]
+[Round "?"]
+[White "White"]
+[Black "Black"]
+[Result "*"]
+
+*BLACK:
+Final Board:
+[Event "GMFLEX"]
+[Site "local"]
+[Date "2020-12-20 15:24:36.601239"]
+[Round "?"]
+[White "White"]
+[Black "Black"]
+[Result "*"]
+
+*BLACK:
+Final Board:
+[Event "GMFLEX"]
+[Site "local"]
+[Date "2020-12-20 15:24:36.614204"]
+[Round "?"]
+[White "White"]
+[Black "Black"]
+[Result "*"]
+
+*BLACK:
+Final Board:
+[Event "GMFLEX"]
+[Site "local"]
+[Date "2020-12-20 15:24:36.618192"]
+[Round "?"]
+[White "White"]
+[Black "Black"]
+[Result "*"]
+
+*BLACK:
+Final Board:
+[Event "GMFLEX"]
+[Site "local"]
+[Date "2020-12-20 15:24:36.630276"]
+[Round "?"]
+[White "White"]
+[Black "Black"]
+[Result "*"]
+
+*BLACK:
+Final Board:
+[Event "GMFLEX"]
+[Site "local"]
+[Date "2020-12-20 15:24:36.637255"]
+[Round "?"]
+[White "White"]
+[Black "Black"]
+[Result "*"]
+
+*BLACK:
+Final Board:
+[Event "GMFLEX"]
+[Site "local"]
+[Date "2020-12-20 15:24:36.643239"]
+[Round "?"]
+[White "White"]
+[Black "Black"]
+[Result "*"]
+
+*BLACK:
+Final Board:
+[Event "GMFLEX"]
+[Site "local"]
+[Date "2020-12-20 15:24:36.650220"]
+[Round "?"]
+[White "White"]
+[Black "Black"]
+[Result "*"]
+
+*BLACK:
+Final Board:
+[Event "GMFLEX"]
+[Site "local"]
+[Date "2020-12-20 15:24:36.657202"]
+[Round "?"]
+[White "White"]
+[Black "Black"]
+[Result "*"]
+
+*BLACK:
+Final Board:
+[Event "GMFLEX"]
+[Site "local"]
+[Date "2020-12-20 15:24:36.663186"]
+[Round "?"]
+[White "White"]
+[Black "Black"]
+[Result "*"]
+
+*BLACK:
+Final Board:
+[Event "GMFLEX"]
+[Site "local"]
+[Date "2020-12-20 15:24:36.674157"]
+[Round "?"]
+[White "White"]
+[Black "Black"]
+[Result "*"]
+
+*BLACK:
+Final Board:
+[Event "GMFLEX"]
+[Site "local"]
+[Date "2020-12-20 15:24:36.678146"]
+[Round "?"]
+[White "White"]
+[Black "Black"]
+[Result "*"]
+
+*BLACK:
+Final Board:
+[Event "GMFLEX"]
+[Site "local"]
+[Date "2020-12-20 15:24:36.682137"]
+[Round "?"]
+[White "White"]
+[Black "Black"]
+[Result "*"]
+
+*BLACK:
+Final Board:
+[Event "GMFLEX"]
+[Site "local"]
+[Date "2020-12-20 15:24:36.687122"]
+[Round "?"]
+[White "White"]
+[Black "Black"]
+[Result "*"]
+
+*BLACK:
+Final Board:
+[Event "GMFLEX"]
+[Site "local"]
+[Date "2020-12-20 15:24:36.691110"]
+[Round "?"]
+[White "White"]
+[Black "Black"]
+[Result "*"]
+
+*BLACK:
+Final Board:
+[Event "GMFLEX"]
+[Site "local"]
+[Date "2020-12-20 15:24:36.696099"]
+[Round "?"]
+[White "White"]
+[Black "Black"]
+[Result "*"]
+
+*BLACK:
+Final Board:
+[Event "GMFLEX"]
+[Site "local"]
+[Date "2020-12-20 15:24:36.700088"]
+[Round "?"]
+[White "White"]
+[Black "Black"]
+[Result "*"]
+
+*BLACK:
+Final Board:
+[Event "GMFLEX"]
+[Site "local"]
+[Date "2020-12-20 15:24:36.704077"]
+[Round "?"]
+[White "White"]
+[Black "Black"]
+[Result "*"]
+
+*BLACK:
+Final Board:
+[Event "GMFLEX"]
+[Site "local"]
+[Date "2020-12-20 15:24:36.715048"]
+[Round "?"]
+[White "White"]
+[Black "Black"]
+[Result "*"]
+
+*BLACK:
+Final Board:
+[Event "GMFLEX"]
+[Site "local"]
+[Date "2020-12-20 15:24:36.725022"]
+[Round "?"]
+[White "White"]
+[Black "Black"]
+[Result "*"]
+
+*BLACK:
+Final Board:
+[Event "GMFLEX"]
+[Site "local"]
+[Date "2020-12-20 15:24:36.733997"]
+[Round "?"]
+[White "White"]
+[Black "Black"]
+[Result "*"]
+
+*BLACK:
+Final Board:
+[Event "GMFLEX"]
+[Site "local"]
+[Date "2020-12-20 15:24:36.740980"]
+[Round "?"]
+[White "White"]
+[Black "Black"]
+[Result "*"]
+
+*BLACK:
+Final Board:
+[Event "GMFLEX"]
+[Site "local"]
+[Date "2020-12-20 15:24:36.747960"]
+[Round "?"]
+[White "White"]
+[Black "Black"]
+[Result "*"]
+
+*BLACK:
+Final Board:
+[Event "GMFLEX"]
+[Site "local"]
+[Date "2020-12-20 15:24:36.755938"]
+[Round "?"]
+[White "White"]
+[Black "Black"]
+[Result "*"]
+
+*BLACK:
+Final Board:
+[Event "GMFLEX"]
+[Site "local"]
+[Date "2020-12-20 15:24:36.761923"]
+[Round "?"]
+[White "White"]
+[Black "Black"]
+[Result "*"]
+
+*BLACK:
+Final Board:
+[Event "GMFLEX"]
+[Site "local"]
+[Date "2020-12-20 15:24:36.768901"]
+[Round "?"]
+[White "White"]
+[Black "Black"]
+[Result "*"]
+
+*BLACK:
+Final Board:
+[Event "GMFLEX"]
+[Site "local"]
+[Date "2020-12-20 15:24:36.773892"]
+[Round "?"]
+[White "White"]
+[Black "Black"]
+[Result "*"]
+
+*BLACK:
+Final Board:
+[Event "GMFLEX"]
+[Site "local"]
+[Date "2020-12-20 15:24:36.777877"]
+[Round "?"]
+[White "White"]
+[Black "Black"]
+[Result "*"]
+
+*BLACK:
+Final Board:
+[Event "GMFLEX"]
+[Site "local"]
+[Date "2020-12-20 15:24:36.781867"]
+[Round "?"]
+[White "White"]
+[Black "Black"]
+[Result "*"]
+
+*BLACK:
+Final Board:
+[Event "GMFLEX"]
+[Site "local"]
+[Date "2020-12-20 15:24:36.787854"]
+[Round "?"]
+[White "White"]
+[Black "Black"]
+[Result "*"]
+
+*BLACK:
+Final Board:
+[Event "GMFLEX"]
+[Site "local"]
+[Date "2020-12-20 15:24:36.790845"]
+[Round "?"]
+[White "White"]
+[Black "Black"]
+[Result "*"]
+
+*BLACK:
+Final Board:
+[Event "GMFLEX"]
+[Site "local"]
+[Date "2020-12-20 15:24:36.794834"]
+[Round "?"]
+[White "White"]
+[Black "Black"]
+[Result "*"]
+
+*BLACK:
+Final Board:
+[Event "GMFLEX"]
+[Site "local"]
+[Date "2020-12-20 15:24:36.798823"]
+[Round "?"]
+[White "White"]
+[Black "Black"]
+[Result "*"]
+
+*BLACK:
+Final Board:
+[Event "GMFLEX"]
+[Site "local"]
+[Date "2020-12-20 15:24:36.803810"]
+[Round "?"]
+[White "White"]
+[Black "Black"]
+[Result "*"]
+
+*BLACK:
+Final Board:
+[Event "GMFLEX"]
+[Site "local"]
+[Date "2020-12-20 15:24:36.807799"]
+[Round "?"]
+[White "White"]
+[Black "Black"]
+[Result "*"]
+
+*BLACK:
+Final Board:
+[Event "GMFLEX"]
+[Site "local"]
+[Date "2020-12-20 15:24:36.811789"]
+[Round "?"]
+[White "White"]
+[Black "Black"]
+[Result "*"]
+
+*BLACK:
+Final Board:
+[Event "GMFLEX"]
+[Site "local"]
+[Date "2020-12-20 15:24:36.815778"]
+[Round "?"]
+[White "White"]
+[Black "Black"]
+[Result "*"]
+
+*BLACK:
+Final Board:
+[Event "GMFLEX"]
+[Site "local"]
+[Date "2020-12-20 15:24:36.819765"]
+[Round "?"]
+[White "White"]
+[Black "Black"]
+[Result "*"]
+
+*BLACK:
+Final Board:
+[Event "GMFLEX"]
+[Site "local"]
+[Date "2020-12-20 15:24:36.830847"]
+[Round "?"]
+[White "White"]
+[Black "Black"]
+[Result "*"]
+
+*BLACK:
+Final Board:
+[Event "GMFLEX"]
+[Site "local"]
+[Date "2020-12-20 15:24:36.841818"]
+[Round "?"]
+[White "White"]
+[Black "Black"]
+[Result "*"]
+
+*BLACK:
+Final Board:
+[Event "GMFLEX"]
+[Site "local"]
+[Date "2020-12-20 15:24:36.851791"]
+[Round "?"]
+[White "White"]
+[Black "Black"]
+[Result "*"]
+
+*BLACK:
+Final Board:
+[Event "GMFLEX"]
+[Site "local"]
+[Date "2020-12-20 15:24:36.856825"]
+[Round "?"]
+[White "White"]
+[Black "Black"]
+[Result "*"]
+
+*BLACK:
+Final Board:
+[Event "GMFLEX"]
+[Site "local"]
+[Date "2020-12-20 15:24:36.861839"]
+[Round "?"]
+[White "White"]
+[Black "Black"]
+[Result "*"]
+
+*BLACK:
+Final Board:
+[Event "GMFLEX"]
+[Site "local"]
+[Date "2020-12-20 15:24:36.867789"]
+[Round "?"]
+[White "White"]
+[Black "Black"]
+[Result "*"]
+
+*BLACK:
+Final Board:
+[Event "GMFLEX"]
+[Site "local"]
+[Date "2020-12-20 15:24:36.871736"]
+[Round "?"]
+[White "White"]
+[Black "Black"]
+[Result "*"]
+
+*BLACK:
+Final Board:
+[Event "GMFLEX"]
+[Site "local"]
+[Date "2020-12-20 15:24:36.876765"]
+[Round "?"]
+[White "White"]
+[Black "Black"]
+[Result "*"]
+
+*BLACK:
+Final Board:
+[Event "GMFLEX"]
+[Site "local"]
+[Date "2020-12-20 15:24:36.881752"]
+[Round "?"]
+[White "White"]
+[Black "Black"]
+[Result "*"]
+
+*BLACK:
+Final Board:
+[Event "GMFLEX"]
+[Site "local"]
+[Date "2020-12-20 15:24:36.885698"]
+[Round "?"]
+[White "White"]
+[Black "Black"]
+[Result "*"]
+
+*BLACK:
+Final Board:
+[Event "GMFLEX"]
+[Site "local"]
+[Date "2020-12-20 15:24:36.889691"]
+[Round "?"]
+[White "White"]
+[Black "Black"]
+[Result "*"]
+
+*BLACK:
+Final Board:
+[Event "GMFLEX"]
+[Site "local"]
+[Date "2020-12-20 15:24:36.893676"]
+[Round "?"]
+[White "White"]
+[Black "Black"]
+[Result "*"]
+
+*BLACK:
+Final Board:
+[Event "GMFLEX"]
+[Site "local"]
+[Date "2020-12-20 15:24:36.897666"]
+[Round "?"]
+[White "White"]
+[Black "Black"]
+[Result "*"]
+
+*BLACK:
+Final Board:
+[Event "GMFLEX"]
+[Site "local"]
+[Date "2020-12-20 15:24:36.902699"]
+[Round "?"]
+[White "White"]
+[Black "Black"]
+[Result "*"]
+
+*BLACK:
+Final Board:
+[Event "GMFLEX"]
+[Site "local"]
+[Date "2020-12-20 15:24:36.906686"]
+[Round "?"]
+[White "White"]
+[Black "Black"]
+[Result "*"]
+
+*BLACK:
+Final Board:
+[Event "GMFLEX"]
+[Site "local"]
+[Date "2020-12-20 15:24:36.910633"]
+[Round "?"]
+[White "White"]
+[Black "Black"]
+[Result "*"]
+
+*BLACK:
+Final Board:
+[Event "GMFLEX"]
+[Site "local"]
+[Date "2020-12-20 15:24:36.913626"]
+[Round "?"]
+[White "White"]
+[Black "Black"]
+[Result "*"]
+
+*BLACK:
+Final Board:
+[Event "GMFLEX"]
+[Site "local"]
+[Date "2020-12-20 15:24:36.917615"]
+[Round "?"]
+[White "White"]
+[Black "Black"]
+[Result "*"]
+
+*BLACK:
+Final Board:
+[Event "GMFLEX"]
+[Site "local"]
+[Date "2020-12-20 15:24:36.931577"]
+[Round "?"]
+[White "White"]
+[Black "Black"]
+[Result "*"]
+
+*BLACK:
+Final Board:
+[Event "GMFLEX"]
+[Site "local"]
+[Date "2020-12-20 15:24:36.934567"]
+[Round "?"]
+[White "White"]
+[Black "Black"]
+[Result "*"]
+
+*BLACK:
+Final Board:
+[Event "GMFLEX"]
+[Site "local"]
+[Date "2020-12-20 15:24:36.938557"]
+[Round "?"]
+[White "White"]
+[Black "Black"]
+[Result "*"]
+
+*BLACK:
+Final Board:
+[Event "GMFLEX"]
+[Site "local"]
+[Date "2020-12-20 15:24:36.942546"]
+[Round "?"]
+[White "White"]
+[Black "Black"]
+[Result "*"]
+
+*BLACK:
+Final Board:
+[Event "GMFLEX"]
+[Site "local"]
+[Date "2020-12-20 15:24:36.952518"]
+[Round "?"]
+[White "White"]
+[Black "Black"]
+[Result "*"]
+
+*BLACK:
+Final Board:
+[Event "GMFLEX"]
+[Site "local"]
+[Date "2020-12-20 15:24:36.960497"]
+[Round "?"]
+[White "White"]
+[Black "Black"]
+[Result "*"]
+
+*BLACK:
+Final Board:
+[Event "GMFLEX"]
+[Site "local"]
+[Date "2020-12-20 15:24:36.968475"]
+[Round "?"]
+[White "White"]
+[Black "Black"]
+[Result "*"]
+
+*BLACK:
+Final Board:
+[Event "GMFLEX"]
+[Site "local"]
+[Date "2020-12-20 15:24:36.972464"]
+[Round "?"]
+[White "White"]
+[Black "Black"]
+[Result "*"]
+
+*BLACK:
+Final Board:
+[Event "GMFLEX"]
+[Site "local"]
+[Date "2020-12-20 15:24:36.983435"]
+[Round "?"]
+[White "White"]
+[Black "Black"]
+[Result "*"]
+
+*BLACK:
+Final Board:
+[Event "GMFLEX"]
+[Site "local"]
+[Date "2020-12-20 15:24:36.987424"]
+[Round "?"]
+[White "White"]
+[Black "Black"]
+[Result "*"]
+
+*BLACK:
+Final Board:
+[Event "GMFLEX"]
+[Site "local"]
+[Date "2020-12-20 15:24:36.993445"]
+[Round "?"]
+[White "White"]
+[Black "Black"]
+[Result "*"]
+
+*BLACK:
+Final Board:
+[Event "GMFLEX"]
+[Site "local"]
+[Date "2020-12-20 15:24:36.998433"]
+[Round "?"]
+[White "White"]
+[Black "Black"]
+[Result "*"]
+
+*BLACK:
+Final Board:
+[Event "GMFLEX"]
+[Site "local"]
+[Date "2020-12-20 15:24:37.009366"]
+[Round "?"]
+[White "White"]
+[Black "Black"]
+[Result "*"]
+
+*BLACK:
+Final Board:
+[Event "GMFLEX"]
+[Site "local"]
+[Date "2020-12-20 15:24:37.013357"]
+[Round "?"]
+[White "White"]
+[Black "Black"]
+[Result "*"]
+
+*BLACK:
+Final Board:
+[Event "GMFLEX"]
+[Site "local"]
+[Date "2020-12-20 15:24:37.018379"]
+[Round "?"]
+[White "White"]
+[Black "Black"]
+[Result "*"]
+
+*BLACK:
+Final Board:
+[Event "GMFLEX"]
+[Site "local"]
+[Date "2020-12-20 15:24:37.022377"]
+[Round "?"]
+[White "White"]
+[Black "Black"]
+[Result "*"]
+
+*BLACK:
+Final Board:
+[Event "GMFLEX"]
+[Site "local"]
+[Date "2020-12-20 15:24:37.031383"]
+[Round "?"]
+[White "White"]
+[Black "Black"]
+[Result "*"]
+
+*BLACK:
+Final Board:
+[Event "GMFLEX"]
+[Site "local"]
+[Date "2020-12-20 15:24:37.036330"]
+[Round "?"]
+[White "White"]
+[Black "Black"]
+[Result "*"]
+
+*BLACK:
+Final Board:
+[Event "GMFLEX"]
+[Site "local"]
+[Date "2020-12-20 15:24:37.041321"]
+[Round "?"]
+[White "White"]
+[Black "Black"]
+[Result "*"]
+
+*BLACK:
+Final Board:
+[Event "GMFLEX"]
+[Site "local"]
+[Date "2020-12-20 15:24:37.044275"]
+[Round "?"]
+[White "White"]
+[Black "Black"]
+[Result "*"]
+
+*BLACK:
+Final Board:
+[Event "GMFLEX"]
+[Site "local"]
+[Date "2020-12-20 15:24:37.054248"]
+[Round "?"]
+[White "White"]
+[Black "Black"]
+[Result "*"]
+
+*BLACK:
+Final Board:
+[Event "GMFLEX"]
+[Site "local"]
+[Date "2020-12-20 15:24:37.065220"]
+[Round "?"]
+[White "White"]
+[Black "Black"]
+[Result "*"]
+
+*BLACK:
+Final Board:
+[Event "GMFLEX"]
+[Site "local"]
+[Date "2020-12-20 15:24:37.076233"]
+[Round "?"]
+[White "White"]
+[Black "Black"]
+[Result "*"]
+
+*BLACK:
+Final Board:
+[Event "GMFLEX"]
+[Site "local"]
+[Date "2020-12-20 15:24:37.081179"]
+[Round "?"]
+[White "White"]
+[Black "Black"]
+[Result "*"]
+
+*BLACK:
+Final Board:
+[Event "GMFLEX"]
+[Site "local"]
+[Date "2020-12-20 15:24:37.092146"]
+[Round "?"]
+[White "White"]
+[Black "Black"]
+[Result "*"]
+
+*BLACK:
+Final Board:
+[Event "GMFLEX"]
+[Site "local"]
+[Date "2020-12-20 15:24:37.101122"]
+[Round "?"]
+[White "White"]
+[Black "Black"]
+[Result "*"]
+
+*BLACK:
+Final Board:
+[Event "GMFLEX"]
+[Site "local"]
+[Date "2020-12-20 15:24:37.111147"]
+[Round "?"]
+[White "White"]
+[Black "Black"]
+[Result "*"]
+
+*BLACK:
+Final Board:
+[Event "GMFLEX"]
+[Site "local"]
+[Date "2020-12-20 15:24:37.120118"]
+[Round "?"]
+[White "White"]
+[Black "Black"]
+[Result "*"]
+
+*BLACK:
+Final Board:
+[Event "GMFLEX"]
+[Site "local"]
+[Date "2020-12-20 15:24:37.133037"]
+[Round "?"]
+[White "White"]
+[Black "Black"]
+[Result "*"]
+
+*BLACK:
+Final Board:
+[Event "GMFLEX"]
+[Site "local"]
+[Date "2020-12-20 15:24:37.139021"]
+[Round "?"]
+[White "White"]
+[Black "Black"]
+[Result "*"]
+
+*BLACK:
+Final Board:
+[Event "GMFLEX"]
+[Site "local"]
+[Date "2020-12-20 15:24:37.144055"]
+[Round "?"]
+[White "White"]
+[Black "Black"]
+[Result "*"]
+
+*BLACK:
+Final Board:
+[Event "GMFLEX"]
+[Site "local"]
+[Date "2020-12-20 15:24:37.147999"]
+[Round "?"]
+[White "White"]
+[Black "Black"]
+[Result "*"]
+
+*BLACK:
+Final Board:
+[Event "GMFLEX"]
+[Site "local"]
+[Date "2020-12-20 15:24:37.158969"]
+[Round "?"]
+[White "White"]
+[Black "Black"]
+[Result "*"]
+
+*BLACK:
+Final Board:
+[Event "GMFLEX"]
+[Site "local"]
+[Date "2020-12-20 15:24:37.161965"]
+[Round "?"]
+[White "White"]
+[Black "Black"]
+[Result "*"]
+
+*BLACK:
+Final Board:
+[Event "GMFLEX"]
+[Site "local"]
+[Date "2020-12-20 15:24:37.166995"]
+[Round "?"]
+[White "White"]
+[Black "Black"]
+[Result "*"]
+
+*BLACK:
+Final Board:
+[Event "GMFLEX"]
+[Site "local"]
+[Date "2020-12-20 15:24:37.170937"]
+[Round "?"]
+[White "White"]
+[Black "Black"]
+[Result "*"]
+
+*BLACK:
+Final Board:
+[Event "GMFLEX"]
+[Site "local"]
+[Date "2020-12-20 15:24:37.180912"]
+[Round "?"]
+[White "White"]
+[Black "Black"]
+[Result "*"]
+
+*BLACK:
+Final Board:
+[Event "GMFLEX"]
+[Site "local"]
+[Date "2020-12-20 15:24:37.190885"]
+[Round "?"]
+[White "White"]
+[Black "Black"]
+[Result "*"]
+
+*BLACK:
+Final Board:
+[Event "GMFLEX"]
+[Site "local"]
+[Date "2020-12-20 15:24:37.194874"]
+[Round "?"]
+[White "White"]
+[Black "Black"]
+[Result "*"]
+
+*BLACK:
+Final Board:
+[Event "GMFLEX"]
+[Site "local"]
+[Date "2020-12-20 15:24:37.199860"]
+[Round "?"]
+[White "White"]
+[Black "Black"]
+[Result "*"]
+
+*BLACK:
+Final Board:
+[Event "GMFLEX"]
+[Site "local"]
+[Date "2020-12-20 15:24:37.209831"]
+[Round "?"]
+[White "White"]
+[Black "Black"]
+[Result "*"]
+
+*BLACK:
+Final Board:
+[Event "GMFLEX"]
+[Site "local"]
+[Date "2020-12-20 15:24:37.214818"]
+[Round "?"]
+[White "White"]
+[Black "Black"]
+[Result "*"]
+
+*BLACK:
+Final Board:
+[Event "GMFLEX"]
+[Site "local"]
+[Date "2020-12-20 15:24:37.218807"]
+[Round "?"]
+[White "White"]
+[Black "Black"]
+[Result "*"]
+
+*BLACK:
+Final Board:
+[Event "GMFLEX"]
+[Site "local"]
+[Date "2020-12-20 15:24:37.222799"]
+[Round "?"]
+[White "White"]
+[Black "Black"]
+[Result "*"]
+
+*BLACK:
+Final Board:
+[Event "GMFLEX"]
+[Site "local"]
+[Date "2020-12-20 15:24:37.236761"]
+[Round "?"]
+[White "White"]
+[Black "Black"]
+[Result "*"]
+
+*BLACK:
+Final Board:
+[Event "GMFLEX"]
+[Site "local"]
+[Date "2020-12-20 15:24:37.239755"]
+[Round "?"]
+[White "White"]
+[Black "Black"]
+[Result "*"]
+
+*BLACK:
+Final Board:
+[Event "GMFLEX"]
+[Site "local"]
+[Date "2020-12-20 15:24:37.243743"]
+[Round "?"]
+[White "White"]
+[Black "Black"]
+[Result "*"]
+
+*BLACK:
+Final Board:
+[Event "GMFLEX"]
+[Site "local"]
+[Date "2020-12-20 15:24:37.248730"]
+[Round "?"]
+[White "White"]
+[Black "Black"]
+[Result "*"]
+
+*BLACK:
+Final Board:
+[Event "GMFLEX"]
+[Site "local"]
+[Date "2020-12-20 15:24:37.258701"]
+[Round "?"]
+[White "White"]
+[Black "Black"]
+[Result "*"]
+
+*BLACK:
+Final Board:
+[Event "GMFLEX"]
+[Site "local"]
+[Date "2020-12-20 15:24:37.263732"]
+[Round "?"]
+[White "White"]
+[Black "Black"]
+[Result "*"]
+
+*BLACK:
+Final Board:
+[Event "GMFLEX"]
+[Site "local"]
+[Date "2020-12-20 15:24:37.266682"]
+[Round "?"]
+[White "White"]
+[Black "Black"]
+[Result "*"]
+
+*BLACK:
+Final Board:
+[Event "GMFLEX"]
+[Site "local"]
+[Date "2020-12-20 15:24:37.270739"]
+[Round "?"]
+[White "White"]
+[Black "Black"]
+[Result "*"]
+
+*BLACK:
+Final Board:
+[Event "GMFLEX"]
+[Site "local"]
+[Date "2020-12-20 15:24:37.280642"]
+[Round "?"]
+[White "White"]
+[Black "Black"]
+[Result "*"]
+
+*BLACK:
+Final Board:
+[Event "GMFLEX"]
+[Site "local"]
+[Date "2020-12-20 15:24:37.291613"]
+[Round "?"]
+[White "White"]
+[Black "Black"]
+[Result "*"]
+
+*BLACK:
+Final Board:
+[Event "GMFLEX"]
+[Site "local"]
+[Date "2020-12-20 15:24:37.302587"]
+[Round "?"]
+[White "White"]
+[Black "Black"]
+[Result "*"]
+
+*BLACK:
+Final Board:
+[Event "GMFLEX"]
+[Site "local"]
+[Date "2020-12-20 15:24:37.308612"]
+[Round "?"]
+[White "White"]
+[Black "Black"]
+[Result "*"]
+
+*BLACK:
+Final Board:
+[Event "GMFLEX"]
+[Site "local"]
+[Date "2020-12-20 15:24:37.319540"]
+[Round "?"]
+[White "White"]
+[Black "Black"]
+[Result "*"]
+
+*BLACK:
+Final Board:
+[Event "GMFLEX"]
+[Site "local"]
+[Date "2020-12-20 15:24:37.328516"]
+[Round "?"]
+[White "White"]
+[Black "Black"]
+[Result "*"]
+
+*BLACK:
+Final Board:
+[Event "GMFLEX"]
+[Site "local"]
+[Date "2020-12-20 15:24:37.337493"]
+[Round "?"]
+[White "White"]
+[Black "Black"]
+[Result "*"]
+
+*BLACK:
+Final Board:
+[Event "GMFLEX"]
+[Site "local"]
+[Date "2020-12-20 15:24:37.346509"]
+[Round "?"]
+[White "White"]
+[Black "Black"]
+[Result "*"]
+
+*BLACK:
+Final Board:
+[Event "GMFLEX"]
+[Site "local"]
+[Date "2020-12-20 15:24:37.360474"]
+[Round "?"]
+[White "White"]
+[Black "Black"]
+[Result "*"]
+
+*BLACK:
+Final Board:
+[Event "GMFLEX"]
+[Site "local"]
+[Date "2020-12-20 15:24:37.371467"]
+[Round "?"]
+[White "White"]
+[Black "Black"]
+[Result "*"]
+
+*BLACK:
+Final Board:
+[Event "GMFLEX"]
+[Site "local"]
+[Date "2020-12-20 15:24:37.375431"]
+[Round "?"]
+[White "White"]
+[Black "Black"]
+[Result "*"]
+
+*BLACK:
+Final Board:
+[Event "GMFLEX"]
+[Site "local"]
+[Date "2020-12-20 15:24:37.383366"]
+[Round "?"]
+[White "White"]
+[Black "Black"]
+[Result "*"]
+
+*BLACK:
+Final Board:
+[Event "GMFLEX"]
+[Site "local"]
+[Date "2020-12-20 15:24:37.394340"]
+[Round "?"]
+[White "White"]
+[Black "Black"]
+[Result "*"]
+
+*BLACK:
+Final Board:
+[Event "GMFLEX"]
+[Site "local"]
+[Date "2020-12-20 15:24:37.398329"]
+[Round "?"]
+[White "White"]
+[Black "Black"]
+[Result "*"]
+
+*BLACK:
+Final Board:
+[Event "GMFLEX"]
+[Site "local"]
+[Date "2020-12-20 15:24:37.408341"]
+[Round "?"]
+[White "White"]
+[Black "Black"]
+[Result "*"]
+
+*BLACK:
+Final Board:
+[Event "GMFLEX"]
+[Site "local"]
+[Date "2020-12-20 15:24:37.417276"]
+[Round "?"]
+[White "White"]
+[Black "Black"]
+[Result "*"]
+
+*BLACK:
+Final Board:
+[Event "GMFLEX"]
+[Site "local"]
+[Date "2020-12-20 15:24:37.426254"]
+[Round "?"]
+[White "White"]
+[Black "Black"]
+[Result "*"]
+
+*BLACK:
+Final Board:
+[Event "GMFLEX"]
+[Site "local"]
+[Date "2020-12-20 15:24:37.430243"]
+[Round "?"]
+[White "White"]
+[Black "Black"]
+[Result "*"]
+
+*BLACK:
+Final Board:
+[Event "GMFLEX"]
+[Site "local"]
+[Date "2020-12-20 15:24:37.435271"]
+[Round "?"]
+[White "White"]
+[Black "Black"]
+[Result "*"]
+
+*BLACK:
+Final Board:
+[Event "GMFLEX"]
+[Site "local"]
+[Date "2020-12-20 15:24:37.443207"]
+[Round "?"]
+[White "White"]
+[Black "Black"]
+[Result "*"]
+
+*BLACK:
+Final Board:
+[Event "GMFLEX"]
+[Site "local"]
+[Date "2020-12-20 15:24:37.449246"]
+[Round "?"]
+[White "White"]
+[Black "Black"]
+[Result "*"]
+
+*BLACK:
+Final Board:
+[Event "GMFLEX"]
+[Site "local"]
+[Date "2020-12-20 15:24:37.454177"]
+[Round "?"]
+[White "White"]
+[Black "Black"]
+[Result "*"]
+
+*BLACK:
+Final Board:
+[Event "GMFLEX"]
+[Site "local"]
+[Date "2020-12-20 15:24:37.459163"]
+[Round "?"]
+[White "White"]
+[Black "Black"]
+[Result "*"]
+
+*BLACK:
+Final Board:
+[Event "GMFLEX"]
+[Site "local"]
+[Date "2020-12-20 15:24:37.464150"]
+[Round "?"]
+[White "White"]
+[Black "Black"]
+[Result "*"]
+
+*BLACK:
+Final Board:
+[Event "GMFLEX"]
+[Site "local"]
+[Date "2020-12-20 15:24:37.472129"]
+[Round "?"]
+[White "White"]
+[Black "Black"]
+[Result "*"]
+
+*BLACK:
+Final Board:
+[Event "GMFLEX"]
+[Site "local"]
+[Date "2020-12-20 15:24:37.475120"]
+[Round "?"]
+[White "White"]
+[Black "Black"]
+[Result "*"]
+
+*BLACK:
+Final Board:
+[Event "GMFLEX"]
+[Site "local"]
+[Date "2020-12-20 15:24:37.479110"]
+[Round "?"]
+[White "White"]
+[Black "Black"]
+[Result "*"]
+
+*BLACK:
+Final Board:
+[Event "GMFLEX"]
+[Site "local"]
+[Date "2020-12-20 15:24:37.483099"]
+[Round "?"]
+[White "White"]
+[Black "Black"]
+[Result "*"]
+
+*BLACK:
+Final Board:
+[Event "GMFLEX"]
+[Site "local"]
+[Date "2020-12-20 15:24:37.489085"]
+[Round "?"]
+[White "White"]
+[Black "Black"]
+[Result "*"]
+
+*BLACK:
+Final Board:
+[Event "GMFLEX"]
+[Site "local"]
+[Date "2020-12-20 15:24:37.495068"]
+[Round "?"]
+[White "White"]
+[Black "Black"]
+[Result "*"]
+
+*BLACK:
+Final Board:
+[Event "GMFLEX"]
+[Site "local"]
+[Date "2020-12-20 15:24:37.499057"]
+[Round "?"]
+[White "White"]
+[Black "Black"]
+[Result "*"]
+
+*BLACK:
+Final Board:
+[Event "GMFLEX"]
+[Site "local"]
+[Date "2020-12-20 15:24:37.506039"]
+[Round "?"]
+[White "White"]
+[Black "Black"]
+[Result "*"]
+
+*BLACK:
+Final Board:
+[Event "GMFLEX"]
+[Site "local"]
+[Date "2020-12-20 15:24:37.511025"]
+[Round "?"]
+[White "White"]
+[Black "Black"]
+[Result "*"]
+
+*BLACK:
+Final Board:
+[Event "GMFLEX"]
+[Site "local"]
+[Date "2020-12-20 15:24:37.521995"]
+[Round "?"]
+[White "White"]
+[Black "Black"]
+[Result "*"]
+
+*BLACK:
+Final Board:
+[Event "GMFLEX"]
+[Site "local"]
+[Date "2020-12-20 15:24:39.314471"]
+[Round "?"]
+[White "White"]
+[Black "Black"]
+[Result "*"]
+
+*BLACK:
+Final Board:
+[Event "GMFLEX"]
+[Site "local"]
+[Date "2020-12-20 15:24:39.327437"]
+[Round "?"]
+[White "White"]
+[Black "Black"]
+[Result "*"]
+
+*BLACK:
+Final Board:
+[Event "GMFLEX"]
+[Site "local"]
+[Date "2020-12-20 15:24:39.339448"]
+[Round "?"]
+[White "White"]
+[Black "Black"]
+[Result "*"]
+
+*BLACK:
+Final Board:
+[Event "GMFLEX"]
+[Site "local"]
+[Date "2020-12-20 15:24:39.352368"]
+[Round "?"]
+[White "White"]
+[Black "Black"]
+[Result "*"]
+
+*BLACK:
+Final Board:
+[Event "GMFLEX"]
+[Site "local"]
+[Date "2020-12-20 15:24:39.363385"]
+[Round "?"]
+[White "White"]
+[Black "Black"]
+[Result "*"]
+
+*BLACK:
+Final Board:
+[Event "GMFLEX"]
+[Site "local"]
+[Date "2020-12-20 15:24:39.375353"]
+[Round "?"]
+[White "White"]
+[Black "Black"]
+[Result "*"]
+
+*BLACK:
+Final Board:
+[Event "GMFLEX"]
+[Site "local"]
+[Date "2020-12-20 15:24:39.389313"]
+[Round "?"]
+[White "White"]
+[Black "Black"]
+[Result "*"]
+
+*BLACK:
+Final Board:
+[Event "GMFLEX"]
+[Site "local"]
+[Date "2020-12-20 15:24:39.400324"]
+[Round "?"]
+[White "White"]
+[Black "Black"]
+[Result "*"]
+
+*BLACK:
+Final Board:
+[Event "GMFLEX"]
+[Site "local"]
+[Date "2020-12-20 15:24:39.411299"]
+[Round "?"]
+[White "White"]
+[Black "Black"]
+[Result "*"]
+
+*BLACK:
+Final Board:
+[Event "GMFLEX"]
+[Site "local"]
+[Date "2020-12-20 15:24:39.421330"]
+[Round "?"]
+[White "White"]
+[Black "Black"]
+[Result "*"]
+
+*BLACK:
+Final Board:
+[Event "GMFLEX"]
+[Site "local"]
+[Date "2020-12-20 15:24:39.433305"]
+[Round "?"]
+[White "White"]
+[Black "Black"]
+[Result "*"]
+
+*BLACK:
+Final Board:
+[Event "GMFLEX"]
+[Site "local"]
+[Date "2020-12-20 15:24:39.444276"]
+[Round "?"]
+[White "White"]
+[Black "Black"]
+[Result "*"]
+
+*BLACK:
+Final Board:
+[Event "GMFLEX"]
+[Site "local"]
+[Date "2020-12-20 15:24:39.455252"]
+[Round "?"]
+[White "White"]
+[Black "Black"]
+[Result "*"]
+
+*BLACK:
+Final Board:
+[Event "GMFLEX"]
+[Site "local"]
+[Date "2020-12-20 15:24:39.466004"]
+[Round "?"]
+[White "White"]
+[Black "Black"]
+[Result "*"]
+
+*BLACK:
+Final Board:
+[Event "GMFLEX"]
+[Site "local"]
+[Date "2020-12-20 15:24:39.475976"]
+[Round "?"]
+[White "White"]
+[Black "Black"]
+[Result "*"]
+
+*BLACK:
+Final Board:
+[Event "GMFLEX"]
+[Site "local"]
+[Date "2020-12-20 15:24:39.483955"]
+[Round "?"]
+[White "White"]
+[Black "Black"]
+[Result "*"]
+
+*BLACK:
+Final Board:
+[Event "GMFLEX"]
+[Site "local"]
+[Date "2020-12-20 15:24:39.488973"]
+[Round "?"]
+[White "White"]
+[Black "Black"]
+[Result "*"]
+
+*BLACK:
+Final Board:
+[Event "GMFLEX"]
+[Site "local"]
+[Date "2020-12-20 15:24:39.492965"]
+[Round "?"]
+[White "White"]
+[Black "Black"]
+[Result "*"]
+
+*BLACK:
+Final Board:
+[Event "GMFLEX"]
+[Site "local"]
+[Date "2020-12-20 15:24:39.497949"]
+[Round "?"]
+[White "White"]
+[Black "Black"]
+[Result "*"]
+
+*BLACK:
+Final Board:
+[Event "GMFLEX"]
+[Site "local"]
+[Date "2020-12-20 15:24:39.501087"]
+[Round "?"]
+[White "White"]
+[Black "Black"]
+[Result "*"]
+
+*BLACK:
+Final Board:
+[Event "GMFLEX"]
+[Site "local"]
+[Date "2020-12-20 15:24:39.505930"]
+[Round "?"]
+[White "White"]
+[Black "Black"]
+[Result "*"]
+
+*

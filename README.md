@@ -1,9 +1,10 @@
 # GrandmasterFLEX
 
 <img width=600px src="https://raw.githubusercontent.com/Encryptic1/twitchchess/master/m1.PNG" />
-Agent will selfplay | PVC | PVP with board assist
+*************************************************************
+**Agent will selfplay | PVC | PVP with board assist**
 
-**modded conv2D & Data generator/pgn parcer from git https://github.com/geohot/twitchchess**
+modded conv2D & Data generator/pgn parcer from git https://github.com/geohot/twitchchess
 *************************************************************
 - Added more HTML feeback and colorized console, added more exceptions and feedback in waiting.
 - curbed learning rate for larger datasets (adam was getting spikey on batches)
@@ -73,7 +74,7 @@ pip install torch===1.7.1+cu110 torchvision===0.8.2+cu110 torchaudio===0.7.2 -f 
 
 
 ```
-git clone repository
+git clone https://github.com/Encryptic1/GrandmasterFLEX.git
 ```
 Install dependancies:
 ```
@@ -82,7 +83,8 @@ pip install -r requirements.txt
 *************************************************************
 **Building the data (required):**
 
-You will have to build your own training sets as .npz they are too big to upload 
+You will have to build your own training sets as .npz they are too big to upload to github. Comment if you needa large batch and ill try to get them to you. 
+
 Start by grabbing your favorite GM games from https://www.pgnmentor.com/files.html you will need alot of them to get any sort of capable AI
 
 you will have to click on generate training set once you have entered the number of examples to use (defult 10M). The QTwindow will freeze but the shell will report progress (this may take a while depending on your inputs for size)
@@ -90,7 +92,7 @@ you will have to click on generate training set once you have entered the number
 **Running the application**
 for (generating dataset/playing/using model/UI)
 ```
-cd dir*
+cd ./GrandmaserFLEX
 python grandmaster.py
 ```
 *************************************************************

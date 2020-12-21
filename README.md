@@ -6,7 +6,7 @@
 
 modded conv2D & Data generator/pgn parcer from git https://github.com/geohot/twitchchess
 *************************************************************
-- Added more HTML feeback and colorized console, added more exceptions and feedback in waiting.
+- Added more feeback and colorized console, added more exceptions and feedback in waiting.
 - curbed learning rate for larger datasets (adam was getting spikey on batches)
 - trained on grandmaster games to .017% loss rate saved to new net
 - built in replies from PyQt5 and a game posting function
@@ -18,12 +18,12 @@ modded conv2D & Data generator/pgn parcer from git https://github.com/geohot/twi
 
 Its still a bit buggy interface but: 
 - Undo move is not currently working
-- games will automatically save as pgn in ./traininggames 
+- games will automatically save as pgn in ./TrainingGames 
 - new game will rest the board
 - selfplay will do its thing for you
 - You should be able to make moves then activate the agent on the board position (err when node not found)
 
-<img width=600px src="https://raw.githubusercontent.com/Encryptic1/twitchchess/master/hm1.PNG" />
+<img width=600px src="https://raw.githubusercontent.com/Encryptic1/GrandmasterFLEX/main/train1.PNG" />
 
 human play will give both shell and html feedack
 - while the program is exploing leaves any input will cause a break
@@ -35,15 +35,17 @@ MAKE SURE:
 you need to make a folder called TrainingGames in the root directory for game dumps and for generating training set.
 *************************************************************
 
-	TODO:
-	- selftrain set
-	-  add policy condition(make utility move) for tie values, in lategame the bot plays safe. wheres the aggro?
-    - remove hacky pickling and integrate the variables for (state,round/lastmove) into attribute of class methods
+TODO:
+- selftrain set
+-  add policy condition(make utility move) for tie values, in lategame the bot plays safe. wheres the aggro?
+- remove hacky pickling and integrate the variables for (state,round/lastmove) into attribute of class methods
 
-    CNN config
-    - added LR to optimizer and batch sheduler.
-    - learning rate spiking due to adam batching need to control and reduce learning rate on the larger than 5million example sets
-    -25m example set failed to find global min. gradent decent is a possability even though adam is more efficient
+
+CNN config
+- added LR to optimizer and batch sheduler.
+- learning rate spiking due to adam batching need to control and reduce learning rate on the larger than 5million example sets
+-25m example set failed to find global min. gradent decent is a possability even though adam is more efficient
+- Improved validation and testing. Right now if tests high and preforms lower. retraining by playing will decrease global min but very slowly (retrain every 100 games against model)
 
 *************************************************************
 ## USAGE: 

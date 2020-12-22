@@ -1,7 +1,7 @@
 # GrandmasterFLEX
 
 First of all thanks for checking out the repo:
-<img width=450px src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fknowyourmeme.com%2Fmemes%2Foutstanding-move-maravillosa-jugada&psig=AOvVaw3ace69n8fti7-rZsfk9vb_&ust=1608678795860000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCLCYiuWZ4O0CFQAAAAAdAAAAABAK" />
+<img width=450px src="https://i.kym-cdn.com/entries/icons/mobile/000/027/838/Untitled-1.jpg" />
 
 **Agent will selfplay | PVC | PVP with board assist**
 

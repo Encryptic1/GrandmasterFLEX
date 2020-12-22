@@ -1,6 +1,7 @@
 # GrandmasterFLEX
 
-<img width=600px src="https://raw.githubusercontent.com/Encryptic1/twitchchess/master/m1.PNG" />
+First of all thanks for checking out the repo:
+<img width=450px src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fknowyourmeme.com%2Fmemes%2Foutstanding-move-maravillosa-jugada&psig=AOvVaw3ace69n8fti7-rZsfk9vb_&ust=1608678795860000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCLCYiuWZ4O0CFQAAAAAdAAAAABAK" />
 
 **Agent will selfplay | PVC | PVP with board assist**
 
@@ -14,7 +15,7 @@ modded conv2D & Data generator/pgn parcer from git https://github.com/geohot/twi
 	- Randomized first move in selfplay for training sets. commented out original
 - debugged UI a bit
 
-<img width=600px src="https://raw.githubusercontent.com/Encryptic1/twitchchess/master/m2.PNG" />
+
 
 Its still a bit buggy interface but: 
 - Undo move is not currently working
@@ -23,7 +24,6 @@ Its still a bit buggy interface but:
 - selfplay will do its thing for you
 - You should be able to make moves then activate the agent on the board position (err when node not found)
 
-<img width=600px src="https://raw.githubusercontent.com/Encryptic1/GrandmasterFLEX/main/train1.PNG" />
 
 human play will give both shell and html feedack
 - while the program is exploing leaves any input will cause a break
@@ -108,7 +108,24 @@ be sure to use the mane of the training set you either generated or want to use 
 ```
 dat = np.load("processed/dataset_**********_EX.npz")
 ```
-you will be prompted to enter the number of epochs you want to use in a non decimal int() dtype. The training will commense and you will see "Model trained" when finished.
+You may also want to adjust the batch size and learning rate accordingly
+in lines 88 & 90 train.py
+```
+88 train_loader = torch.utils.data.DataLoader(chess_dataset, batch_size=1024, shuffle=True)
+90 optimizer = optim.Adam(model.parameters(),lr=0.0001)
+```
+- if batch size = 2048 then Learning rate = 0.0001 (best results ive had, smooth loss curve)
+- if batch size = 1024 then Learning rate = 0.00001
+- if batch size = 512 then Learning rate = 0.000001 (not recommended)
+- if batch size = 256 then Learning rate = 0.0000001 (Very not recommended)
+
+A greater batch size will yeild a faster train and a better global minimum you just need the VRAM. 
+Ive had the best results with batch_size=2048 @ Learning_Rate=0.0001 on 30 Epochs training on 10Million examples.
+
+**Visdom and Shell:**
+<img width=600px src="https://raw.githubusercontent.com/Encryptic1/GrandmasterFLEX/main/train1.PNG" />
+you will be prompted to enter the number of epochs you want to use in a non decimal int() dtype. The training will commense and you will see "GrandmasterFlex Trained" when finished.
+
 *************************************************************
 **Playing the Model:**
 ```

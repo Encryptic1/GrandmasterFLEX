@@ -18,8 +18,7 @@ modded conv2D & Data generator/pgn parcer from git https://github.com/geohot/twi
 
 
 
-Its still a bit buggy interface but: 
-- Undo move is not currently working
+The interface is still a bit buggy but: 
 - games will automatically save as pgn in ./TrainingGames 
 - new game will rest the board
 - selfplay will do its thing for you
@@ -33,7 +32,7 @@ human play will give both shell and html feedack
 
 *************************************************************
 MAKE SURE: 
-you need to make a folder called TrainingGames in the root directory for game dumps and for generating training set.
+you need to make a folder called TrainingGames in the root directory for game dumps and for generating training set. Or edit to your liking in grandmaster.py
 *************************************************************
 
 TODO:

@@ -5,6 +5,7 @@ First of all thanks for checking out the repo:
 <img width=450px src="https://i.kym-cdn.com/entries/icons/mobile/000/027/838/Untitled-1.jpg" />
 
 **Agent will selfplay | PVC | PVP with board assist**
+<br />
 What does it really do:
 - Play chess vs Stockfish or {{your engine here}} save games to pgn and use for training 
 - Save game data and use for training network.

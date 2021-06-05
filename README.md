@@ -5,12 +5,17 @@ First of all thanks for checking out the repo:
 <img width=450px src="https://i.kym-cdn.com/entries/icons/mobile/000/027/838/Untitled-1.jpg" />
 
 **Agent will selfplay | PVC | PVP with board assist**
+What does it really do:
+- Play chess vs Stockfish or {{your engine here}} save games to pgn and use for training 
+- Save game data and use for training network.
+- Visualize training loss and allows for automated re-training cycles
+- move suggestion based on board position
+
 
 modded conv2D & Data generator/pgn parcer from git https://github.com/geohot/twitchchess
 *************************************************************
 - Added more feeback and colorized console, added more exceptions and feedback in waiting.
 - curbed learning rate for larger datasets (adam was getting spikey on batches)
-- trained on grandmaster games to .017% loss rate saved to new net
 - built in replies from PyQt5 and a game posting function
 - built log for saving to TrainingGames/ and post()
 	- Randomized first move in selfplay for training sets. commented out original

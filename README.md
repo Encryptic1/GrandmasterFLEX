@@ -1,6 +1,7 @@
 # GrandmasterFLEX
 
 First of all thanks for checking out the repo:
+<br />
 <img width=450px src="https://i.kym-cdn.com/entries/icons/mobile/000/027/838/Untitled-1.jpg" />
 
 **Agent will selfplay | PVC | PVP with board assist**
